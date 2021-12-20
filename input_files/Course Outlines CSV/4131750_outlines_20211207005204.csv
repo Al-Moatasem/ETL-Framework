@@ -1,0 +1,17 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+4131750,27106370,1,Introduction,00:37,lecture,1,Environment Setup,1
+4131750,27106396,2,Installing Python,03:38,lecture,2,Environment Setup,1
+4131750,27106400,3,Updating Pip,04:55,lecture,3,Environment Setup,1
+4131750,27106412,4,Installing Visual Studio Code,06:00,lecture,4,Environment Setup,1
+4131750,27106418,5,Installing a virtual environment tool,04:49,lecture,5,Environment Setup,1
+4131750,27106420,6,Create and activate a virtual environment,04:19,lecture,6,Environment Setup,1
+4131750,27106424,7,Installing Beautiful Soup,05:49,lecture,7,Environment Setup,1
+4131750,27106430,8,The Target Website,04:04,lecture,1,Extracting Data From The Web,2
+4131750,27106442,9,Building web scraping script: Part 1,06:35,lecture,2,Extracting Data From The Web,2
+4131750,27106448,10,Building web scraping script: Part 2,06:35,lecture,3,Extracting Data From The Web,2
+4131750,27106450,11,Prototyping the script: Part 1,06:23,lecture,4,Extracting Data From The Web,2
+4131750,27106454,12,Prototyping the script: Part 2,04:06,lecture,5,Extracting Data From The Web,2
+4131750,27106458,13,Prototyping the script: Part 3,07:02,lecture,6,Extracting Data From The Web,2
+4131750,27106460,14,Prototyping the script: Part 4,06:36,lecture,7,Extracting Data From The Web,2
+4131750,27106462,15,Prototyping the script: Part 5,11:37,lecture,8,Extracting Data From The Web,2
+4131750,27106476,16,Extracting the data,06:26,lecture,9,Extracting Data From The Web,2

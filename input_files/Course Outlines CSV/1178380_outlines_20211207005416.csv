@@ -1,0 +1,19 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1178380,6870150,1,Introduction,02:21,lecture,1,Database Setup,1
+1178380,6873276,2,Download Oracle Database,06:25,lecture,2,Database Setup,1
+1178380,6873278,3,Install Oracle Database,05:48,lecture,3,Database Setup,1
+1178380,6873280,4,Unlock  Sample Schema and Tables,03:30,lecture,4,Database Setup,1
+1178380,6873284,5,Download TOAD,05:29,lecture,5,Database Setup,1
+1178380,6873286,6,Install TOAD,03:33,lecture,6,Database Setup,1
+1178380,6873304,7,Connecting to Database,08:11,lecture,7,Database Setup,1
+1178380,6873308,8,Database Concepts - Part 1,04:31,lecture,8,Database Setup,1
+1178380,6873310,9,Database Concepts - Part 2,10:16,lecture,9,Database Setup,1
+1178380,6873316,10,Viewing the structure of a table,03:18,lecture,10,Database Setup,1
+1178380,6873318,11,Understanding  Views,11:02,lecture,11,Database Setup,1
+1178380,6873330,12,Introduction,04:11,lecture,1,Extracting Data from multiple tables using Table Joins,2
+1178380,6873334,13,Equi Join,07:46,lecture,2,Extracting Data from multiple tables using Table Joins,2
+1178380,6873338,14,Non -Equi Join,07:26,lecture,3,Extracting Data from multiple tables using Table Joins,2
+1178380,6873340,15,Catesian Join,06:19,lecture,4,Extracting Data from multiple tables using Table Joins,2
+1178380,6873342,16,Outer Join,08:14,lecture,5,Extracting Data from multiple tables using Table Joins,2
+1178380,6873344,17,Self Join,09:53,lecture,6,Extracting Data from multiple tables using Table Joins,2
+1178380,26918128,18,Thank You,00:09,lecture,7,Extracting Data from multiple tables using Table Joins,2

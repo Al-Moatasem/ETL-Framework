@@ -1,0 +1,17 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+757122,4797046,1,Introduction,03:50,lecture,1,Getting Started,1
+757122,4798890,2,What is MySQL,03:08,lecture,2,Getting Started,1
+757122,4798912,3,Database Concepts,04:57,lecture,3,Getting Started,1
+757122,4798900,4,Downloading and Installing MySQL,12:17,lecture,4,Getting Started,1
+757122,4798904,5,What is MySQL Workbench,06:14,lecture,5,Getting Started,1
+757122,4798932,6,Introduction To MySQL SELECT Statement,09:52,lecture,6,Getting Started,1
+757122,236918,1,MySQL Basics,7 questions,quiz,7,Getting Started,1
+757122,4817198,7,MySQL ORDER BY,09:14,lecture,1,MYSQL DATA MANIPULATION,2
+757122,4817200,8,MySQL WHERE,08:32,lecture,2,MYSQL DATA MANIPULATION,2
+757122,4817202,9,MySQL LIMIT,06:18,lecture,3,MYSQL DATA MANIPULATION,2
+757122,4817204,10,MySQL DISTINCT,06:48,lecture,4,MYSQL DATA MANIPULATION,2
+757122,4817206,11,MySQL IN,08:38,lecture,5,MYSQL DATA MANIPULATION,2
+757122,4824050,12,MySQL BETWEEN Operator,06:38,lecture,6,MYSQL DATA MANIPULATION,2
+757122,4824052,13,MySQL LIKE Operator,10:59,lecture,7,MYSQL DATA MANIPULATION,2
+757122,4824054,14,MySQL UNION Operator,08:05,lecture,8,MYSQL DATA MANIPULATION,2
+757122,26889314,15,Thank You,00:09,lecture,9,MYSQL DATA MANIPULATION,2

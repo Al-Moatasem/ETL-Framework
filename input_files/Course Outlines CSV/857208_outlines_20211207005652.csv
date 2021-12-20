@@ -1,0 +1,14 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+857208,5343326,1,Introduction,02:33,lecture,1,Introduction,1
+857208,5343328,2,What is Big Data,02:43,lecture,2,Introduction,1
+857208,5343330,3,What  is High Volume,03:03,lecture,3,Introduction,1
+857208,5343332,4,What is High Variety,03:22,lecture,4,Introduction,1
+857208,5343348,5,What is High Velocity,03:10,lecture,5,Introduction,1
+857208,5343362,6,Introduction to the Google Approach,00:33,lecture,1,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,5343368,7,What is a cluster,00:56,lecture,2,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,5343372,8,What is a Node,01:29,lecture,3,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,5343376,9,The Google File System -GFS,01:38,lecture,4,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,5343380,10,Google's Big Table,03:35,lecture,5,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,5343382,11,What is MapReduce,06:14,lecture,6,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,5343384,12,Introduction To Apache Hadoop,02:41,lecture,7,Google's Big Data Approach  | Introduction To Hadoop,2
+857208,26889452,13,Thank You,00:09,lecture,8,Google's Big Data Approach  | Introduction To Hadoop,2

@@ -1,0 +1,18 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+3680900,23663442,1,Introduction,01:19,lecture,1,Setting Up Oracle Database 18c,1
+3680900,23663634,2,What is SQL,03:38,lecture,2,Setting Up Oracle Database 18c,1
+3680900,23663458,3,Download and Install Oracle,07:59,lecture,3,Setting Up Oracle Database 18c,1
+3680900,23663462,4,What is SQLPlus,03:23,lecture,4,Setting Up Oracle Database 18c,1
+3680900,23663464,5,Unlock Sample Schema,05:29,lecture,5,Setting Up Oracle Database 18c,1
+3680900,23663472,6,Install Oracle Developer,05:49,lecture,6,Setting Up Oracle Database 18c,1
+3680900,23663476,7,Connect to Oracle Database,04:27,lecture,7,Setting Up Oracle Database 18c,1
+3680900,23663630,8,Database concepts,08:57,lecture,8,Setting Up Oracle Database 18c,1
+3680900,23663592,9,Determine total employees,03:27,lecture,1,Practical Real World SQL Queries,2
+3680900,23663602,10,Update employee salaries,11:07,lecture,2,Practical Real World SQL Queries,2
+3680900,23663612,11,How to produce a report of employee salaries,09:40,lecture,3,Practical Real World SQL Queries,2
+3680900,23663618,12,Add new record into database,09:12,lecture,4,Practical Real World SQL Queries,2
+3680900,23663626,13,How to create a new table,07:42,lecture,5,Practical Real World SQL Queries,2
+3680900,23663620,14,Delete record from database,05:11,lecture,6,Practical Real World SQL Queries,2
+3680900,23663640,15,How to produce a report of hire date,12:44,lecture,7,Practical Real World SQL Queries,2
+3680900,23665976,16,Generate a report of employee job title and salary,08:53,lecture,8,Practical Real World SQL Queries,2
+3680900,26992310,17,Thank You,00:09,lecture,9,Practical Real World SQL Queries,2

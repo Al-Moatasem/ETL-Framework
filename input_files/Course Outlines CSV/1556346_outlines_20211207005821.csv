@@ -1,0 +1,16 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1556346,9452808,1,Introduction,02:26,lecture,1,Introduction,1
+1556346,9452828,2,Course Overview,02:02,lecture,2,Introduction,1
+1556346,9452848,3,Quick and Important Note,00:49,lecture,3,Introduction,1
+1556346,9453698,4,Before Delegation - Step 1: Determine What to Delegate,02:32,lecture,1,Before Delegation,2
+1556346,9453716,5,Before Delegation - Step 2: Determine Who to Delegate To,01:55,lecture,2,Before Delegation,2
+1556346,9453790,6,During Delegation - Step 1: Explain the Task Clearly,02:32,lecture,1,During Delegation,3
+1556346,9453810,7,"During Delegation - Step 2: Describe Goals, Not Actions",03:00,lecture,2,During Delegation,3
+1556346,9453820,8,During Delegation - Step 3: Give a Clear Timeline,02:21,lecture,3,During Delegation,3
+1556346,9453834,9,During Delegation - Step 4: Describe the Authority Level,03:03,lecture,4,During Delegation,3
+1556346,9453856,10,During Delegation - Step 5: Put it in Writing,05:28,lecture,5,During Delegation,3
+1556346,9453864,11,After Delegation - Step 1: Check In,01:49,lecture,1,After Delegation,4
+1556346,9453870,12,After Delegation - Step 2: Give Meaningful Feedback,02:20,lecture,2,After Delegation,4
+1556346,9453876,13,Course Summary,02:08,lecture,1,Conclusion,5
+1556346,9453878,14,Conclusion: Thank you and Next Steps,00:25,lecture,2,Conclusion,5
+1556346,15627594,15,Bonus Lecture: Free Delegation Resource (1-page PDF),02:10,lecture,3,Conclusion,5

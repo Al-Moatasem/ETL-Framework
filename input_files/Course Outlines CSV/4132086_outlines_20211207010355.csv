@@ -1,0 +1,16 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+4132086,27108804,1,Introduction,00:33,lecture,1,Microsoft SQL Server Database  Setup,1
+4132086,27108810,2,What is SQL Server,02:57,lecture,2,Microsoft SQL Server Database  Setup,1
+4132086,27108814,3,Hardware and software requirements,04:21,lecture,3,Microsoft SQL Server Database  Setup,1
+4132086,27108816,4,SQL Server Editions,04:45,lecture,4,Microsoft SQL Server Database  Setup,1
+4132086,27108818,5,Download SQL Server,04:31,lecture,5,Microsoft SQL Server Database  Setup,1
+4132086,27108820,6,Install SQL Server,09:43,lecture,6,Microsoft SQL Server Database  Setup,1
+4132086,27108822,7,Install SSMS,05:48,lecture,7,Microsoft SQL Server Database  Setup,1
+4132086,27108824,8,Connecting to SQL Server with SSMS,07:46,lecture,8,Microsoft SQL Server Database  Setup,1
+4132086,27108908,9,Database Concepts,04:31,lecture,9,Microsoft SQL Server Database  Setup,1
+4132086,27108828,10,Create and configure a new database,16:23,lecture,1,Creating Databases and Tables,2
+4132086,27108840,11,Create a table,15:25,lecture,2,Creating Databases and Tables,2
+4132086,27108854,12,Entering data into table with SSMS,05:42,lecture,3,Creating Databases and Tables,2
+4132086,27108848,13,Editing table structure,03:27,lecture,4,Creating Databases and Tables,2
+4132086,27108842,14,Create table from a flat file,08:14,lecture,5,Creating Databases and Tables,2
+4132086,27108858,15,Importing data from csv file,12:09,lecture,6,Creating Databases and Tables,2

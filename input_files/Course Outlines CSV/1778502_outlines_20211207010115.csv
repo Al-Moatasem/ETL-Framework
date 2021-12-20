@@ -1,0 +1,556 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1778502,16606448,1,Intro to the Course. What's coming up?,04:02,lecture,1,Getting Started with iOS Development and Swift 5,1
+1778502,16250624,2,Download the Course Syllabus,00:11,lecture,2,Getting Started with iOS Development and Swift 5,1
+1778502,16250884,3,The Giant List of Resources,00:14,lecture,3,Getting Started with iOS Development and Swift 5,1
+1778502,16250850,4,How does an App Work?,07:47,lecture,4,Getting Started with iOS Development and Swift 5,1
+1778502,16250858,5,How to Make an App,08:36,lecture,5,Getting Started with iOS Development and Swift 5,1
+1778502,16250776,6,How to Get All the Free Stuff,01:09,lecture,6,Getting Started with iOS Development and Swift 5,1
+1778502,16250808,7,Download your Massive Bundle of Assets,00:30,lecture,7,Getting Started with iOS Development and Swift 5,1
+1778502,16250838,8,Download the 12 Rules to Learn to Code eBook PDF,00:40,lecture,8,Getting Started with iOS Development and Swift 5,1
+1778502,16250874,9,How to Make the Most of the Bootcamp,06:45,lecture,9,Getting Started with iOS Development and Swift 5,1
+1778502,16250882,10,How to Get Help When You're Stuck,06:40,lecture,10,Getting Started with iOS Development and Swift 5,1
+1778502,16583120,11,Can I use Windows to develop iOS apps? (and other FAQs),01:06,lecture,11,Getting Started with iOS Development and Swift 5,1
+1778502,16250896,12,Developing for iOS - Tools and Materials,09:59,lecture,12,Getting Started with iOS Development and Swift 5,1
+1778502,16250900,13,Getting set up with Xcode,04:17,lecture,13,Getting Started with iOS Development and Swift 5,1
+1778502,16250920,14,Pathfinder,02:09,lecture,14,Getting Started with iOS Development and Swift 5,1
+1778502,16250978,15,The I am Rich App,02:57,lecture,1,Xcode Storyboards and Interface Builder,2
+1778502,17076458,16,A Note About the Next Lesson,00:32,lecture,2,Xcode Storyboards and Interface Builder,2
+1778502,16250984,17,Let's Create a Brand New Xcode Project,05:30,lecture,3,Xcode Storyboards and Interface Builder,2
+1778502,16250992,18,A Walkthrough of the Xcode Development Environment,14:12,lecture,4,Xcode Storyboards and Interface Builder,2
+1778502,16250994,19,Let's Design the User Interface!,16:42,lecture,5,Xcode Storyboards and Interface Builder,2
+1778502,16250998,20,Let's Incorporate Some Image Assets,10:35,lecture,6,Xcode Storyboards and Interface Builder,2
+1778502,16251000,21,How to Design and Add an App Icon,09:09,lecture,7,Xcode Storyboards and Interface Builder,2
+1778502,16597298,22,A Note About the Next Lesson,00:14,lecture,8,Xcode Storyboards and Interface Builder,2
+1778502,16251002,23,Run Your App on Your iPhone or Simulator,13:03,lecture,9,Xcode Storyboards and Interface Builder,2
+1778502,16251006,24,Join the Student Community,00:25,lecture,10,Xcode Storyboards and Interface Builder,2
+1778502,21523580,25,How to Ace this Course,01:24,lecture,11,Xcode Storyboards and Interface Builder,2
+1778502,16251044,26,What You Will Create,00:15,lecture,1,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251048,27,Step 1: Create a New Xcode Project,00:15,lecture,2,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251052,28,Step 2: Add a Label Element from the Object Library,00:17,lecture,3,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251056,29,Step 3: Add an Image View to the Storyboard,00:18,lecture,4,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251058,30,Step 4: Add an App Icon,00:18,lecture,5,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251062,31,Step 5: Run Your App,00:24,lecture,6,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251066,32,Step 6: Show off your work!,00:19,lecture,7,Xcode Storyboard and Interface Builder Challenge,3
+1778502,18001115,33,Tip from Angela - Habit Building with the Calendar Trick,02:52,lecture,8,Xcode Storyboard and Interface Builder Challenge,3
+1778502,16251572,34,What You'll Make by the End of This Module,01:59,lecture,1,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251580,35,Cloning from GitHub and How to Download the L.A.B. Project Stubs,08:47,lecture,2,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251586,36,How to Design Your App,09:34,lecture,3,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251596,37,Let's Link Our Design to Our Code,22:52,lecture,4,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251598,38,Responding to User Interactions with IBActions,08:30,lecture,5,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,17090630,39,"Bug Hint ?Thread 1: signal SIGABRT and ""Not Key Value Coding Compliant""",00:31,lecture,6,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251750,40,"[Swift Deep Dive] Naming Conventions, Commenting and String Interpolation",09:20,lecture,7,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251634,41,Storing Data using Variables and Arrays,16:54,lecture,8,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251650,42,[Swift Deep Dive] Variables,07:50,lecture,9,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,5037092,1,[Coding Exercise] Variables,1 question,quiz,10,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251656,43,[Swift Deep Dive] Arrays,06:16,lecture,11,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,5037320,2,[Code Exercise] Arrays,1 question,quiz,12,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251674,44,How to Randomise the Dice Images,14:38,lecture,13,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251704,45,"?How to Solve the Error: ""Maximum number of apps for free development reached""",00:41,lecture,14,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251716,46,"[Swift Deep Dive] Constants, the Range Operator and Randomisation",14:56,lecture,15,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,5037326,3,[Code Exercise] Constants,1 question,quiz,16,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,5037334,4,[Code Exercise] Randomisation,1 question,quiz,17,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251722,47,Download the Completed App Project,00:17,lecture,18,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16251728,48,Do You Want This?,00:39,lecture,19,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,18001153,49,Tip from Angela - Dealing with Distractions,02:28,lecture,20,"Swift Programming Basics - Collections, Constants & Variables",4
+1778502,16252392,50,What You Will Create,00:34,lecture,1,Swift Programming Basics Challenge,5
+1778502,16252396,51,Step 1: Clone the Starting Project,00:09,lecture,2,Swift Programming Basics Challenge,5
+1778502,16252400,52,Step 2: Design the User Interface,00:42,lecture,3,Swift Programming Basics Challenge,5
+1778502,16252406,53,Step 3: Link Up the Design with Code,00:13,lecture,4,Swift Programming Basics Challenge,5
+1778502,16252410,54,Step 4: Use Code to Change the 8 Ball Image,00:58,lecture,5,Swift Programming Basics Challenge,5
+1778502,16252418,55,Step 5: Make the Ball Image Random,00:28,lecture,6,Swift Programming Basics Challenge,5
+1778502,16252424,56,Step 6: Show off your work!,00:09,lecture,7,Swift Programming Basics Challenge,5
+1778502,16252428,57,Download the Completed Project,00:17,lecture,8,Swift Programming Basics Challenge,5
+1778502,18001173,58,Tip from Angela - Nothing Easy is Worth Doing!,03:35,lecture,9,Swift Programming Basics Challenge,5
+1778502,16252628,59,Why do we need Auto Layout?,02:58,lecture,1,Auto Layout and Responsive UIs,6
+1778502,16252632,60,Size Classes Explained,06:34,lecture,2,Auto Layout and Responsive UIs,6
+1778502,16252634,61,Setting Constraints and working with the Safe Area,08:59,lecture,3,Auto Layout and Responsive UIs,6
+1778502,16252636,62,How to use Alignment and Pinning,05:52,lecture,4,Auto Layout and Responsive UIs,6
+1778502,16252642,63,Working with Containers and Subviews,06:49,lecture,5,Auto Layout and Responsive UIs,6
+1778502,16252646,64,Stack Views,10:27,lecture,6,Auto Layout and Responsive UIs,6
+1778502,16252650,65,Auto Layout (Optional) Boss Challenge,00:14,lecture,7,Auto Layout and Responsive UIs,6
+1778502,16252652,66,Download the Completed Project,00:34,lecture,8,Auto Layout and Responsive UIs,6
+1778502,16745018,67,Calculator Challenge Solution and Walkthrough,09:58,lecture,9,Auto Layout and Responsive UIs,6
+1778502,18001205,68,Tip from Angela - How to Deal with Procrastination,04:08,lecture,10,Auto Layout and Responsive UIs,6
+1778502,16252724,69,What You'll Make by the End of this Module,02:19,lecture,1,Using and Understanding Apple Documentation,7
+1778502,16252728,70,Setting up the Xylophone Project,04:46,lecture,2,Using and Understanding Apple Documentation,7
+1778502,16252730,71,The 5 Step Approach to Solve Any Programming Problem,24:41,lecture,3,Using and Understanding Apple Documentation,7
+1778502,16252732,72,[Swift Deep Dive] Functions and Scope,10:47,lecture,4,Using and Understanding Apple Documentation,7
+1778502,22547450,73,[Coding Exercise] Functions Part 1,00:19,lecture,5,Using and Understanding Apple Documentation,7
+1778502,16252736,74,Linking Multiple Buttons to the Same IBAction,10:10,lecture,6,Using and Understanding Apple Documentation,7
+1778502,16252740,75,[Swift Deep Dive] Functions with Inputs and Type Inference,09:54,lecture,7,Using and Understanding Apple Documentation,7
+1778502,5037428,5,[Coding Exercise] Functions Part 2,1 question,quiz,8,Using and Understanding Apple Documentation,7
+1778502,16252744,76,Playing Different Xylophone Sounds,04:30,lecture,9,Using and Understanding Apple Documentation,7
+1778502,16252746,77,Boss Challenge,00:43,lecture,10,Using and Understanding Apple Documentation,7
+1778502,16252750,78,Download the Completed App Project,00:17,lecture,11,Using and Understanding Apple Documentation,7
+1778502,18001255,79,Tip from Angela - Building a Programming Habit,02:46,lecture,12,Using and Understanding Apple Documentation,7
+1778502,16252786,80,What You'll Make by the End of this Module,00:47,lecture,1,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252792,81,Setting up the Egg Timer Project and Linking the Storyboard and ViewController,09:35,lecture,2,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252798,82,[Swift Deep Dive] If-Else Control Flow,12:28,lecture,3,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,5037436,6,[Coding Exercise] IF/ELSE,1 question,quiz,4,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252804,83,[Swift Deep Dive] Switch Statements,07:27,lecture,5,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,5037444,7,[Coding Exercise] Switch,1 question,quiz,6,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252812,84,Conditional Statements Challenge Solution,04:53,lecture,7,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252816,85,[Swift Deep Dive] Dictionaries,03:55,lecture,8,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,5037456,8,[Coding Exercise] Dictionaries,1 question,quiz,9,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252820,86,[Swift Deep Dive] Defining and Unwrapping Optionals,10:58,lecture,10,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,5037452,9,[Coding Exercise] Optionals,1 question,quiz,11,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252826,87,Dictionary Challenge Solution,06:17,lecture,12,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252840,88,Implementing a Countdown Timer Challenge,01:23,lecture,13,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252828,89,Egg Timer Challenge Solution,08:12,lecture,14,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252838,90,Showing the Timer to the User with a Progress View,05:39,lecture,15,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252844,91,Calculating the Progress Percentage,07:39,lecture,16,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252848,92,Using the 5 Step Approach to Debug our App,11:08,lecture,17,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252850,93,Download the Completed App Project,00:17,lecture,18,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,18002635,94,Tip from Angela - Set Your Expectations,02:35,lecture,19,Intermediate Swift Programming - Control Flow and Optionals,8
+1778502,16252906,95,What You'll Make by the End of this Module,01:17,lecture,1,iOS App Design Patterns and Code Structuring,9
+1778502,16252908,96,Setting up the Quizzler Project and Showing the Questions,11:02,lecture,2,iOS App Design Patterns and Code Structuring,9
+1778502,16252910,97,Checking Answers using 2-Dimensional Arrays,12:28,lecture,3,iOS App Design Patterns and Code Structuring,9
+1778502,16252914,98,"[Swift Deep Dive] Structures, Methods and Properties",23:01,lecture,4,iOS App Design Patterns and Code Structuring,9
+1778502,5037462,10,[Coding Exercise] Structures,1 question,quiz,5,iOS App Design Patterns and Code Structuring,9
+1778502,16252918,99,Creating a Question Struct,07:55,lecture,6,iOS App Design Patterns and Code Structuring,9
+1778502,16252922,100,Giving the User Feedback and working with a ProgressView,10:16,lecture,7,iOS App Design Patterns and Code Structuring,9
+1778502,16252924,101,Understand the MVC Design Pattern,07:57,lecture,8,iOS App Design Patterns and Code Structuring,9
+1778502,16252928,102,Implementing MVC and Understanding Parameter Names,09:47,lecture,9,iOS App Design Patterns and Code Structuring,9
+1778502,16252934,103,[Swift Deep Dive] Functions with Outputs and Return Types,05:53,lecture,10,iOS App Design Patterns and Code Structuring,9
+1778502,5037470,11,[Coding Exercise] Functions Part 3,1 question,quiz,11,iOS App Design Patterns and Code Structuring,9
+1778502,16252938,104,Refactoring to Implement the MVC Design Pattern,08:41,lecture,12,iOS App Design Patterns and Code Structuring,9
+1778502,16252940,105,[Swift Deep Dive] Immutability,07:29,lecture,13,iOS App Design Patterns and Code Structuring,9
+1778502,16252942,106,Using Mutating Functions to Track the Score,09:27,lecture,14,iOS App Design Patterns and Code Structuring,9
+1778502,16252944,107,Download the Completed App Project,00:17,lecture,15,iOS App Design Patterns and Code Structuring,9
+1778502,18002665,108,Tip from Angela - The 20 Minute Method,02:39,lecture,16,iOS App Design Patterns and Code Structuring,9
+1778502,16253100,109,What You'll Create,00:23,lecture,1,iOS App Design Pattern Challenge,10
+1778502,16253102,110,Step 1: Clone the Starting Project,00:35,lecture,2,iOS App Design Pattern Challenge,10
+1778502,16253104,111,Step 2: Update the storyLabel and Button Titles,00:36,lecture,3,iOS App Design Pattern Challenge,10
+1778502,16253106,112,Step 3: Create a Structure,00:32,lecture,4,iOS App Design Pattern Challenge,10
+1778502,16253108,113,Step 4: Update the Story,00:39,lecture,5,iOS App Design Pattern Challenge,10
+1778502,16253112,114,Step 5: Apply MVC,00:47,lecture,6,iOS App Design Pattern Challenge,10
+1778502,16253114,115,Step 6: Make the StoryBrain more Scalable,00:37,lecture,7,iOS App Design Pattern Challenge,10
+1778502,16253116,116,Step 7: Show off your Work!,00:09,lecture,8,iOS App Design Pattern Challenge,10
+1778502,16253118,117,Download the Completed App Project,00:17,lecture,9,iOS App Design Pattern Challenge,10
+1778502,18002711,118,Tip from Angela - Retrieval is How You Learn,02:52,lecture,10,iOS App Design Pattern Challenge,10
+1778502,16253370,119,What You'll Make by the End of this Module,01:23,lecture,1,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253374,120,Learn How to Use a UISlider,14:39,lecture,2,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253378,121,Using the UISliders to Calculate the BMI,06:42,lecture,3,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253380,122,[Swift Deep Dive] Classes and Inheritance,22:05,lecture,4,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253388,123,[Swift Deep Dive] Structs v.s. Classes,13:11,lecture,5,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253390,124,How to Use the Docs in Xcode and Create a Custom UIViewController Class,07:09,lecture,6,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253394,125,How to Create a UI Programatically and Pass Data between ViewControllers,13:07,lecture,7,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253400,126,Segues and Navigation for Multi-Screen Apps,24:58,lecture,8,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253402,127,Adopting MVC by Creating a CalculatorBrain,11:03,lecture,9,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253410,128,"[Swift Deep Dive] Optional Binding, Chaining, and the Nil Coalescing Operator",13:52,lecture,10,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253416,129,Use Optionals in Practice and Add the Finishing Touches with Colour Literals,22:01,lecture,11,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253418,130,Download the Completed App Project,00:17,lecture,12,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,18002763,131,Tip from Angela - Learning Before you Eat,02:06,lecture,13,"Advanced Swift Programming - Classes, Inheritance & Advanced Optionals",11
+1778502,16253434,132,What You'll Make,00:20,lecture,1,Advanced Swift Programming Challenge,12
+1778502,16253436,133,Step 1: Clone the Starting Project,00:33,lecture,2,Advanced Swift Programming Challenge,12
+1778502,16253438,134,Step 2: Create IBActions and IBOutlets for the Calculator Screen,00:24,lecture,3,Advanced Swift Programming Challenge,12
+1778502,16253440,135,Step 3: Create IBActions and IBOutlets for the Results Screen,00:32,lecture,4,Advanced Swift Programming Challenge,12
+1778502,16253446,136,Step 4: Figure out how much Tip to Apply,00:31,lecture,5,Advanced Swift Programming Challenge,12
+1778502,16253450,137,Step 5: Figure out how Many People to Split the Bill Between,00:24,lecture,6,Advanced Swift Programming Challenge,12
+1778502,16253456,138,Step 6: Calculate the Bill,00:35,lecture,7,Advanced Swift Programming Challenge,12
+1778502,16253460,139,Step 7: Pass the Result to the ResultsViewController,00:21,lecture,8,Advanced Swift Programming Challenge,12
+1778502,16253462,140,Download the Completed App Project,00:17,lecture,9,Advanced Swift Programming Challenge,12
+1778502,18002813,141,Tip from Angela - Dealing with Lack of Progress,03:08,lecture,10,Advanced Swift Programming Challenge,12
+1778502,16253648,142,What You'll Make by the End of This Module,01:43,lecture,1,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253650,143,Dark Mode and Working with Vector Assets,11:41,lecture,2,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253654,144,Learn to use the UITextField,20:05,lecture,3,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253658,145,[Swift Deep Dive] Protocols,19:52,lecture,4,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253662,146,The Delegate Design Pattern,11:51,lecture,5,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253668,147,An Example of Protocols and Delegates in Practice,17:39,lecture,6,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253670,148,Understanding the OpenWeather API and URL Parameters,16:58,lecture,7,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253674,149,Use the URLSession for Networking,18:16,lecture,8,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253680,150,[Swift Deep Dive] Closures,20:44,lecture,9,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253686,151,JSON Decoding,21:35,lecture,10,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253688,152,Create a WeatherModel and Understand Computed Properties,15:33,lecture,11,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253696,153,Typealiases and a Protocols and Delegate Challenge,10:54,lecture,12,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253698,154,[Swift Deep Dive] Internal and External Parameter Names,02:29,lecture,13,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253704,155,Method Naming Conventions and Error Handling,05:45,lecture,14,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253706,156,Updating the UI by Using the DispatchQueue,06:56,lecture,15,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253710,157,[Swift Deep Dive] Extensions and Default Implementations for Protocols,18:53,lecture,16,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253712,158,Using Extensions to Refactor the ViewController,06:29,lecture,17,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253720,159,Using CoreLocation to get Location Data,26:04,lecture,18,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253724,160,What is a Property List (.plist)?,00:37,lecture,19,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253732,161,Download the Completed App Project,00:17,lecture,20,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,18002841,162,Tip from Angela - Mixing Knowledge,02:20,lecture,21,"Networking, JSON Parsing, APIs and Core Location",13
+1778502,16253856,163,What You Will Make,00:37,lecture,1,Networking and API Challenge,14
+1778502,16253860,164,Step 1: Clone the Starting Project,00:02,lecture,2,Networking and API Challenge,14
+1778502,16253864,165,Step 2: UIPickerView Functionality,02:29,lecture,3,Networking and API Challenge,14
+1778502,17916368,166,Introducing coinapi.io,03:14,lecture,4,Networking and API Challenge,14
+1778502,16253866,167,Step 3: Make the API Request,00:45,lecture,5,Networking and API Challenge,14
+1778502,16253870,168,Step 4: Parse the JSON Data,00:33,lecture,6,Networking and API Challenge,14
+1778502,16253872,169,Step 5: Update the User Interface Using the Delegate Pattern,00:29,lecture,7,Networking and API Challenge,14
+1778502,16253874,170,Step 6: Refactor with Extensions,00:16,lecture,8,Networking and API Challenge,14
+1778502,16253876,171,Download the Completed App Project,00:17,lecture,9,Networking and API Challenge,14
+1778502,18002869,172,Tip from Angela - Dealing with Frustration,02:31,lecture,10,Networking and API Challenge,14
+1778502,16813258,173,What You'll Make by the End of this Module,02:28,lecture,1,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813262,174,Navigation Controller Stacks and Segues,14:09,lecture,2,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813264,175,"Typing Animations, Timers and For Loops",10:52,lecture,3,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813270,176,[Swift Deep Dive] Loops,17:24,lecture,4,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,4737244,12,Loops Coding Exercise,1 question,quiz,5,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16840118,177,Fibonacci Solution Code File,00:13,lecture,6,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813276,178,Introduction to 3rd Party Libaries,05:54,lecture,7,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813286,179,Cocoapods Installation Instructions,08:38,lecture,8,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813288,180,How to Install a Pod to your Project,07:21,lecture,9,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813290,181,Potential Problems with Pod Installation,09:10,lecture,10,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813292,182,How to use the CLTypingLabel Pod,08:25,lecture,11,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813294,183,How to Choose your Package Manager,05:06,lecture,12,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813300,184,Adding Firebase to your Project,09:53,lecture,13,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813304,185,Registering New Users,15:20,lecture,14,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813308,186,Logging in Existing Users,08:12,lecture,15,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813312,187,Logging Out Users,09:43,lecture,16,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813320,188,Using a Constants File and Understanding the static Keyword,11:03,lecture,17,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813324,189,How to use a UITableView and Create a Message Model,17:51,lecture,18,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813328,190,Customising Cells in a TableView using a .xib File,13:24,lecture,19,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813332,191,[Swift Deep Dive] Casting as? as! as is and understanding Any,24:48,lecture,20,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813336,192,Database setup and Saving Data to Firestore,17:17,lecture,21,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813342,193,Retrieving Data from Firestore,15:14,lecture,22,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813344,194,Listening for Updates on Firestore,04:50,lecture,23,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813354,195,How to Sort Data retrieved from Firestore,07:43,lecture,24,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813356,196,How to Manage the Keyboard and use the Swift Package Manager,14:22,lecture,25,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813360,197,Finishing Touches: UI and UX Improvements,26:06,lecture,26,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813364,198,The ViewController Lifecycle Explained,10:52,lecture,27,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,16813366,199,The App Lifecycle Methods Explained,10:46,lecture,28,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,18002985,200,Download the Completed App Project,00:17,lecture,29,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,18002909,201,Tip from Angela - Sleep is My Secret Weapon,03:48,lecture,30,"Firebase Cloud Firestore, TableViews and Cocoapod Dependencies",15
+1778502,10929222,202,Introduction to the Command Line,06:53,lecture,1,The Command Line and Terminal,16
+1778502,10929224,203,Command Line Shortcuts,12:52,lecture,2,The Command Line and Terminal,16
+1778502,10929226,204,Directory and File Manipulation Using the Command Line + Bonus,10:40,lecture,3,The Command Line and Terminal,16
+1778502,16254084,205,What is SwiftUI?,09:00,lecture,1,SwiftUI and Declarative Programming,17
+1778502,16254090,206,How to Build a SwiftUI App from Scratch,13:57,lecture,2,SwiftUI and Declarative Programming,17
+1778502,16254092,207,Download the Completed I am Rich SwiftUI Project,00:17,lecture,3,SwiftUI and Declarative Programming,17
+1778502,16254096,208,How to Create Complex Designs and Layouts using SwiftUI,31:24,lecture,4,SwiftUI and Declarative Programming,17
+1778502,16254100,209,Bug Alert! Text Not Displaying Correctly in Dark Mode,00:20,lecture,5,SwiftUI and Declarative Programming,17
+1778502,16254102,210,Download the Completed MiCard SwiftUI Project,00:17,lecture,6,SwiftUI and Declarative Programming,17
+1778502,16254110,211,SwiftUI Dicee Part 1 - Designing a Layout using Spacers and Subviews,13:07,lecture,7,SwiftUI and Declarative Programming,17
+1778502,16254118,212,SwiftUI Dicee Part 2 - Building in Functionality and Managing State,07:31,lecture,8,SwiftUI and Declarative Programming,17
+1778502,16254120,213,Download the Completed Dicee SwiftUI Project,00:17,lecture,9,SwiftUI and Declarative Programming,17
+1778502,16254126,214,H4X0R News Part 1 - Understanding the List and Identifiable Protocol,12:36,lecture,10,SwiftUI and Declarative Programming,17
+1778502,16254130,215,H4X0R News Part 2 - Networking in SwiftUI,11:43,lecture,11,SwiftUI and Declarative Programming,17
+1778502,16254134,216,H4X0R News Part 3 - The Observer Design Pattern,09:47,lecture,12,SwiftUI and Declarative Programming,17
+1778502,16254140,217,H4X0R News Part 4 - Using UIKit Components with SwiftUI,15:06,lecture,13,SwiftUI and Declarative Programming,17
+1778502,16254152,218,Bug Alert! List Only Shows 1 Line and Truncates Text,00:16,lecture,14,SwiftUI and Declarative Programming,17
+1778502,16254158,219,Download the Completed H4X0R News SwiftUI Project,00:17,lecture,15,SwiftUI and Declarative Programming,17
+1778502,16254162,220,Running your iOS App on a Mac with Project Catalyst,05:05,lecture,16,SwiftUI and Declarative Programming,17
+1778502,18003199,221,Tip from Angela - How to Solidify Your Knowledge,02:55,lecture,17,SwiftUI and Declarative Programming,17
+1778502,10929402,222,Introduction to Version Control and Git,02:35,lecture,1,"Git, GitHub and Version Control",18
+1778502,10929404,223,Version Control Using Git and the Command Line,15:02,lecture,2,"Git, GitHub and Version Control",18
+1778502,10929406,224,GitHub and Remote Repositories,11:00,lecture,3,"Git, GitHub and Version Control",18
+1778502,13363942,225,GitHub Private Repos are now Free! ?,00:10,lecture,4,"Git, GitHub and Version Control",18
+1778502,10929408,226,Gitignore,12:02,lecture,5,"Git, GitHub and Version Control",18
+1778502,10929410,227,Cloning Repositories,05:05,lecture,6,"Git, GitHub and Version Control",18
+1778502,10929412,228,Branching and Merging,17:25,lecture,7,"Git, GitHub and Version Control",18
+1778502,10929414,229,Using Xcode for Source Control,19:39,lecture,8,"Git, GitHub and Version Control",18
+1778502,10929416,230,Forking and Pull Requests,17:08,lecture,9,"Git, GitHub and Version Control",18
+1778502,12360114,231,Optional Challenge,00:05,lecture,10,"Git, GitHub and Version Control",18
+1778502,18003245,232,Tip from Angela - Spaced Repetition,04:01,lecture,11,"Git, GitHub and Version Control",18
+1778502,10929418,233,The Clear App Clone that You'll Build by the End of this Module,02:58,lecture,1,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929420,234,Subclassing a UITableViewController,16:05,lecture,2,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929422,235,TableView Delegate Methods and Accessories,07:45,lecture,3,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929424,236,Creating a Textfield Inside UIAlert to Add New Items,17:40,lecture,4,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929430,237,Why Do We Need Persistent Local Data Storage?,08:29,lecture,5,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929434,238,Persistent Local Data Storage Using UserDefaults,09:00,lecture,6,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929438,239,UserDefaults Explained,08:36,lecture,7,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929440,240,[Advanced Swift] The Swift Singleton Object,05:25,lecture,8,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,12409354,241,A Quick Note About the Next Lesson,00:27,lecture,9,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929442,242,Creating a Custom Data Model,17:51,lecture,10,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929448,243,[Advanced Swift] The Swift Ternary Operator,03:05,lecture,11,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929450,244,Restructuring Our App with MVC,04:52,lecture,12,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929456,245,The Concept of iOS Sandboxing,03:41,lecture,13,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929458,246,Encoding Data with NSCoder,13:06,lecture,14,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929462,247,Decoding Data with NSCoder,07:39,lecture,15,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929466,248,Introduction to Databases,10:12,lecture,16,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929468,249,How to Set up and Configure Core Data,18:33,lecture,17,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929472,250,How to Save Data with Core Data (Create in CRUD),07:29,lecture,18,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929476,251,How to View Your SQLite Database Backend for Core Data,04:35,lecture,19,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929478,252,Core Data Fundamentals,07:30,lecture,20,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929482,253,Reading Data from Core Data (Read in CRUD),04:50,lecture,21,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929484,254,Updating Data with Core Data (Update in CRUD),02:30,lecture,22,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929486,255,Removing Data from Core Data (Delete in CRUD),05:18,lecture,23,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929490,256,How to Implement a UISearchBar and Querying with Core Data,26:07,lecture,24,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929496,257,How to Go Back to the Original List?,07:21,lecture,25,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929500,258,How to Create Relationship Graphs in Core Data,13:55,lecture,26,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929504,259,[Solution to Challenge] Setting Up CategoryViewController,12:09,lecture,27,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929508,260,Adding the Delegate Method,15:54,lecture,28,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929514,261,Introduction to Realm,15:41,lecture,29,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929520,262,How to Save Data Using Realm (Create in CRUD),15:29,lecture,30,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929524,263,Fetching Data from Realm (Read in CRUD),20:20,lecture,31,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929526,264,Updating Data with Realm (Update in CRUD),03:32,lecture,32,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929528,265,Removing Data from Realm (Delete in CRUD),02:35,lecture,33,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,13363428,266,A Quick Note About the Next Lesson,00:19,lecture,34,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929530,267,Querying Data Using Realm,11:04,lecture,35,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929532,268,Review of How Our App Uses Realm for Data Persistence,11:28,lecture,36,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929534,269,Making Our Cells Swipeable,21:21,lecture,37,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929536,270,Inheriting from SwipeTableViewController,17:03,lecture,38,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929538,271,[Solution to Challenge] Inheriting from SwipeTableViewController,05:50,lecture,39,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929540,272,Adding Colour to Our App,08:12,lecture,40,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929542,273,[Solution to Challenge] Persisting the Colour Property,06:49,lecture,41,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929544,274,Creating Gradient Flow Cells,20:12,lecture,42,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,12643504,275,A Quick Note About the Next Lesson,00:14,lecture,43,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929546,276,Updating the UI of the Navigation Bar,20:22,lecture,44,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,10929550,277,The Completed App Project,00:24,lecture,45,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,18003369,278,"Tip from Angela - Location, Location, Location!",01:40,lecture,46,"Local Data Persistance - User Defaults, Core Data and Realm",19
+1778502,11445048,279,What You'll Need to Implement In-App Purchases,05:40,lecture,1,In-App Purchases and Apple StoreKit,20
+1778502,16853910,280,Download the Skeleton Project,00:13,lecture,2,In-App Purchases and Apple StoreKit,20
+1778502,11445056,281,Check out the Skeleton Project,02:44,lecture,3,In-App Purchases and Apple StoreKit,20
+1778502,11445140,282,Setup Your In-App Purchase on App Store Connect,14:25,lecture,4,In-App Purchases and Apple StoreKit,20
+1778502,11445160,283,Create an Inspirational Quotes App,08:22,lecture,5,In-App Purchases and Apple StoreKit,20
+1778502,11445182,284,Detecting When a User Wants to Make a Purchase,09:25,lecture,6,In-App Purchases and Apple StoreKit,20
+1778502,11445190,285,Implementing the In-App Purchase with Apple StoreKit,12:51,lecture,7,In-App Purchases and Apple StoreKit,20
+1778502,12604760,286,A Quick Note About the Next Lesson,00:19,lecture,8,In-App Purchases and Apple StoreKit,20
+1778502,11445202,287,Create Sandbox Users on the App Store to Test In-App Purchases for Free,12:03,lecture,9,In-App Purchases and Apple StoreKit,20
+1778502,11445208,288,Giving Users Access to Purchased Content,11:33,lecture,10,In-App Purchases and Apple StoreKit,20
+1778502,11445212,289,Restoring In-App Purchases,07:07,lecture,11,In-App Purchases and Apple StoreKit,20
+1778502,16853980,290,Download the Completed App Project,00:17,lecture,12,In-App Purchases and Apple StoreKit,20
+1778502,18003395,291,Tip from Angela - Use Accountability in your Favour,02:56,lecture,13,In-App Purchases and Apple StoreKit,20
+1778502,11779538,292,Introduction to the Advanced Section,00:39,lecture,1,Advanced Swift Classroom - Part 1,21
+1778502,11779542,293,Advanced Swift Properties,02:25,lecture,2,Advanced Swift Classroom - Part 1,21
+1778502,12360192,294,A Quick Note About the Next Lesson,00:13,lecture,3,Advanced Swift Classroom - Part 1,21
+1778502,11860158,295,Getters,08:31,lecture,4,Advanced Swift Classroom - Part 1,21
+1778502,11860382,296,Setters,02:40,lecture,5,Advanced Swift Classroom - Part 1,21
+1778502,11860398,297,Computed Properties,05:33,lecture,6,Advanced Swift Classroom - Part 1,21
+1778502,11860416,298,Observed Properties,05:52,lecture,7,Advanced Swift Classroom - Part 1,21
+1778502,11860428,299,Advanced Properties Challenge,07:52,lecture,8,Advanced Swift Classroom - Part 1,21
+1778502,18003433,300,Tip from Angela - When Life Gives You Lemons,06:01,lecture,9,Advanced Swift Classroom - Part 1,21
+1778502,11860548,301,What We'll Make - Calculator,02:25,lecture,1,Advanced Swift Classroom - Part 2,22
+1778502,11860600,302,Download the Skeleton Project,00:13,lecture,2,Advanced Swift Classroom - Part 2,22
+1778502,11860550,303,Accumulating Numbers in the Calculator,14:50,lecture,3,Advanced Swift Classroom - Part 2,22
+1778502,11860552,304,Swift Access Levels,17:01,lecture,4,Advanced Swift Classroom - Part 2,22
+1778502,4503600,1,Swift Access Levels Quiz,9 questions,quiz,5,Advanced Swift Classroom - Part 2,22
+1778502,11860562,305,Advanced Swift Optionals,13:01,lecture,6,Advanced Swift Classroom - Part 2,22
+1778502,11860566,306,Adding More Functionality to Our Calculator,04:27,lecture,7,Advanced Swift Classroom - Part 2,22
+1778502,11860580,307,Dealing with the Decimal Place,05:30,lecture,8,Advanced Swift Classroom - Part 2,22
+1778502,11860590,308,Refactoring with Computed Properties,06:58,lecture,9,Advanced Swift Classroom - Part 2,22
+1778502,11860620,309,Conforming to MVC,17:54,lecture,10,Advanced Swift Classroom - Part 2,22
+1778502,11860644,310,Swift Structs vs. Classes - The Theory,05:56,lecture,11,Advanced Swift Classroom - Part 2,22
+1778502,11860660,311,Swift Structs vs. Classes - In Practice,25:05,lecture,12,Advanced Swift Classroom - Part 2,22
+1778502,11860678,312,How to Turn Our Model into a Struct,12:17,lecture,13,Advanced Swift Classroom - Part 2,22
+1778502,11860682,313,Swift Tuples,04:20,lecture,14,Advanced Swift Classroom - Part 2,22
+1778502,11860696,314,Guard Let vs. If Let When to Use Which?,18:42,lecture,15,Advanced Swift Classroom - Part 2,22
+1778502,11872330,315,Download the Completed App Project,00:17,lecture,16,Advanced Swift Classroom - Part 2,22
+1778502,18003471,316,Tip from Angela - Find All the Hard Working People,02:01,lecture,17,Advanced Swift Classroom - Part 2,22
+1778502,16260948,317,Introduction to Machine Learning,05:02,lecture,1,CoreML and Machine Learning,23
+1778502,16260950,318,Supervised Learning,14:09,lecture,2,CoreML and Machine Learning,23
+1778502,16260952,319,Unsupervised Learning,06:09,lecture,3,CoreML and Machine Learning,23
+1778502,16260954,320,Reinforcement Learning,07:14,lecture,4,CoreML and Machine Learning,23
+1778502,16260958,321,What is CoreML?,06:51,lecture,5,CoreML and Machine Learning,23
+1778502,16260962,322,What we'll be making,02:21,lecture,6,CoreML and Machine Learning,23
+1778502,13364106,323,Download the Vision V3 Pre-Trained Machine Learning Model,00:10,lecture,7,CoreML and Machine Learning,23
+1778502,10929568,324,How to Import the Image Recognition Model & Enable Camera Functionality,21:55,lecture,8,CoreML and Machine Learning,23
+1778502,10929572,325,Getting Image Recognition Results Back from Our V3 Model,14:24,lecture,9,CoreML and Machine Learning,23
+1778502,10929574,326,Hotdog or Not Hotdog?,07:16,lecture,10,CoreML and Machine Learning,23
+1778502,16260978,327,Download the Completed App Project,00:19,lecture,11,CoreML and Machine Learning,23
+1778502,18003491,328,Tip from Angela - Daily Routines,02:34,lecture,12,CoreML and Machine Learning,23
+1778502,10929600,329,What we'll be making,04:01,lecture,1,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929602,330,Installing CoremlTools using Python PIP,09:18,lecture,2,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929604,331,Converting a Caffe Model into MLModel,11:58,lecture,3,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929606,332,[Challenge] - Set up a UIImagePickerController,01:41,lecture,4,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929608,333,[Solution] - Setting up a UIImagePickerController,05:54,lecture,5,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929610,334,[Challenge] Getting Classifications from Our Model,01:00,lecture,6,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929612,335,[Solution] Getting Classifications from our Model,09:00,lecture,7,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929616,336,[Challenge] Adding Cocoapods to Our Project,03:05,lecture,8,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929618,337,[Solution] Adding Cocoapods to Our Project,01:48,lecture,9,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929622,338,[Challenge] Making HTTP GET requests to Wikipedia using Alamofire and REST,06:14,lecture,10,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929624,339,[Solution] Making HTTP GET requests to Wikipedia using Alamofire and REST,03:42,lecture,11,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929626,340,[Challenge] Parsing the JSON Result using SwiftyJSON,02:09,lecture,12,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929628,341,[Solution] Parsing the JSON Result using SwiftyJSON,05:56,lecture,13,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929630,342,Displaying Images From a URL using SDWebImage,05:15,lecture,14,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929632,343,[Optional Lesson] Creating the App Icon From Scratch and Styling the App,06:47,lecture,15,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,10929634,344,Download the Completed App Project,00:25,lecture,16,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,18003511,345,Tip from Angela - Deep Work,03:01,lecture,17,Advanced CoreML - CoreML Tools & Converting Models,24
+1778502,16261094,346,Introduction to CreateML,04:37,lecture,1,CreateML - Building Your Own Machine Learning Model from Scratch,25
+1778502,16261096,347,How to Gather Data for Training,10:02,lecture,2,CreateML - Building Your Own Machine Learning Model from Scratch,25
+1778502,16261098,348,How to Train a Brand New Machine Learning Model,12:59,lecture,3,CreateML - Building Your Own Machine Learning Model from Scratch,25
+1778502,16261104,349,[Challenge] Build Your Own Machine Learning Model,06:48,lecture,4,CreateML - Building Your Own Machine Learning Model from Scratch,25
+1778502,16261110,350,Download the Completed Model,00:03,lecture,5,CreateML - Building Your Own Machine Learning Model from Scratch,25
+1778502,18003533,351,Tip from Angela - One Step at a Time,02:54,lecture,6,CreateML - Building Your Own Machine Learning Model from Scratch,25
+1778502,16828288,352,What We'll Make - Twitter Sentiment Analysis,06:13,lecture,1,CreateML & Natural Language Processing (NLP),26
+1778502,16828290,353,Using CreateML for Natural Language Processing,20:45,lecture,2,CreateML & Natural Language Processing (NLP),26
+1778502,16828294,354,How to Sign Up as a Twitter Developer,13:23,lecture,3,CreateML & Natural Language Processing (NLP),26
+1778502,16828296,355,Setting Up the Swifter Framework,17:11,lecture,4,CreateML & Natural Language Processing (NLP),26
+1778502,16828300,356,How to Fetch Live Twitter Data,13:18,lecture,5,CreateML & Natural Language Processing (NLP),26
+1778502,16828314,357,Performing Sentiment Classification,06:17,lecture,6,CreateML & Natural Language Processing (NLP),26
+1778502,16828318,358,Parsing Tweet Data in JSON,10:16,lecture,7,CreateML & Natural Language Processing (NLP),26
+1778502,16828322,359,Making Batch Predictions,10:20,lecture,8,CreateML & Natural Language Processing (NLP),26
+1778502,16828332,360,Updating the User Interface of Our App,08:05,lecture,9,CreateML & Natural Language Processing (NLP),26
+1778502,16828336,361,Code Refactoring,08:51,lecture,10,CreateML & Natural Language Processing (NLP),26
+1778502,16828340,362,Download the Completed App Project,00:17,lecture,11,CreateML & Natural Language Processing (NLP),26
+1778502,18003625,363,Tip from Angela - Discipline Breeds Discipline,02:20,lecture,12,CreateML & Natural Language Processing (NLP),26
+1778502,16261216,364,Introduction to Augmented Reality and ARKit,08:06,lecture,1,ARKit & Augmented Reality Apps,27
+1778502,16261222,365,How to Setup and Configure Your Project for AR,11:58,lecture,2,ARKit & Augmented Reality Apps,27
+1778502,16261226,366,How to Create a 3D Object in Augmented Reality,09:24,lecture,3,ARKit & Augmented Reality Apps,27
+1778502,16261228,367,Bring the Moon into Your Living Room Using AR,03:43,lecture,4,ARKit & Augmented Reality Apps,27
+1778502,16261236,368,How to Find and Import 3D Models for AR,11:30,lecture,5,ARKit & Augmented Reality Apps,27
+1778502,16261240,369,How to Detect Horizontal Planes in the Real World,18:19,lecture,6,ARKit & Augmented Reality Apps,27
+1778502,16261246,370,How to Detect Touch on Real World 3D Objects,07:08,lecture,7,ARKit & Augmented Reality Apps,27
+1778502,16261250,371,How to Place Our Dice in 3D Using Touch,06:49,lecture,8,ARKit & Augmented Reality Apps,27
+1778502,16261254,372,How to Animate 3D Objects in AR,06:17,lecture,9,ARKit & Augmented Reality Apps,27
+1778502,16261256,373,How to Animate and Roll all the 3D Dice at Once,05:01,lecture,10,ARKit & Augmented Reality Apps,27
+1778502,16261258,374,How to Remove Our 3D Objects from the AR Scene,02:35,lecture,11,ARKit & Augmented Reality Apps,27
+1778502,16261260,375,[Optional Lesson] Refactoring Our Code for Better Readability,08:39,lecture,12,ARKit & Augmented Reality Apps,27
+1778502,16261264,376,Download the Completed App Project,00:17,lecture,13,ARKit & Augmented Reality Apps,27
+1778502,18003653,377,Tip from Angela - Dealing with Limitations,05:22,lecture,14,ARKit & Augmented Reality Apps,27
+1778502,16261326,378,What We'll Make By the End of this Module,00:33,lecture,1,Advanced ARKit,28
+1778502,16261330,379,Detecting the Start and End Points of Our Measurement,12:20,lecture,2,Advanced ARKit,28
+1778502,16261332,380,Calculating the Distance Between Two 3D points,15:05,lecture,3,Advanced ARKit,28
+1778502,16261336,381,Creating 3D Text in the AR Scene,07:08,lecture,4,Advanced ARKit,28
+1778502,16261338,382,Resetting the Measurements,05:12,lecture,5,Advanced ARKit,28
+1778502,16261340,383,Download the Completed App Project,00:17,lecture,6,Advanced ARKit,28
+1778502,16261540,384,What We'll Make - Pokemon 3D,04:36,lecture,1,ARKit 2 and Live Tracking,29
+1778502,16261544,385,Adding Tracking Images,13:17,lecture,2,ARKit 2 and Live Tracking,29
+1778502,16261550,386,How to Add Plane to Card,09:44,lecture,3,ARKit 2 and Live Tracking,29
+1778502,16261556,387,Converting 3D Models to the New USDZ File Format,07:47,lecture,4,ARKit 2 and Live Tracking,29
+1778502,16261560,388,Adding 3D Pokemon Modes to Card Tracking,11:11,lecture,5,ARKit 2 and Live Tracking,29
+1778502,16261566,389,Tracking Multiple Pokemons,14:15,lecture,6,ARKit 2 and Live Tracking,29
+1778502,16261568,390,Download the Completed Project,00:17,lecture,7,ARKit 2 and Live Tracking,29
+1778502,18113577,391,Tip from Angela - Imposter Syndrome,02:06,lecture,8,ARKit 2 and Live Tracking,29
+1778502,16261632,392,What We'll Make - A Magical Newspaper,01:18,lecture,1,ARKit 2 & Live Video,30
+1778502,16261634,393,How to Source the Assets,04:01,lecture,2,ARKit 2 & Live Video,30
+1778502,16261636,394,[Challenge] Detecting Images in AR,12:26,lecture,3,ARKit 2 & Live Video,30
+1778502,16261638,395,Video Playback in AR,08:35,lecture,4,ARKit 2 & Live Video,30
+1778502,16261642,396,Download the Completed App Project,00:17,lecture,5,ARKit 2 & Live Video,30
+1778502,18113563,397,Tip from Angela - How to Become a Freelancer,01:37,lecture,6,ARKit 2 & Live Video,30
+1778502,10929704,398,How to Publish Your App on to the App Store,10:54,lecture,1,How to Submit Your App to the App Store,31
+1778502,10929706,399,Resources to Check Out When You're Ready to Publish,00:03,lecture,2,How to Submit Your App to the App Store,31
+1778502,10929708,400,Useful Tools to Help You with App Submissions,02:43,lecture,3,How to Submit Your App to the App Store,31
+1778502,18113557,401,Tip from Angela - How to Build Your Own Products,02:14,lecture,4,How to Submit Your App to the App Store,31
+1778502,18113549,402,Tip from Angela - How to Get a Job as a Developer,02:06,lecture,1,What's Next? How to Become a Pro iOS Developer,32
+1778502,10928832,403,Get Monthly Tips and Tools to  Level Up as a Developer,00:35,lecture,2,What's Next? How to Become a Pro iOS Developer,32
+1778502,10929710,404,Where to Go From Here?,12:23,lecture,3,What's Next? How to Become a Pro iOS Developer,32
+1778502,10930060,405,Monthly Student-Built App Showcase,00:26,lecture,4,What's Next? How to Become a Pro iOS Developer,32
+1778502,11309408,406,What Modules Do You Want to See?,00:12,lecture,5,What's Next? How to Become a Pro iOS Developer,32
+1778502,10929712,407,Resources,00:16,lecture,6,What's Next? How to Become a Pro iOS Developer,32
+1778502,10929714,408,Introduction to App Design,01:41,lecture,1,Optional: The Complete App Design Course,33
+1778502,10929716,409,Why Design is Important for an App Entrepreneur,01:32,lecture,2,Optional: The Complete App Design Course,33
+1778502,10929718,410,Designer vs. Non-Designer Thinking,03:33,lecture,3,Optional: The Complete App Design Course,33
+1778502,10929720,411,Understanding the Mood of Your Colour Palette,06:02,lecture,4,Optional: The Complete App Design Course,33
+1778502,10929726,412,How to Combine Colours to Create Colour Palettes,04:08,lecture,5,Optional: The Complete App Design Course,33
+1778502,10929728,413,Tools for Designing with Colour,02:47,lecture,6,Optional: The Complete App Design Course,33
+1778502,10929732,414,Further Reading on Designing with Colour,00:12,lecture,7,Optional: The Complete App Design Course,33
+1778502,10929734,415,Introduction to Typography,00:44,lecture,8,Optional: The Complete App Design Course,33
+1778502,10929736,416,The Serif Type Family - Origins and Use,04:40,lecture,9,Optional: The Complete App Design Course,33
+1778502,10929738,417,The Sans-Serif Type Family - Origins and Use,01:38,lecture,10,Optional: The Complete App Design Course,33
+1778502,10929742,418,How Typography Determines Readability,02:39,lecture,11,Optional: The Complete App Design Course,33
+1778502,10929746,419,How to Combine Fonts Like a Pro,06:00,lecture,12,Optional: The Complete App Design Course,33
+1778502,10929750,420,Further Reading on Typography,00:22,lecture,13,Optional: The Complete App Design Course,33
+1778502,10929752,421,What is User Interface (UI) Design?,00:42,lecture,14,Optional: The Complete App Design Course,33
+1778502,10929756,422,The Tour Guide Approach to UI Design,03:11,lecture,15,Optional: The Complete App Design Course,33
+1778502,10929758,423,The Importance of Alignment,02:50,lecture,16,Optional: The Complete App Design Course,33
+1778502,10929760,424,What is Good Practice in Interaction Design,08:25,lecture,17,Optional: The Complete App Design Course,33
+1778502,10929762,425,Colour in User Interface Design,02:16,lecture,18,Optional: The Complete App Design Course,33
+1778502,10929766,426,The Many Ways of Designing Text Overlays,03:22,lecture,19,Optional: The Complete App Design Course,33
+1778502,10929768,427,How to Be an Attention Architect,04:46,lecture,20,Optional: The Complete App Design Course,33
+1778502,10929772,428,Further Reading on User Interface Design,00:13,lecture,21,Optional: The Complete App Design Course,33
+1778502,10929774,429,What is User Experience (UX) Design?,04:11,lecture,22,Optional: The Complete App Design Course,33
+1778502,10929776,430,Usability,05:17,lecture,23,Optional: The Complete App Design Course,33
+1778502,10929778,431,Asking for Permissions,03:14,lecture,24,Optional: The Complete App Design Course,33
+1778502,10929780,432,User Profiling,02:30,lecture,25,Optional: The Complete App Design Course,33
+1778502,10929782,433,Form vs. Function,02:18,lecture,26,Optional: The Complete App Design Course,33
+1778502,10929784,434,Consistency,02:57,lecture,27,Optional: The Complete App Design Course,33
+1778502,10929786,435,Simplicity,04:17,lecture,28,Optional: The Complete App Design Course,33
+1778502,10929788,436,Don't Make Me Think,07:27,lecture,29,Optional: The Complete App Design Course,33
+1778502,10929790,437,Onboarding,02:34,lecture,30,Optional: The Complete App Design Course,33
+1778502,10929792,438,Idiot Boxes,03:43,lecture,31,Optional: The Complete App Design Course,33
+1778502,10929794,439,Further Reading on User Experience Design,00:29,lecture,32,Optional: The Complete App Design Course,33
+1778502,10929796,440,Android vs. iOS Design,03:11,lecture,33,Optional: The Complete App Design Course,33
+1778502,10929798,441,Navigation,03:08,lecture,34,Optional: The Complete App Design Course,33
+1778502,10929800,442,The Devil is in the Details,01:09,lecture,35,Optional: The Complete App Design Course,33
+1778502,10929802,443,Differences in Icon Design,00:35,lecture,36,Optional: The Complete App Design Course,33
+1778502,10929804,444,Flat Design vs. Material Design,02:32,lecture,37,Optional: The Complete App Design Course,33
+1778502,10929806,445,Differences in Establishing Visual Hierarchy,00:44,lecture,38,Optional: The Complete App Design Course,33
+1778502,10929808,446,iOS and Android Design Guidelines,02:56,lecture,39,Optional: The Complete App Design Course,33
+1778502,10929812,447,Step1 - Design Patterns and Colour Palettes,03:29,lecture,40,Optional: The Complete App Design Course,33
+1778502,10929814,448,Where to Find Design Patterns and Colour Palettes,00:05,lecture,41,Optional: The Complete App Design Course,33
+1778502,10929816,449,Step 2 - How to Create a User Flow Diagram,07:56,lecture,42,Optional: The Complete App Design Course,33
+1778502,10929818,450,Step 3 - How to Create Wireframes,10:33,lecture,43,Optional: The Complete App Design Course,33
+1778502,10929820,451,Wireframing Resources,00:06,lecture,44,Optional: The Complete App Design Course,33
+1778502,10929824,452,Step 4 - How to Create Professional Mockups,05:07,lecture,45,Optional: The Complete App Design Course,33
+1778502,10929826,453,Tools for Creating Mockups,00:02,lecture,46,Optional: The Complete App Design Course,33
+1778502,10929828,454,How to Use Sketch to Create Mockups,15:28,lecture,47,Optional: The Complete App Design Course,33
+1778502,10929830,455,[Optional] Watch me Create a Mock up Using Sketch,46:10,lecture,48,Optional: The Complete App Design Course,33
+1778502,10929836,456,How to Use Canva to Create Mockups,03:39,lecture,49,Optional: The Complete App Design Course,33
+1778502,10929838,457,Your Turn to Create Your Own Mockups,02:03,lecture,50,Optional: The Complete App Design Course,33
+1778502,10929840,458,Tools and Resources for Creating Mockups,00:06,lecture,51,Optional: The Complete App Design Course,33
+1778502,10929842,459,Step 5 - How to Create an Animated App Prototype,03:37,lecture,52,Optional: The Complete App Design Course,33
+1778502,10929844,460,Tools and Resources for Creating Prototypes,00:03,lecture,53,Optional: The Complete App Design Course,33
+1778502,10929846,461,Prototyping with Keynote,08:03,lecture,54,Optional: The Complete App Design Course,33
+1778502,10929848,462,Prototyping with Marvel,05:26,lecture,55,Optional: The Complete App Design Course,33
+1778502,10929852,463,Your Turn to Create a Prototype,01:16,lecture,56,Optional: The Complete App Design Course,33
+1778502,10929854,464,Where to Find Free-For-Commercial-Use Image Assets,00:04,lecture,57,Optional: The Complete App Design Course,33
+1778502,10929856,465,Where to Find Free-For-Commercial-Use Icons,00:03,lecture,58,Optional: The Complete App Design Course,33
+1778502,10929858,466,How to Keep Designing and Improving,01:10,lecture,59,Optional: The Complete App Design Course,33
+1778502,18113525,467,Tip from Angela - Step Up to Challenges,01:14,lecture,60,Optional: The Complete App Design Course,33
+1778502,10929860,468,The Importance of App Marketing,01:04,lecture,1,Optional: The Complete App Marketing Course,34
+1778502,10929864,469,The Fallacy of Build it and They Will Come,05:27,lecture,2,Optional: The Complete App Marketing Course,34
+1778502,10929866,470,The Importance of Idea Validation,05:43,lecture,3,Optional: The Complete App Marketing Course,34
+1778502,10929868,471,1. The Simplest Way of Validating Your Idea - The Starbucks Method,07:20,lecture,4,Optional: The Complete App Marketing Course,34
+1778502,10929870,472,2. Using Google Trends to Estimate the Size of Your Market,05:27,lecture,5,Optional: The Complete App Marketing Course,34
+1778502,10929872,473,3. The Landing Page Validation Method,16:01,lecture,6,Optional: The Complete App Marketing Course,34
+1778502,10929876,474,How to Create a Landing Page Website in Less than an Hour,03:29,lecture,7,Optional: The Complete App Marketing Course,34
+1778502,10929878,475,4. Creating a Minimum Viable Product,08:00,lecture,8,Optional: The Complete App Marketing Course,34
+1778502,10929882,476,5. Using Crowd-funding to Validate and Fund Your Idea,06:33,lecture,9,Optional: The Complete App Marketing Course,34
+1778502,10929884,477,How to Monetise Your App on iOS vs. Android,03:23,lecture,10,Optional: The Complete App Marketing Course,34
+1778502,10929888,478,When You Should Create a Paid App,08:33,lecture,11,Optional: The Complete App Marketing Course,34
+1778502,10929890,479,When to use In-App Advertisements,06:27,lecture,12,Optional: The Complete App Marketing Course,34
+1778502,10929892,480,How You Thought About These Alternative Monetisation Models?,06:49,lecture,13,Optional: The Complete App Marketing Course,34
+1778502,10929894,481,How to Get an App icon Designed without Breaking the Bank,04:23,lecture,14,Optional: The Complete App Marketing Course,34
+1778502,10929898,482,Split Testing for Super Success,06:06,lecture,15,Optional: The Complete App Marketing Course,34
+1778502,10929904,483,What Makes a Good App Icon?,01:09,lecture,16,Optional: The Complete App Marketing Course,34
+1778502,10929908,484,The Dos and Don'ts of Making App Screenshots,02:58,lecture,17,Optional: The Complete App Marketing Course,34
+1778502,10929910,485,Tools for Building Screenshots,01:17,lecture,18,Optional: The Complete App Marketing Course,34
+1778502,10929914,486,Your First 1000 Customers,03:32,lecture,19,Optional: The Complete App Marketing Course,34
+1778502,10929916,487,Building an Email List,02:35,lecture,20,Optional: The Complete App Marketing Course,34
+1778502,10929918,488,The All Important Landing Page,07:56,lecture,21,Optional: The Complete App Marketing Course,34
+1778502,10929922,489,Blogging Your Way to Success,05:04,lecture,22,Optional: The Complete App Marketing Course,34
+1778502,10929926,490,Content Marketing for App Downloads,03:14,lecture,23,Optional: The Complete App Marketing Course,34
+1778502,10929932,491,How to Successfully Launch on Product Hunt,09:22,lecture,24,Optional: The Complete App Marketing Course,34
+1778502,10929940,492,How to Launch on Beta List,01:28,lecture,25,Optional: The Complete App Marketing Course,34
+1778502,10929942,493,How to Launch on Hacker News,02:25,lecture,26,Optional: The Complete App Marketing Course,34
+1778502,10929944,494,If At First You Don't Succeed...,02:39,lecture,27,Optional: The Complete App Marketing Course,34
+1778502,10929946,495,Cross Promotion,01:16,lecture,28,Optional: The Complete App Marketing Course,34
+1778502,10929948,496,Social Referrals and Social Queuing,03:48,lecture,29,Optional: The Complete App Marketing Course,34
+1778502,10929950,497,How to Make Social Media Work for You,04:50,lecture,30,Optional: The Complete App Marketing Course,34
+1778502,10929952,498,Do I Need a PR Agency?,00:50,lecture,31,Optional: The Complete App Marketing Course,34
+1778502,10929956,499,Not All Press is Created Equal,00:40,lecture,32,Optional: The Complete App Marketing Course,34
+1778502,10929958,500,How to Craft Your Story,04:56,lecture,33,Optional: The Complete App Marketing Course,34
+1778502,10929962,501,How to Craft Your Pitch,01:38,lecture,34,Optional: The Complete App Marketing Course,34
+1778502,10929964,502,How to Figure Out Which Journalists to Pitch,02:44,lecture,35,Optional: The Complete App Marketing Course,34
+1778502,10929970,503,How to Find Anyone's Email Address,01:33,lecture,36,Optional: The Complete App Marketing Course,34
+1778502,10929974,504,How to Pitch a Journalist,04:36,lecture,37,Optional: The Complete App Marketing Course,34
+1778502,10929982,505,Just-Add-Water Journalist Pitch Email,00:31,lecture,38,Optional: The Complete App Marketing Course,34
+1778502,10929984,506,Establishing a Relationship with a Journalist,01:06,lecture,39,Optional: The Complete App Marketing Course,34
+1778502,10929988,507,What if You Still Can't Get Anyone to Write About You?,03:54,lecture,40,Optional: The Complete App Marketing Course,34
+1778502,10929992,508,Final Tips on Getting Press,02:01,lecture,41,Optional: The Complete App Marketing Course,34
+1778502,10929998,509,How to Get Featured on the App Store?,01:08,lecture,42,Optional: The Complete App Marketing Course,34
+1778502,10930000,510,"""Only on the App Store""",01:36,lecture,43,Optional: The Complete App Marketing Course,34
+1778502,10930002,511,Work with the Corporate Mindset,01:04,lecture,44,Optional: The Complete App Marketing Course,34
+1778502,10930004,512,Native vs. Cross-Platform Apps,02:06,lecture,45,Optional: The Complete App Marketing Course,34
+1778502,10930006,513,Tips and Tricks for Getting Featured,03:07,lecture,46,Optional: The Complete App Marketing Course,34
+1778502,10930008,514,What is App Store Optimisation (ASO)?,01:00,lecture,47,Optional: The Complete App Marketing Course,34
+1778502,10930010,515,Top Tips to Optimise Your App Store Listing,02:05,lecture,48,Optional: The Complete App Marketing Course,34
+1778502,10930014,516,My Complete ASO Workflow,04:59,lecture,49,Optional: The Complete App Marketing Course,34
+1778502,10930016,517,Using Apple Search Ads as a Research Tool,02:05,lecture,50,Optional: The Complete App Marketing Course,34
+1778502,10930018,518,Early vs. Late Game Strategies,01:19,lecture,51,Optional: The Complete App Marketing Course,34
+1778502,10930020,519,Differences Between Google Play and Apple App Store,02:24,lecture,52,Optional: The Complete App Marketing Course,34
+1778502,10930022,520,When to use Paid Advertising or App Marketing,00:52,lecture,53,Optional: The Complete App Marketing Course,34
+1778502,10930024,521,Always Test Before You Advertise,03:50,lecture,54,Optional: The Complete App Marketing Course,34
+1778502,10930026,522,Which Platform to Advertise On?,00:33,lecture,55,Optional: The Complete App Marketing Course,34
+1778502,10930028,523,How Much Does it Cost?,01:38,lecture,56,Optional: The Complete App Marketing Course,34
+1778502,10930032,524,How to Setup Your Facebook Ad,02:28,lecture,57,Optional: The Complete App Marketing Course,34
+1778502,10930034,525,Use Your Competitors' Ad Budget,02:16,lecture,58,Optional: The Complete App Marketing Course,34
+1778502,10930036,526,Where Can I Find More Customers?,00:56,lecture,59,Optional: The Complete App Marketing Course,34
+1778502,10930038,527,One Weird Trick to Get More Money from Apple,01:39,lecture,60,Optional: The Complete App Marketing Course,34
+1778502,10930040,528,How to Get More 5 Star Ratings and Reviews,04:09,lecture,61,Optional: The Complete App Marketing Course,34
+1778502,10930042,529,Use This Free Tools to Monitor Your App Reviews,01:01,lecture,62,Optional: The Complete App Marketing Course,34
+1778502,10930044,530,How to use App Analytics to Increase User Retention,03:08,lecture,63,Optional: The Complete App Marketing Course,34
+1778502,10930046,531,White Hat Techniques,03:03,lecture,64,Optional: The Complete App Marketing Course,34
+1778502,10930048,532,Black Hat Techniques,04:20,lecture,65,Optional: The Complete App Marketing Course,34
+1778502,10930050,533,A 5 Second Way of Building a Web Page for Your iOS App,01:47,lecture,66,Optional: The Complete App Marketing Course,34
+1778502,10930052,534,How to Use Bootstrap to Build Your App Showcase Website,09:52,lecture,67,Optional: The Complete App Marketing Course,34
+1778502,10930056,535,It's Time to Work Out Your Marketing Strategy,01:37,lecture,68,Optional: The Complete App Marketing Course,34
+1778502,18113519,536,Tip from Angela - Decision Fatigue,01:25,lecture,69,Optional: The Complete App Marketing Course,34
+1778502,10930062,537,AAA 1 - How to Soak in Programming Concepts & much more,39:42,lecture,1,Ask Angela Anything,35
+1778502,10930072,538,AAA 2 - Schedule for Learning to Code & much more,39:08,lecture,2,Ask Angela Anything,35
+1778502,10930082,539,AAA 3 - How to Start Freelancing & much more,25:19,lecture,3,Ask Angela Anything,35
+1778502,23666456,540,AAA 4 - The Live AMA,59:52,lecture,4,Ask Angela Anything,35
+1778502,11308204,541,How to Make an App From Beginning to End,51:01,lecture,1,Optional Module: How to Make an App from Beginning to End,36
+1778502,29479592,542,Bonus Lecture: Check out my other courses,00:05,lecture,2,Optional Module: How to Make an App from Beginning to End,36

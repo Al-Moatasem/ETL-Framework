@@ -1,0 +1,18 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1613970,9778554,1,Introduction,01:50,lecture,1,Setting up test  environment,1
+1613970,9778562,2,What is Python,06:17,lecture,2,Setting up test  environment,1
+1613970,9778568,3,Installing Python,06:47,lecture,3,Setting up test  environment,1
+1613970,9778566,4,Installing Pycharm,07:18,lecture,4,Setting up test  environment,1
+1613970,9778572,5,Installing Anaconda,05:44,lecture,5,Setting up test  environment,1
+1613970,9778580,6,What is Machine Learning,10:13,lecture,1,Machine Learning Basics,2
+1613970,9778588,7,Machine Learning Frameworks,06:16,lecture,2,Machine Learning Basics,2
+1613970,9778590,8,Machine Learning Vocabulary,06:32,lecture,3,Machine Learning Basics,2
+1613970,9778594,9,Supervised Machine Learrning,08:31,lecture,4,Machine Learning Basics,2
+1613970,9778602,10,Where Machine Learning is Used,04:54,lecture,5,Machine Learning Basics,2
+1613970,9778636,11,Creating a basic house value estimator,11:17,lecture,6,Machine Learning Basics,2
+1613970,9778662,12,Using scikit-learn,08:41,lecture,7,Machine Learning Basics,2
+1613970,9778666,13,Loading a Dataset Part 1,08:29,lecture,8,Machine Learning Basics,2
+1613970,9778678,14,Loading a Dataset Part 2,03:05,lecture,9,Machine Learning Basics,2
+1613970,9778682,15,Making predictions - Part 1,07:46,lecture,10,Machine Learning Basics,2
+1613970,9778688,16,Making predictions - Part 2,03:45,lecture,11,Machine Learning Basics,2
+1613970,26955812,17,Thank You,00:09,lecture,12,Machine Learning Basics,2

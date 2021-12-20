@@ -1,0 +1,389 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+2643056,16828150,1,Kursinhalt,03:34,lecture,1,– Teil 1: Einführung,1
+2643056,16912886,2,Data Science und Business-Begriffe: Wir bringen Licht ins Dunkel,05:22,lecture,1,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,4746134,1,Data Science und Business-Begriffe: Wir bringen Licht ins Dunkel,1 question,quiz,2,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,16912890,3,Der Unterschied zwischen „Analyse“ und „Analytics“,03:50,lecture,3,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,4746136,2,Der Unterschied zwischen „Analyse“ und „Analytics“,1 question,quiz,4,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,16912892,4,"Einführung in Business Analytics, Data Analytics und Data Science",08:23,lecture,5,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,4746138,3,"Einführung in Business Analytics, Data Analytics und Data Science",3 questions,quiz,6,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,16912898,5,"Business Intelligence, maschinelles Lernen und KI",09:31,lecture,7,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,4746140,4,"Business Intelligence, maschinelles Lernen und KI",2 questions,quiz,8,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,16912900,6,Data-Science-Infografik: Ein Überblick,04:03,lecture,9,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,4746142,5,Data-Science-Infografik: Ein Überblick,1 question,quiz,10,– Die Wissenschaft der Data Science – Die Disziplinen der Data Science,2
+2643056,16912940,7,"Anwendung von klassischen Daten, Big Data, BI, traditioneller Data Science + ML",07:19,lecture,1,– Die Wissenschaft der Data Science – Data-Science-Disziplinen im Zusammenhang,3
+2643056,4746144,6,"Anwendung von klassischen Daten, Big Data, BI, klassischer Data Science + ML",1 question,quiz,2,– Die Wissenschaft der Data Science – Data-Science-Disziplinen im Zusammenhang,3
+2643056,16912944,8,Gründe für die einzelnen Disziplinen,03:46,lecture,1,– Die Wissenschaft der Data Science – Die spezifischen Vorteile der Disziplinen,4
+2643056,4746146,7,Gründe für die einzelnen Disziplinen,1 question,quiz,2,– Die Wissenschaft der Data Science – Die spezifischen Vorteile der Disziplinen,4
+2643056,16912950,9,Verfahren für klassische Daten,08:13,lecture,1,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746148,8,Verfahren für klassische Daten,1 question,quiz,2,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912952,10,Verfahren für klassische Daten: Beispiele aus der Praxis,01:44,lecture,3,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912954,11,Verfahren für Big Data,04:26,lecture,4,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746150,9,Verfahren für Big Data,1 question,quiz,5,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912958,12,Verfahren für Big Data: Beispiele aus der Praxis,01:32,lecture,6,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912960,13,Verfahren für Business Intelligence (BI),06:45,lecture,7,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746152,10,Verfahren für Business Intelligence (BI),4 questions,quiz,8,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912972,14,Verfahren für Business Intelligence (BI): Beispiele aus der Praxis,01:42,lecture,9,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912966,15,Verfahren für klassische Data Science,09:05,lecture,10,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746154,11,Verfahren für klassische Data Science,4 questions,quiz,11,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912974,16,Verfahren für klassische Data Science: Beispiele aus der Praxis,02:45,lecture,12,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912976,17,Verfahren für maschinelles Lernen (ML),06:55,lecture,13,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746156,12,Verfahren für maschinelles Lernen (ML),2 questions,quiz,14,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912980,18,Teilgebiete des maschinellen Lernens,08:13,lecture,15,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746158,13,Teilgebiete des maschinellen Lernens,2 questions,quiz,16,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912994,19,Verfahren für maschinelles Lernen (ML): Beispiele aus der Praxis,02:11,lecture,17,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,4746160,14,Verfahren für maschinelles Lernen (ML): Beispiele aus der Praxis,5 questions,quiz,18,– Die Wissenschaft der Data Science – Beliebte Data-Science-Verfahren,5
+2643056,16912996,20,Programmiersprachen und Software in der Data Science,05:51,lecture,1,– Die Wissenschaft der Data Science – Beliebte Data-Science-Tools,6
+2643056,4746162,15,Programmiersprachen und Software in der Data Science,4 questions,quiz,2,– Die Wissenschaft der Data Science – Beliebte Data-Science-Tools,6
+2643056,16913024,21,Jobsuche: Darauf kommt es an,03:29,lecture,1,– Die Wissenschaft der Data Science – Berufsfelder in der Data Science,7
+2643056,4746166,16,Jobsuche: Darauf kommt es an,1 question,quiz,2,– Die Wissenschaft der Data Science – Berufsfelder in der Data Science,7
+2643056,16913028,22,Ein Ende den Missverständnissen,04:10,lecture,1,– Die Wissenschaft der Data Science – Ein Ende den Missverständnissen,8
+2643056,4746168,17,Ein Ende den Missverständnissen,1 question,quiz,2,– Die Wissenschaft der Data Science – Ein Ende den Missverständnissen,8
+2643056,16913032,23,Stichprobe oder Population?,04:02,lecture,1,– Teil 2: Statistik,9
+2643056,4746170,18,Stichprobe oder Population?,2 questions,quiz,2,– Teil 2: Statistik,9
+2643056,16913036,24,Datentypen,04:32,lecture,1,– Statistik – Deskriptive Statistik,10
+2643056,4746172,19,Datentypen,2 questions,quiz,2,– Statistik – Deskriptive Statistik,10
+2643056,16913038,25,Skalenniveaus,03:42,lecture,3,– Statistik – Deskriptive Statistik,10
+2643056,4746174,20,Skalenniveaus,2 questions,quiz,4,– Statistik – Deskriptive Statistik,10
+2643056,16913040,26,Kategorische Variablen. Visualisierungsverfahren.,04:52,lecture,5,– Statistik – Deskriptive Statistik,10
+2643056,4746176,21,Kategorische Variablen. Visualisierungsverfahren.,1 question,quiz,6,– Statistik – Deskriptive Statistik,10
+2643056,16913042,27,Kategorische Variablen. Visualisierungsverfahren. Übung.,00:03,lecture,7,– Statistik – Deskriptive Statistik,10
+2643056,16913054,28,Numerische Variablen. Verwendung von Häufigkeitstabellen.,03:09,lecture,8,– Statistik – Deskriptive Statistik,10
+2643056,4746182,22,Numerische Variablen. Verwendung von Häufigkeitstabellen.,1 question,quiz,9,– Statistik – Deskriptive Statistik,10
+2643056,16913056,29,Numerische Variablen. Verwendung von Häufigkeitstabellen. Übung.,00:03,lecture,10,– Statistik – Deskriptive Statistik,10
+2643056,16913058,30,Histogramme,02:14,lecture,11,– Statistik – Deskriptive Statistik,10
+2643056,4746184,23,Histogramme,1 question,quiz,12,– Statistik – Deskriptive Statistik,10
+2643056,16913060,31,Histogramme. Übung.,00:03,lecture,13,– Statistik – Deskriptive Statistik,10
+2643056,16913062,32,Kreuztabellen und Streudiagramme,04:44,lecture,14,– Statistik – Deskriptive Statistik,10
+2643056,4746186,24,Kreuztabellen und Streudiagramme,1 question,quiz,15,– Statistik – Deskriptive Statistik,10
+2643056,16913064,33,Kreuztabellen und Streudiagramme. Übung.,00:03,lecture,16,– Statistik – Deskriptive Statistik,10
+2643056,16913066,34,"Mittel, Median und Modus",04:20,lecture,17,– Statistik – Deskriptive Statistik,10
+2643056,16913136,35,"Mittel, Median und Modus. Übung.",00:03,lecture,18,– Statistik – Deskriptive Statistik,10
+2643056,16913138,36,Schiefe,02:37,lecture,19,– Statistik – Deskriptive Statistik,10
+2643056,4746190,25,Schiefe,1 question,quiz,20,– Statistik – Deskriptive Statistik,10
+2643056,16913150,37,Schiefe. Übung.,00:03,lecture,21,– Statistik – Deskriptive Statistik,10
+2643056,16913152,38,Varianz,05:55,lecture,22,– Statistik – Deskriptive Statistik,10
+2643056,16913154,39,Varianz. Übung.,00:03,lecture,23,– Statistik – Deskriptive Statistik,10
+2643056,16913156,40,Standardabweichung und Variationskoeffizient,04:40,lecture,24,– Statistik – Deskriptive Statistik,10
+2643056,4746192,26,Standardabweichung,1 question,quiz,25,– Statistik – Deskriptive Statistik,10
+2643056,16913162,41,Standardabweichung und Variationskoeffizient. Übung.,00:03,lecture,26,– Statistik – Deskriptive Statistik,10
+2643056,16913164,42,Kovarianz,03:23,lecture,27,– Statistik – Deskriptive Statistik,10
+2643056,4746194,27,Kovarianz,1 question,quiz,28,– Statistik – Deskriptive Statistik,10
+2643056,16913166,43,Kovarianz. Übung.,00:03,lecture,29,– Statistik – Deskriptive Statistik,10
+2643056,16913170,44,Korrelationskoeffizient,03:17,lecture,30,– Statistik – Deskriptive Statistik,10
+2643056,4746196,28,Korrelation,1 question,quiz,31,– Statistik – Deskriptive Statistik,10
+2643056,16913178,45,Korrelationskoeffizient. Übung.,00:03,lecture,32,– Statistik – Deskriptive Statistik,10
+2643056,16913184,46,Praxisbeispiel: Deskriptive Statistik,16:15,lecture,1,– Statistik – Praxisbeispiel: Deskriptive Statistik,11
+2643056,16913186,47,Praxisbeispiel: Deskriptive Statistik. Übung.,00:03,lecture,2,– Statistik – Praxisbeispiel: Deskriptive Statistik,11
+2643056,16913214,48,Einführung,01:01,lecture,1,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913220,49,Was ist eine Verteilung?,04:32,lecture,2,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,4746206,29,Was ist eine Verteilung?,1 question,quiz,3,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913222,50,Normalverteilung,03:54,lecture,4,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,4746208,30,Normalverteilung,1 question,quiz,5,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913224,51,Standardnormalverteilung,03:30,lecture,6,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913226,52,Standardnormalverteilung. Übung.,00:03,lecture,7,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913228,53,Zentraler Grenzwertsatz,04:19,lecture,8,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,4746212,31,Zentraler Grenzwertsatz,1 question,quiz,9,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913232,54,Standardfehler,01:26,lecture,10,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,4746214,32,Standardfehler,1 question,quiz,11,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913238,55,Schätzer und Schätzungen,03:07,lecture,12,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,4746216,33,Schätzer und Schätzungen,1 question,quiz,13,– Statistik – Grundlagen der Inferenzstatistik,12
+2643056,16913242,56,Was sind Konfidenzintervalle?,02:41,lecture,1,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,4746220,34,Was sind Konfidenzintervalle?,1 question,quiz,2,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913244,57,"Konfidenzintervalle in Population mit bekannter Varianz, z-Wert",08:01,lecture,3,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913246,58,"Konfidenzintervalle in Population mit bekannter Varianz, z-Wert. Übung.",00:03,lecture,4,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913250,59,Weiterführende Erläuterungen zu Konfidenzintervallen,04:38,lecture,5,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913254,60,Student-t-Verteilung,03:22,lecture,6,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,4746226,35,Student-t-Verteilung,1 question,quiz,7,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913258,61,"Konfidenzintervalle in Population mit unbekannter Varianz, t-Wert",04:36,lecture,8,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913264,62,"Konfidenzintervalle in Population mit unbekannter Varianz, t-Wert. Übung.",00:03,lecture,9,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913268,63,Die Fehlergrenze,04:52,lecture,10,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,4746230,36,Die Fehlergrenze,1 question,quiz,11,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913270,64,Konfidenzintervalle. Zwei Mittelwerte. Abhängige Stichproben.,06:04,lecture,12,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913274,65,Konfidenzintervalle. Zwei Mittelwerte. Abhängige Stichproben. Übung,00:03,lecture,13,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913278,66,Konfidenzintervalle. Zwei Mittelwerte. Unabhängige Stichproben (Teil 1).,04:31,lecture,14,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913280,67,Konfidenzintervalle. Zwei Mittelwerte. Unabhängige Stichproben (Teil 1). Übung.,00:03,lecture,15,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913284,68,Konfidenzintervalle. Zwei Mittelwerte. Unabhängige Stichproben (Teil 2).,03:57,lecture,16,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913286,69,Konfidenzintervalle. Zwei Mittelwerte. Unabhängige Stichproben (Teil 2). Übung.,00:03,lecture,17,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913288,70,Konfidenzintervalle. Zwei Mittelwerte. Unabhängige Stichproben (Teil 3).,01:27,lecture,18,– Statistik – Inferenzstatistik: Konfidenzintervalle,13
+2643056,16913290,71,Praxisbeispiel: Inferenzstatistik,10:06,lecture,1,– Statistik – Praxisbeispiel: Inferenzstatistik,14
+2643056,16913294,72,Praxisbeispiel: Inferenzstatistik. Übung.,00:03,lecture,2,– Statistik – Praxisbeispiel: Inferenzstatistik,14
+2643056,16913298,73,Null- und Alternativhypothese,05:52,lecture,1,– Statistik – Hypothesentests,15
+2643056,4746232,37,Null- und Alternativhypothese,3 questions,quiz,2,– Statistik – Hypothesentests,15
+2643056,16913306,74,Ablehnungsbereich und Signifikanzniveau,07:05,lecture,3,– Statistik – Hypothesentests,15
+2643056,4746234,38,Ablehnungsbereich und Signifikanzniveau,2 questions,quiz,4,– Statistik – Hypothesentests,15
+2643056,16913308,75,Fehler 1. Art und Fehler 2. Art,04:14,lecture,5,– Statistik – Hypothesentests,15
+2643056,4746236,39,Fehler 1. Art und Fehler 2. Art,4 questions,quiz,6,– Statistik – Hypothesentests,15
+2643056,16913310,76,Test für Mittel. Varianz der Population bekannt.,06:34,lecture,7,– Statistik – Hypothesentests,15
+2643056,16913312,77,Test für Mittel. Varianz der Population bekannt. Übung.,00:03,lecture,8,– Statistik – Hypothesentests,15
+2643056,16913314,78,p-Wert,04:13,lecture,9,– Statistik – Hypothesentests,15
+2643056,4746240,40,p-Wert,4 questions,quiz,10,– Statistik – Hypothesentests,15
+2643056,16913318,79,Test für Mittel. Varianz der Population unbekannt.,04:48,lecture,11,– Statistik – Hypothesentests,15
+2643056,16913320,80,Test für Mittel. Varianz der Population unbekannt. Übung.,00:03,lecture,12,– Statistik – Hypothesentests,15
+2643056,16913324,81,Test für Mittel. Abhängige Stichproben.,05:18,lecture,13,– Statistik – Hypothesentests,15
+2643056,16913326,82,Test für Mittel. Abhängige Stichproben. Übung.,00:03,lecture,14,– Statistik – Hypothesentests,15
+2643056,16913332,83,Test für Mittel. Unabhängige Stichproben (Teil 1).,04:22,lecture,15,– Statistik – Hypothesentests,15
+2643056,16913334,84,Test für Mittel. Unabhängige Stichproben (Teil 1). Übung.,00:03,lecture,16,– Statistik – Hypothesentests,15
+2643056,16913338,85,Test für Mittel. Unabhängige Stichproben (Teil 2).,04:26,lecture,17,– Statistik – Hypothesentests,15
+2643056,16913342,86,Test für Mittel. Unabhängige Stichproben (Teil 2). Übung.,00:03,lecture,18,– Statistik – Hypothesentests,15
+2643056,16913344,87,Praxisbeispiel: Hypothesentests,07:16,lecture,1,– Statistik – Praxisbeispiel: Hypothesentests,16
+2643056,16913352,88,Praxisbeispiel: Hypothesentests. Übung.,00:03,lecture,2,– Statistik – Praxisbeispiel: Hypothesentests,16
+2643056,16913358,89,Einführung in die Programmierung,05:04,lecture,1,– Teil 3: Einführung in Python,17
+2643056,4746246,41,Einführung in die Programmierung,1 question,quiz,2,– Teil 3: Einführung in Python,17
+2643056,16913360,90,Warum Python?,05:11,lecture,3,– Teil 3: Einführung in Python,17
+2643056,4746248,42,Warum Python?,1 question,quiz,4,– Teil 3: Einführung in Python,17
+2643056,16913364,91,Warum Jupyter?,03:29,lecture,5,– Teil 3: Einführung in Python,17
+2643056,4746250,43,Warum Jupyter?,1 question,quiz,6,– Teil 3: Einführung in Python,17
+2643056,16913368,92,Installation von Python und Jupyter,06:49,lecture,7,– Teil 3: Einführung in Python,17
+2643056,16913372,93,Orientierung in Jupyter – das Notebook-Dashboard,02:53,lecture,8,– Teil 3: Einführung in Python,17
+2643056,4747888,44,Orientierung in Jupyter – das Notebook-Dashboard,1 question,quiz,9,– Teil 3: Einführung in Python,17
+2643056,16923078,94,Coding-Grundlagen in Jupyter,06:15,lecture,10,– Teil 3: Einführung in Python,17
+2643056,4747890,45,Coding-Grundlagen in Jupyter,2 questions,quiz,11,– Teil 3: Einführung in Python,17
+2643056,16913376,95,Python 2 vs. Python 3,02:28,lecture,12,– Teil 3: Einführung in Python,17
+2643056,16913658,96,Variablen,04:52,lecture,1,– Python – Variablen und Datentypen,18
+2643056,4746278,46,Variablen,1 question,quiz,2,– Python – Variablen und Datentypen,18
+2643056,16913662,97,Zahlen und Boolean-Werte in Python,03:05,lecture,3,– Python – Variablen und Datentypen,18
+2643056,4746280,47,Zahlen und Boolean-Werte in Python,1 question,quiz,4,– Python – Variablen und Datentypen,18
+2643056,16913666,98,Python-Strings,05:43,lecture,5,– Python – Variablen und Datentypen,18
+2643056,4746282,48,Python-Strings,2 questions,quiz,6,– Python – Variablen und Datentypen,18
+2643056,16913670,99,Arithmetische Operatoren in Python,03:23,lecture,1,– Python – Grundlegende Python-Syntax,19
+2643056,4746284,49,Arithmetische Operatoren in Python,1 question,quiz,2,– Python – Grundlegende Python-Syntax,19
+2643056,16913672,100,Das doppelte Gleichheitszeichen,01:33,lecture,3,– Python – Grundlegende Python-Syntax,19
+2643056,4746286,50,Das doppelte Gleichheitszeichen,1 question,quiz,4,– Python – Grundlegende Python-Syntax,19
+2643056,16913678,101,Neuzuweisung von Werten,01:08,lecture,5,– Python – Grundlegende Python-Syntax,19
+2643056,4746288,51,Neuzuweisung von Werten,1 question,quiz,6,– Python – Grundlegende Python-Syntax,19
+2643056,16913684,102,Hinzufügen von Kommentaren,01:25,lecture,7,– Python – Grundlegende Python-Syntax,19
+2643056,4746290,52,Hinzufügen von Kommentaren,1 question,quiz,8,– Python – Grundlegende Python-Syntax,19
+2643056,16913690,103,Fortsetzen von Zeilen,00:49,lecture,9,– Python – Grundlegende Python-Syntax,19
+2643056,16913692,104,Indexierung von Elementen,01:18,lecture,10,– Python – Grundlegende Python-Syntax,19
+2643056,4746292,53,Indexierung von Elementen,1 question,quiz,11,– Python – Grundlegende Python-Syntax,19
+2643056,16913694,105,Code-Strukturierung mit Einrückung,01:44,lecture,12,– Python – Grundlegende Python-Syntax,19
+2643056,4746294,54,Code-Strukturierung mit Einrückung,1 question,quiz,13,– Python – Grundlegende Python-Syntax,19
+2643056,16913714,106,Vergleichsoperatoren,02:10,lecture,1,– Python – Weitere Python-Operatoren,20
+2643056,4746296,55,Vergleichsoperatoren,1 question,quiz,2,– Python – Weitere Python-Operatoren,20
+2643056,16913716,107,Logische und Identitätsoperatoren,05:35,lecture,3,– Python – Weitere Python-Operatoren,20
+2643056,4746298,56,Logische und Identitätsoperatoren,1 question,quiz,4,– Python – Weitere Python-Operatoren,20
+2643056,16913720,108,if-Anweisungen,03:04,lecture,1,– Python – Bedingte Anweisungen,21
+2643056,4746300,57,if-Anweisungen,1 question,quiz,2,– Python – Bedingte Anweisungen,21
+2643056,16913724,109,else-Anweisungen,02:39,lecture,3,– Python – Bedingte Anweisungen,21
+2643056,16913730,110,elif-Anweisungen,05:34,lecture,4,– Python – Bedingte Anweisungen,21
+2643056,16923102,111,Hinweis zu Boolean-Werten,02:13,lecture,5,– Python – Bedingte Anweisungen,21
+2643056,4746304,58,Hinweis zu Boolean-Werten,1 question,quiz,6,– Python – Bedingte Anweisungen,21
+2643056,16913732,112,Definition einer Funktion in Python,02:03,lecture,1,– Python – Python-Funktionen,22
+2643056,16913736,113,Erstellung einer Funktion mit Parameter,03:49,lecture,2,– Python – Python-Funktionen,22
+2643056,16913740,114,Definition einer Funktion in Python – Teil II,02:35,lecture,3,– Python – Python-Funktionen,22
+2643056,16913742,115,Erstellung einer Funktion innerhalb einer Funktion,01:49,lecture,4,– Python – Python-Funktionen,22
+2643056,16913744,116,Bedingte Anweisungen und Funktionen,03:06,lecture,5,– Python – Python-Funktionen,22
+2643056,16913746,117,Funktionen mit mehreren Argumenten,01:13,lecture,6,– Python – Python-Funktionen,22
+2643056,16913748,118,In Python integrierte Funktionen,03:56,lecture,7,– Python – Python-Funktionen,22
+2643056,4746834,59,Python-Funktionen,2 questions,quiz,8,– Python – Python-Funktionen,22
+2643056,16913752,119,Listen,04:02,lecture,1,– Python – Sequenzen,23
+2643056,4746306,60,Listen,1 question,quiz,2,– Python – Sequenzen,23
+2643056,16913756,120,Methoden,03:22,lecture,3,– Python – Sequenzen,23
+2643056,4746308,61,Methoden,1 question,quiz,4,– Python – Sequenzen,23
+2643056,16913760,121,Slicing von Listen,04:30,lecture,5,– Python – Sequenzen,23
+2643056,16913764,122,Tupel,03:13,lecture,6,– Python – Sequenzen,23
+2643056,16913766,123,Dictionaries,04:04,lecture,7,– Python – Sequenzen,23
+2643056,4746310,62,Dictionaries,1 question,quiz,8,– Python – Sequenzen,23
+2643056,16913772,124,for-Schleifen,02:26,lecture,1,– Python – Iterationen,24
+2643056,4746312,63,for-Schleifen,1 question,quiz,2,– Python – Iterationen,24
+2643056,16913774,125,while-Schleifen und Inkrementierung,02:26,lecture,3,– Python – Iterationen,24
+2643056,16913776,126,Erstellung von Listen mittels range-Funktion,02:22,lecture,4,– Python – Iterationen,24
+2643056,4746316,64,Erstellung von Listen mittels range-Funktion,1 question,quiz,5,– Python – Iterationen,24
+2643056,16913778,127,Bedingte Anweisungen und Schleifen,03:05,lecture,6,– Python – Iterationen,24
+2643056,16913780,128,"Bedingte Anweisungen, Funktionen und Schleifen",02:27,lecture,7,– Python – Iterationen,24
+2643056,16913782,129,Anwendung von Iterationen auf Dictionaries,03:07,lecture,8,– Python – Iterationen,24
+2643056,16913790,130,Objektorientierte Programmierung,05:00,lecture,1,– Python – Anspruchsvollere Python-Tools,25
+2643056,16913792,131,Module und Pakete,01:05,lecture,2,– Python – Anspruchsvollere Python-Tools,25
+2643056,16913794,132,Was ist die Standardbibliothek?,02:47,lecture,3,– Python – Anspruchsvollere Python-Tools,25
+2643056,16913796,133,Importieren von Modulen in Python,04:10,lecture,4,– Python – Anspruchsvollere Python-Tools,25
+2643056,16915932,134,Einführung in die Regressionsanalyse,01:27,lecture,1,– Teil 4: Statistische Methoden in Python für Fortgeschrittene,26
+2643056,4746458,65,Einführung in die Regressionsanalyse,1 question,quiz,2,– Teil 4: Statistische Methoden in Python für Fortgeschrittene,26
+2643056,16915934,135,Das lineare Regressionsmodell,05:50,lecture,1,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746460,66,Das lineare Regressionsmodell,2 questions,quiz,2,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915936,136,Korrelation vs. Regression,01:43,lecture,3,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746462,67,Korrelation vs. Regression,1 question,quiz,4,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915942,137,Geometrische Darstellung des linearen Regressionsmodells,01:25,lecture,5,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746464,68,Geometrische Darstellung des linearen Regressionsmodells,1 question,quiz,6,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16916106,138,Installation der Python-Pakete,04:39,lecture,7,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915970,139,Unsere erste Regression in Python,07:11,lecture,8,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915974,140,Unsere erste Regression in Python. Übung.,00:03,lecture,9,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915976,141,Seaborn für Diagramme,01:21,lecture,10,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915984,142,Interpretation von Regressionstabellen,05:47,lecture,11,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746466,69,Interpretation von Regressionstabellen,2 questions,quiz,12,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915992,143,Aussagekraft einer Regression,03:37,lecture,13,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746468,70,Aussagekraft einer Regression,1 question,quiz,14,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16915996,144,Die OLS-Methode,03:13,lecture,15,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746470,71,Die OLS-Methode,1 question,quiz,16,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16916000,145,R-Quadrat,05:30,lecture,17,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,4746472,72,R-Quadrat,2 questions,quiz,18,– Statistische Methoden für Fortgeschrittene – Lineare Regression (StatsModels),27
+2643056,16916120,146,Multiple lineare Regression,02:55,lecture,1,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746476,73,Multiple lineare Regression,1 question,quiz,2,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916128,147,Das korrigierte R-Quadrat,06:00,lecture,3,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746478,74,Das korrigierte R-Quadrat,3 questions,quiz,4,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916136,148,Multiple lineare Regression. Übung.,00:03,lecture,5,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916132,149,Test der Gesamtsignifikanz des Modells (F-Test),02:01,lecture,6,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916142,150,OLS-Annahmen,02:21,lecture,7,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746482,75,OLS-Annahmen,1 question,quiz,8,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916148,151,A1: Linearität,01:50,lecture,9,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746484,76,A1: Linearität,1 question,quiz,10,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916156,152,A2: Keine Endogenität,04:09,lecture,11,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746486,77,A2: Keine Endogenität,1 question,quiz,12,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916168,153,A3: Normalität und Homoskedastizität,05:47,lecture,13,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916174,154,A4: Keine Autokorrelation,03:31,lecture,14,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746488,78,A4: Keine Autokorrelation,1 question,quiz,15,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916180,155,A5: Keine Multikollinearität,03:26,lecture,16,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,4746490,79,A5: Keine Multikollinearität,1 question,quiz,17,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916186,156,Umgang mit kategorischen Daten - Dummy-Variablen,06:43,lecture,18,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916190,157,Umgang mit kategorischen Daten - Dummy-Variablen. Übung,00:03,lecture,19,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916196,158,Voraussagen mit der linearen Regression,03:19,lecture,20,– Statistische Methoden für Fortgeschrittene – Multiple lineare Regression,28
+2643056,16916204,159,Einführung in die logistische Regression,01:19,lecture,1,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916328,160,Ein einfaches Beispiel in Python,04:42,lecture,2,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916334,161,Logistische vs. Logit-Funktion,04:00,lecture,3,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916528,162,Erstellung einer logistischen Regression,02:48,lecture,4,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916532,163,Erstellung einer logistischen Regression. Übung.,00:03,lecture,5,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916530,164,Ein wertvoller Coding-Tipp,02:26,lecture,6,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916534,165,Interpretation von logistischen Regressionstabellen,04:06,lecture,7,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916538,166,Interpretation von logistischen Regressionstabellen. Übung.,00:03,lecture,8,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916540,167,Wahrscheinlichkeiten im Kontext,04:30,lecture,9,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916544,168,Binäre Prädiktoren in einer logistischen Regression,04:32,lecture,10,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916546,169,Binäre Prädiktoren in einer logistischen Regression. Übung.,00:03,lecture,11,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916548,170,Berechnung der Genauigkeit des Modells,03:21,lecture,12,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916552,171,Berechnung der Genauigkeit des Modells,00:03,lecture,13,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916554,172,Unteranpassung und Überanpassung,03:43,lecture,14,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916556,173,Testen des Modells,05:05,lecture,15,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916560,174,Testen des Modells. Übung.,00:03,lecture,16,– Statistische Methoden für Fortgeschrittene – Logistische Regression,29
+2643056,16916562,175,Einführung in Clusteranalysen,03:41,lecture,1,– Statistische Methoden für Fortgeschrittene – Clusteranalysen,30
+2643056,16916564,176,Beispiele für Cluster,04:31,lecture,2,– Statistische Methoden für Fortgeschrittene – Clusteranalysen,30
+2643056,16916566,177,Der Unterschied zwischen Klassifizierung und Clustering,02:32,lecture,3,– Statistische Methoden für Fortgeschrittene – Clusteranalysen,30
+2643056,16916576,178,Mathematische Voraussetzungen,03:19,lecture,4,– Statistische Methoden für Fortgeschrittene – Clusteranalysen,30
+2643056,16916570,179,Das k-Means-Verfahren,04:41,lecture,1,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916580,180,Ein einfaches Beispiel für Clustering,07:48,lecture,2,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16923518,181,Ein einfaches Beispiel für Clustering. Übung.,00:03,lecture,3,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916584,182,Clustering kategorischer Daten,02:50,lecture,4,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916590,183,Clustering kategorischer Daten. Übung.,00:03,lecture,5,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916588,184,Die Bestimmung der richtigen Clusteranzahl,06:11,lecture,6,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916594,185,Die Bestimmung der richtigen Clusteranzahl. Übung.,00:03,lecture,7,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916592,186,Vor- und Nachteile des k-Means-Clustering,03:23,lecture,8,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916598,187,Standardisieren oder nicht standardisieren?,04:32,lecture,9,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916600,188,Zusammenhänge zwischen Clustering und Regression,01:31,lecture,10,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916602,189,Marktsegmentierung anhand von Clusteranalysen (Teil 1),06:03,lecture,11,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916604,190,Marktsegmentierung anhand von Clusteranalysen (Teil 2),06:58,lecture,12,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916606,191,Wofür ist Clustering überhaupt gut?,04:47,lecture,13,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916610,192,ÜBUNG: Speziessegmentierung anhand von Clusteranalysen (Teil 1),00:03,lecture,14,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916612,193,ÜBUNG: Speziessegmentierung anhand von Clusteranalysen (Teil 2),00:03,lecture,15,– Statistische Methoden für Fortgeschrittene – Das k-Means-Verfahren,31
+2643056,16916614,194,Weitere Clusteringtypen,03:39,lecture,1,– Statistische Methoden für Fortgeschrittene – Weitere Clusteringtypen,32
+2643056,16916616,195,Dendrogramme,05:21,lecture,2,– Statistische Methoden für Fortgeschrittene – Weitere Clusteringtypen,32
+2643056,16916622,196,Heatmaps,04:34,lecture,3,– Statistische Methoden für Fortgeschrittene – Weitere Clusteringtypen,32
+2643056,16916626,197,Was ist eine Matrix?,03:37,lecture,1,– Teil 5: Mathematik,33
+2643056,4746498,80,Was ist eine Matrix?,6 questions,quiz,2,– Teil 5: Mathematik,33
+2643056,16916628,198,Skalare und Vektoren,02:58,lecture,3,– Teil 5: Mathematik,33
+2643056,4746500,81,Skalare und Vektoren,5 questions,quiz,4,– Teil 5: Mathematik,33
+2643056,16916632,199,Lineare Algebra und Geometrie,03:06,lecture,5,– Teil 5: Mathematik,33
+2643056,4746502,82,Lineare Algebra und Geometrie,3 questions,quiz,6,– Teil 5: Mathematik,33
+2643056,16916638,200,Arrays in Python – Eine praktische Darstellungsform für Matrizen,05:09,lecture,7,– Teil 5: Mathematik,33
+2643056,16916642,201,Was ist ein Tensor?,03:00,lecture,8,– Teil 5: Mathematik,33
+2643056,4746504,83,Was ist ein Tensor?,2 questions,quiz,9,– Teil 5: Mathematik,33
+2643056,16916648,202,Addition und Subtraktion von Matrizen,03:36,lecture,10,– Teil 5: Mathematik,33
+2643056,4746506,84,Addition und Subtraktion von Matrizen,2 questions,quiz,11,– Teil 5: Mathematik,33
+2643056,16916652,203,Fehler beim Addieren von Matrizen,02:01,lecture,12,– Teil 5: Mathematik,33
+2643056,16916656,204,Transponieren einer Matrix,05:13,lecture,13,– Teil 5: Mathematik,33
+2643056,16916660,205,Das Punktprodukt,03:48,lecture,14,– Teil 5: Mathematik,33
+2643056,16916664,206,Das Punktprodukt von Matrizen,08:23,lecture,15,– Teil 5: Mathematik,33
+2643056,16916666,207,Wofür nützt uns lineare Algebra?,10:10,lecture,16,– Teil 5: Mathematik,33
+2643056,16916670,208,Ausblick auf die Inhalte dieses Moduls,03:07,lecture,1,– Teil 6: Deep Learning,34
+2643056,16916672,209,Einführung in neuronale Netze,04:09,lecture,1,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746510,85,Einführung in neuronale Netze,5 questions,quiz,2,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916678,210,Trainieren des Modells,02:54,lecture,3,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746512,86,Trainieren des Modells,3 questions,quiz,4,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916680,211,Teilgebiete des maschinellen Lernens,03:43,lecture,5,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746514,87,Teilgebiete des maschinellen Lernens,4 questions,quiz,6,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916684,212,Das lineare Modell (lineare Algebra),03:08,lecture,7,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746516,88,Das lineare Modell,2 questions,quiz,8,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916690,213,Das lineare Modell mit mehreren Eingaben,02:25,lecture,9,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746518,89,Das lineare Modell mit mehreren Eingaben,2 questions,quiz,10,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916694,214,Das lineare Modell mit mehreren Eingaben und Ausgaben,04:22,lecture,11,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746520,90,Das lineare Modell mit mehreren Eingaben und Ausgaben,4 questions,quiz,12,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916698,215,Grafische Darstellung einfacher neuronaler Netze,01:47,lecture,13,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746522,91,Grafische Darstellung einfacher neuronaler Netze,1 question,quiz,14,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916702,216,Was ist die Zielfunktion?,01:27,lecture,15,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746524,92,Was ist die Zielfunktion?,2 questions,quiz,16,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916708,217,Gängige Zielfunktionen: L2-Normverlust,02:04,lecture,17,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746526,93,Gängige Zielfunktionen: L2-Normverlust,3 questions,quiz,18,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916710,218,Gängige Zielfunktionen: Kreuzentropieverlust,03:55,lecture,19,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746528,94,Gängige Zielfunktionen: Kreuzentropieverlust,4 questions,quiz,20,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916714,219,Der Optimierungsalgorithmus: Gradientenabstieg mit 1 Parameter,06:33,lecture,21,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746530,95,Der Optimierungsalgorithmus: Gradientenabstieg mit 1 Parameter,4 questions,quiz,22,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916720,220,Der Optimierungsalgorithmus: Gradientenabstieg mit n Parametern,06:08,lecture,23,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,4746532,96,Der Optimierungsalgorithmus: Gradientenabstieg mit n Parametern,3 questions,quiz,24,– Deep Learning –  Einführung in neuronale Netze,35
+2643056,16916724,221,Beispiel für ein einfaches neuronales Netz (Teil 1),03:06,lecture,1,– Deep Learning – Erstellung eines neuronalen Netzes mit NumPy,36
+2643056,16916728,222,Beispiel für ein einfaches neuronales Netz (Teil 2),04:59,lecture,2,– Deep Learning – Erstellung eines neuronalen Netzes mit NumPy,36
+2643056,16916732,223,Beispiel für ein einfaches neuronales Netz (Teil 3),03:25,lecture,3,– Deep Learning – Erstellung eines neuronalen Netzes mit NumPy,36
+2643056,16916734,224,Beispiel für ein einfaches neuronales Netz (Teil 4),08:15,lecture,4,– Deep Learning – Erstellung eines neuronalen Netzes mit NumPy,36
+2643056,16916736,225,Übungen zu einfachen neuronalen Netzen,00:03,lecture,5,– Deep Learning – Erstellung eines neuronalen Netzes mit NumPy,36
+2643056,16916738,226,Installation von TensorFlow 2.0,05:02,lecture,1,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916742,227,TensorFlow: Vorstellung und Vergleich mit anderen Bibliotheken,03:28,lecture,2,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916778,228,TensorFlow 1 vs. TensorFlow 2,02:33,lecture,3,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916746,229,Hinweis zur Syntax von TensorFlow 2,00:58,lecture,4,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916748,230,Von TensorFlow unterstützte Dateiformate,02:34,lecture,5,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916782,231,Anlegen des Modells mit TensorFlow 2,05:48,lecture,6,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916786,232,Interpretation des Ergebnisses und Extraktion von Gewichten und Biases,04:09,lecture,7,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916788,233,Anpassung eines TensorFlow-2-Modells,02:51,lecture,8,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916790,234,Übungen zu einfachen neuronalen Netzen mit TensorFlow,00:03,lecture,9,– Deep Learning – Einführung in TensorFlow 2.0,37
+2643056,16916794,235,Was ist eine Schicht?,01:53,lecture,1,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916796,236,Was ist ein tiefes Netz?,02:18,lecture,2,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916802,237,Tiefe Netze im Detail,04:58,lecture,3,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916804,238,Nichtlinearitäten und ihr Sinn und Zweck,02:59,lecture,4,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916806,239,Aktivierungsfunktionen,03:37,lecture,5,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916810,240,Aktivierungsfunktionen: Softmax,03:23,lecture,6,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916812,241,Backpropagation,03:12,lecture,7,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916814,242,Schematische Darstellung der Backpropagation,03:02,lecture,8,– Deep Learning – Ab in die Tiefe: Einführung in tiefe neuronale Netze,38
+2643056,16916826,243,Was ist Überanpassung?,03:51,lecture,1,– Deep Learning – Überanpassung,39
+2643056,16916828,244,Unteranpassung und Überanpassung: Beispiel zur Klassifikation,01:52,lecture,2,– Deep Learning – Überanpassung,39
+2643056,16916830,245,Worum geht es bei der Validierung?,03:22,lecture,3,– Deep Learning – Überanpassung,39
+2643056,16916834,246,"Trainings-, Validierungs- und Testdatensätze",02:30,lecture,4,– Deep Learning – Überanpassung,39
+2643056,16916838,247,n-fache Kreuzvalidierung,03:07,lecture,5,– Deep Learning – Überanpassung,39
+2643056,16916840,248,Trainingsende: Early Stopping,04:54,lecture,6,– Deep Learning – Überanpassung,39
+2643056,16916842,249,Was ist Initialisierung?,02:32,lecture,1,– Deep Learning – Initialisierung,40
+2643056,16916846,250,Varianten einfacher Initialisierung,02:47,lecture,2,– Deep Learning – Initialisierung,40
+2643056,16916852,251,Initialisierungsverfahren: Der Gold-Standard nach Xavier Glorot,02:45,lecture,3,– Deep Learning – Initialisierung,40
+2643056,16916856,252,Der stochastische Gradientenabstieg,03:24,lecture,1,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16916860,253,Probleme beim Gradientenabstieg,02:02,lecture,2,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16916862,254,Das Momentum,02:30,lecture,3,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16916870,255,Die Wahl der optimalen Lernrate mit Lernraten-Schedules,04:25,lecture,4,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16916874,256,Visualisierung von Lernraten-Schedules,01:32,lecture,5,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16916878,257,Adaptive Lernraten-Schedules (AdaGrad und RMSprop ),04:08,lecture,6,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16916882,258,Adam (Adaptive Moment Estimation),02:39,lecture,7,– Deep Learning – Der Gradientenabstieg und Lernraten-Schedules im Detail,41
+2643056,16917050,259,Einführung in die Datenaufbereitung,02:51,lecture,1,– Deep Learning – Datenaufbereitung,42
+2643056,16917052,260,Einfache Datenaufbereitungsverfahren,01:17,lecture,2,– Deep Learning – Datenaufbereitung,42
+2643056,16917054,261,Standardisierung,04:30,lecture,3,– Deep Learning – Datenaufbereitung,42
+2643056,16917056,262,Aufbereitung kategorischer Daten,02:16,lecture,4,– Deep Learning – Datenaufbereitung,42
+2643056,16917058,263,Binär- und One-Hot-Codierung,03:39,lecture,5,– Deep Learning – Datenaufbereitung,42
+2643056,16917064,264,MNIST: Der Datensatz,02:25,lecture,1,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917068,265,MNIST: So geht man den Datensatz an,02:44,lecture,2,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917070,266,MNIST: Importieren der relevanten Pakete und Laden der Daten,02:11,lecture,3,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917072,267,MNIST: Datenaufbereitung – Erstellung und Skalierung des Validierungsdatensatzes,04:43,lecture,4,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917076,268,MNIST: Datenaufbereitung – Skalieren der Testdaten. Übung.,00:03,lecture,5,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917074,269,MNIST: Datenaufbereitung – Shuffling und Batching,06:30,lecture,6,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917080,270,MNIST: Datenaufbereitung – Shuffling und Batching. Übung.,00:03,lecture,7,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917082,271,MNIST: Anlegen des Modells,04:54,lecture,8,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917084,272,MNIST: Festlegen von Verlustfunktion und Optimierer,02:05,lecture,9,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917086,273,MNIST: Lernphase,05:38,lecture,10,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917088,274,MNIST: Übungen,00:03,lecture,11,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917092,275,MNIST: Testen des Modells,03:55,lecture,12,– Deep Learning – Klassifikation des MNIST-Datensatzes,43
+2643056,16917100,276,Business-Fallstudie: Studium des Datensatzes und Identifikation von Prädiktoren,07:54,lecture,1,– Deep Learning – Business-Fallstudie,44
+2643056,16917106,277,Business-Fallstudie: Lösungsplanung,01:31,lecture,2,– Deep Learning – Business-Fallstudie,44
+2643056,16917110,278,Business-Fallstudie: Data Balancing,03:39,lecture,3,– Deep Learning – Business-Fallstudie,44
+2643056,16917112,279,Business-Fallstudie: Datenaufbereitung,11:32,lecture,4,– Deep Learning – Business-Fallstudie,44
+2643056,16917118,280,Business-Fallstudie: Datenaufbereitung. Übung.,00:03,lecture,5,– Deep Learning – Business-Fallstudie,44
+2643056,16917122,281,Business-Fallstudie: Laden der aufbereiteten Daten,03:22,lecture,6,– Deep Learning – Business-Fallstudie,44
+2643056,16917124,282,Business-Fallstudie: Laden der aufbereiteten Daten. Übung.,00:03,lecture,7,– Deep Learning – Business-Fallstudie,44
+2643056,16917130,283,Business-Fallstudie: Lernphase und Interpretation des Ergebnisses,04:15,lecture,8,– Deep Learning – Business-Fallstudie,44
+2643056,16917134,284,Business-Fallstudie: Einrichtung eines Early-Stopping-Mechanismus,05:00,lecture,9,– Deep Learning – Business-Fallstudie,44
+2643056,16917140,285,Business-Fallstudie: Testen des Modells,01:23,lecture,10,– Deep Learning – Business-Fallstudie,44
+2643056,16917144,286,Business-Fallstudie: Abschlussübung,00:03,lecture,11,– Deep Learning – Business-Fallstudie,44
+2643056,16917158,287,Zusammenfassung des Gelernten,03:40,lecture,1,– Deep Learning – Zusammenfassung,45
+2643056,16917164,288,Themen im erweiterten ML-Umfeld,01:47,lecture,2,– Deep Learning – Zusammenfassung,45
+2643056,16917168,289,DeepMind und Deep Learning,00:18,lecture,3,– Deep Learning – Zusammenfassung,45
+2643056,16917172,290,CNNs: Ein Überblick,04:56,lecture,4,– Deep Learning – Zusammenfassung,45
+2643056,16917180,291,RNNs: Ein Überblick,02:50,lecture,5,– Deep Learning – Zusammenfassung,45
+2643056,16917184,292,ML-Algorithmen außerhalb neuronaler Netze,03:52,lecture,6,– Deep Learning – Zusammenfassung,45

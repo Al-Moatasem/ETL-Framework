@@ -1,0 +1,16 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+786082,4784604,1,Introduction,04:34,lecture,1,Basic Introduction to Programming with Python,1
+786082,4784610,2,What is Python,06:17,lecture,2,Basic Introduction to Programming with Python,1
+786082,4784612,3,Download and Install Python,06:47,lecture,3,Basic Introduction to Programming with Python,1
+786082,4784618,4,The Python IDLE,08:12,lecture,4,Basic Introduction to Programming with Python,1
+786082,4852076,5,Reserved Python Keywords,02:09,lecture,5,Basic Introduction to Programming with Python,1
+786082,4852064,6,Arithmetic Operators,02:22,lecture,6,Basic Introduction to Programming with Python,1
+786082,4852066,7,Comparison Operators,04:02,lecture,7,Basic Introduction to Programming with Python,1
+786082,4784620,8,Python Variable,07:22,lecture,8,Basic Introduction to Programming with Python,1
+786082,4784624,9,What is a List,10:07,lecture,9,Basic Introduction to Programming with Python,1
+786082,4853416,10,Tuples,03:23,lecture,10,Basic Introduction to Programming with Python,1
+786082,4852068,11,Comments,01:50,lecture,11,Basic Introduction to Programming with Python,1
+786082,4852074,12,Slicing Strings,02:56,lecture,12,Basic Introduction to Programming with Python,1
+786082,4784628,13,Write your first Python Program,08:44,lecture,13,Basic Introduction to Programming with Python,1
+786082,4853420,14,Boolean Data Type,01:31,lecture,14,Basic Introduction to Programming with Python,1
+786082,26889390,15,Thank You,00:09,lecture,15,Basic Introduction to Programming with Python,1

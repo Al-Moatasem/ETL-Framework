@@ -1,0 +1,20 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1432454,8767314,1,Introduction,03:07,lecture,1,Introduction,1
+1432454,29542,1,Personal Email Goals,4 questions,practice,2,Introduction,1
+1432454,8767592,2,Understanding the Nature of Email Communication,02:52,lecture,1,Before You Email,2
+1432454,29544,2,Email Appropriate?,10 questions,practice,2,Before You Email,2
+1432454,8907056,0,Is It That Important?,04:52,lecture,3,Before You Email,2
+1432454,8767576,4,Know Your Targets: Audience and Goal,03:34,lecture,4,Before You Email,2
+1432454,29570,3,Target Practice,3 questions,practice,5,Before You Email,2
+1432454,8767594,5,Email Structure,03:24,lecture,1,Writing an Email,3
+1432454,30432,4,Second Attempt,3 questions,practice,2,Writing an Email,3
+1432454,8767596,6,Strategies and Extras (Part 1),03:13,lecture,3,Writing an Email,3
+1432454,8812912,7,Strategies and Extras (Part 2),02:19,lecture,4,Writing an Email,3
+1432454,30442,5,What's Wrong With This Picture,1 question,practice,5,Writing an Email,3
+1432454,8876388,8,Email Interruptions,05:40,lecture,1,Managing Your Inbox,4
+1432454,8767600,9,Email Management,02:41,lecture,2,Managing Your Inbox,4
+1432454,8907114,0,Thinking Outside the (In)Box,04:21,lecture,3,Managing Your Inbox,4
+1432454,31848,6,Inbox Boss,4 questions,practice,4,Managing Your Inbox,4
+1432454,4361430,1,Sent and Received - Course Quiz,10 questions,quiz,1,Conclusion,5
+1432454,8767602,11,Conclusion,01:14,lecture,2,Conclusion,5
+1432454,31296,7,Course Reflection,3 questions,practice,3,Conclusion,5

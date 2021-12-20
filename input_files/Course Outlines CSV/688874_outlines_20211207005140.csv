@@ -1,0 +1,10 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+688874,4386754,1,Introduction,05:13,lecture,1,JSON: The Basics,1
+688874,4373644,2,What is JSON,03:28,lecture,2,JSON: The Basics,1
+688874,4373654,3,NotepaD++ Text Editor,03:50,lecture,3,JSON: The Basics,1
+688874,4373668,4,Javascript Operators,04:59,lecture,4,JSON: The Basics,1
+688874,4373674,5,Javascript Functions,07:50,lecture,5,JSON: The Basics,1
+688874,4373666,6,Javascript Variables,10:36,lecture,6,JSON: The Basics,1
+688874,4373650,7,How to write JSON  Syntax,11:06,lecture,7,JSON: The Basics,1
+688874,4373652,8,How to create a JSON Object,07:42,lecture,8,JSON: The Basics,1
+688874,26889248,9,Thank You,00:09,lecture,9,JSON: The Basics,1

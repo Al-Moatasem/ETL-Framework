@@ -1,0 +1,13 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+4349074,29030752,1,Python I for Power BI Users - Resource Pack,00:02,lecture,1,Python and Power BI,1
+4349074,28964066,2,Introduction,01:42,lecture,2,Python and Power BI,1
+4349074,29016384,3,Installing Anaconda,10:18,lecture,3,Python and Power BI,1
+4349074,29016388,4,Dictionary and DataFrame,19:39,lecture,4,Python and Power BI,1
+4349074,29016392,5,DataFrame Functions,12:07,lecture,5,Python and Power BI,1
+4349074,29016396,6,Visualizing Data,27:26,lecture,6,Python and Power BI,1
+4349074,29016402,7,Three Ways to Use Python Scripting,22:23,lecture,7,Python and Power BI,1
+4349074,29016404,8,Python Visuals and Spyder IDE,23:12,lecture,8,Python and Power BI,1
+4349074,29016514,9,Date Tables and Python,28:13,lecture,9,Python and Power BI,1
+4349074,29016524,10,Combining Data and Filtering,45:46,lecture,10,Python and Power BI,1
+4349074,29016526,11,Python Enhanced Report A,46:26,lecture,11,Python and Power BI,1
+4349074,29016528,12,Python Enhanced Report B,18:01,lecture,12,Python and Power BI,1

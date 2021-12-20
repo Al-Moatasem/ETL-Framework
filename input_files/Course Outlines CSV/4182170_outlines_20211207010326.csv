@@ -1,0 +1,17 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+4182170,27499070,1,Introduction,00:42,lecture,1,Installing SQL Sever | SSMS,1
+4182170,27499280,2,What is SQL Server,02:57,lecture,2,Installing SQL Sever | SSMS,1
+4182170,27499274,3,Download SQL Server,04:31,lecture,3,Installing SQL Sever | SSMS,1
+4182170,27499264,4,Installing SQL Server,09:43,lecture,4,Installing SQL Sever | SSMS,1
+4182170,27499194,5,What is SSMS,00:17,lecture,5,Installing SQL Sever | SSMS,1
+4182170,27499174,6,Installing SSMS,05:48,lecture,6,Installing SQL Sever | SSMS,1
+4182170,27499298,7,Connect SSMS to SQL Server,07:46,lecture,7,Installing SQL Sever | SSMS,1
+4182170,27499618,8,Create a database with SSMS,16:23,lecture,1,Creating Database Objects using SSMS,2
+4182170,27499632,9,Create a table with SSMS,13:18,lecture,2,Creating Database Objects using SSMS,2
+4182170,27499742,10,Insert data into table with SSMS,05:42,lecture,3,Creating Database Objects using SSMS,2
+4182170,27499752,11,Edit Table Structure with SSMS,03:27,lecture,4,Creating Database Objects using SSMS,2
+4182170,27500638,12,Create table from flat file,08:14,lecture,5,Creating Database Objects using SSMS,2
+4182170,27499768,13,Import data from csv file with SSMS,12:09,lecture,6,Creating Database Objects using SSMS,2
+4182170,27500202,14,Create a new user account with SSMS,05:20,lecture,7,Creating Database Objects using SSMS,2
+4182170,27500204,15,Reset SA Account with SSMS,05:41,lecture,8,Creating Database Objects using SSMS,2
+4182170,27500286,16,Creating Table Relationships with SSMS,08:49,lecture,9,Creating Database Objects using SSMS,2

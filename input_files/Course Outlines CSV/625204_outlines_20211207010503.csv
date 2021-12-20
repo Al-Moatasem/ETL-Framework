@@ -1,0 +1,682 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+625204,22587506,1,Welcome To The Course!,03:47,lecture,1,Course Orientation,1
+625204,22587510,2,Curriculum Walkthrough,04:12,lecture,2,Course Orientation,1
+625204,22587514,3,When Was The Course Last Updated?,02:17,lecture,3,Course Orientation,1
+625204,22588356,4,Course Change Log,00:18,lecture,4,Course Orientation,1
+625204,22587516,5,Will I Get A Job?,05:45,lecture,5,Course Orientation,1
+625204,22587518,6,Accessing Course Code & Slides,02:23,lecture,6,Course Orientation,1
+625204,22746437,7,Joining The Community Chat & Groups,00:29,lecture,7,Course Orientation,1
+625204,22708691,8,Tips On The Interactive Coding Exercises,03:25,lecture,8,Course Orientation,1
+625204,22711119,9,Migrating From The Old Version Of This Course,08:07,lecture,9,Course Orientation,1
+625204,22503812,10,What Matters In This Section?,03:28,lecture,1,An Introduction to Web Development,2
+625204,22553920,11,The Internet in 5 Minutes,05:42,lecture,2,An Introduction to Web Development,2
+625204,22553924,12,Intro to the Web,06:01,lecture,3,An Introduction to Web Development,2
+625204,22553930,13,The Request/Response Cycle,04:21,lecture,4,An Introduction to Web Development,2
+625204,22553932,14,Front-End and Back-End,03:59,lecture,5,An Introduction to Web Development,2
+625204,22553934,15,What do HTML/CSS/JS do?,05:36,lecture,6,An Introduction to Web Development,2
+625204,22553936,16,Setting Up Our Developer Environment,05:59,lecture,7,An Introduction to Web Development,2
+625204,22553942,17,OPTIONAL VSCode Theme,04:28,lecture,8,An Introduction to Web Development,2
+625204,21915890,18,What Matters In This Section,02:12,lecture,1,HTML: The Essentials,3
+625204,21915852,19,Introduction to HTML,06:55,lecture,2,HTML: The Essentials,3
+625204,21915854,20,Our Very First HTML Page,05:33,lecture,3,HTML: The Essentials,3
+625204,21915858,21,TIP: Mozilla Developer Network,02:41,lecture,4,HTML: The Essentials,3
+625204,21915860,22,Paragraph Elements,03:14,lecture,5,HTML: The Essentials,3
+625204,21915862,23,Heading Elements,06:34,lecture,6,HTML: The Essentials,3
+625204,5040066,1,Pangolin Practice,1 question,quiz,7,HTML: The Essentials,3
+625204,21915868,24,Introduction to the Chrome Inspector,03:07,lecture,8,HTML: The Essentials,3
+625204,21915870,25,HTML Boilerplate,07:25,lecture,9,HTML: The Essentials,3
+625204,21915878,26,VSCode Tip: Auto-format,02:37,lecture,10,HTML: The Essentials,3
+625204,21915880,27,List Elements,06:39,lecture,11,HTML: The Essentials,3
+625204,5015144,2,Favorite Movies Exercises,1 question,quiz,12,HTML: The Essentials,3
+625204,21915884,28,Anchor Tags,07:07,lecture,13,HTML: The Essentials,3
+625204,21915886,29,Images,06:26,lecture,14,HTML: The Essentials,3
+625204,21915888,30,Comments,02:31,lecture,15,HTML: The Essentials,3
+625204,5003346,3,Wolf Images & Links Exercise,1 question,quiz,16,HTML: The Essentials,3
+625204,21915908,31,What Matters In This Section,02:27,lecture,1,HTML: Next Steps & Semantics,4
+625204,21915910,32,What Exactly Is HTML5?,06:27,lecture,2,HTML: Next Steps & Semantics,4
+625204,21915914,33,Block vs. Inline Elements - Divs and Spans,08:42,lecture,3,HTML: Next Steps & Semantics,4
+625204,21915918,34,"An Odd Assortment of Elements: HR, BR, Sup, & Sub",06:18,lecture,4,HTML: Next Steps & Semantics,4
+625204,21915922,35,Entity Codes,06:01,lecture,5,HTML: Next Steps & Semantics,4
+625204,5015192,4,Snowman Logo Exercise,1 question,quiz,6,HTML: Next Steps & Semantics,4
+625204,21919368,36,Intro to Semantic Markup,09:01,lecture,7,HTML: Next Steps & Semantics,4
+625204,21915924,37,Playing With Semantic Elements,12:18,lecture,8,HTML: Next Steps & Semantics,4
+625204,21915928,38,Screen Reader Demonstration,03:33,lecture,9,HTML: Next Steps & Semantics,4
+625204,21915930,39,VSCode Tip: Emmet,06:12,lecture,10,HTML: Next Steps & Semantics,4
+625204,22503824,40,What Matters In This Section,02:52,lecture,1,HTML: Forms & Tables,5
+625204,21917536,41,Unit Goals,01:09,lecture,2,HTML: Forms & Tables,5
+625204,21917540,42,Introducing HTML Tables,04:08,lecture,3,HTML: Forms & Tables,5
+625204,21917550,43,"Tables: TR, TD, and TH Elements",09:11,lecture,4,HTML: Forms & Tables,5
+625204,21917554,44,"Tables: Thead, Tbody, and Tfoot Elements",02:16,lecture,5,HTML: Forms & Tables,5
+625204,21917560,45,Tables: Colspan & Rowspan,04:14,lecture,6,HTML: Forms & Tables,5
+625204,5024288,5,Table Practice Exercise,1 question,quiz,7,HTML: Forms & Tables,5
+625204,21917562,46,The Form Element,09:18,lecture,8,HTML: Forms & Tables,5
+625204,21917566,47,Common Input Types,05:27,lecture,9,HTML: Forms & Tables,5
+625204,21917568,48,The All-Important Label,06:52,lecture,10,HTML: Forms & Tables,5
+625204,21917570,49,HTML Buttons,05:17,lecture,11,HTML: Forms & Tables,5
+625204,21917572,50,The Name Attribute,05:26,lecture,12,HTML: Forms & Tables,5
+625204,21917574,51,"""Hijacking"" Google & Reddit's Search",06:25,lecture,13,HTML: Forms & Tables,5
+625204,21917578,52,"Radio Buttons, Checkboxes, & Selects",10:54,lecture,14,HTML: Forms & Tables,5
+625204,21917580,53,Range & Text Area,07:02,lecture,15,HTML: Forms & Tables,5
+625204,5024298,6,Forms Practice Exercise,1 question,quiz,16,HTML: Forms & Tables,5
+625204,21917582,54,HTML5 Form Validations,09:27,lecture,17,HTML: Forms & Tables,5
+625204,22377234,55,Creating A Marathon Registration Form Intro,02:45,lecture,18,HTML: Forms & Tables,5
+625204,22377240,56,Creating A Marathon Registration Form Solution,12:20,lecture,19,HTML: Forms & Tables,5
+625204,22504918,57,What Matters In This Section,02:51,lecture,1,CSS: The Very Basics,6
+625204,21917588,58,What is CSS?,04:55,lecture,2,CSS: The Very Basics,6
+625204,21917594,59,"CSS is Huge, Don't Panic!",04:03,lecture,3,CSS: The Very Basics,6
+625204,21917596,60,Including Styles Correctly,06:15,lecture,4,CSS: The Very Basics,6
+625204,21917598,61,Color & Background-Color Properties,05:15,lecture,5,CSS: The Very Basics,6
+625204,5024308,7,Our First CSS Exercise,1 question,quiz,6,CSS: The Very Basics,6
+625204,21917600,62,Colors Systems: RGB & Named Colors,07:21,lecture,7,CSS: The Very Basics,6
+625204,21917604,63,Colors Systems: Hexadecimal,07:38,lecture,8,CSS: The Very Basics,6
+625204,5024848,1,Colors Quiz,2 questions,quiz,9,CSS: The Very Basics,6
+625204,21917606,64,A Reminder On Semicolons & CSS,01:11,lecture,10,CSS: The Very Basics,6
+625204,21917610,65,Common Text Properties,11:16,lecture,11,CSS: The Very Basics,6
+625204,21917612,66,Font Size Basics With Pixels,03:06,lecture,12,CSS: The Very Basics,6
+625204,21917614,67,The Font Family Property,06:01,lecture,13,CSS: The Very Basics,6
+625204,5024336,8,Hipster Logo Exercise,1 question,quiz,14,CSS: The Very Basics,6
+625204,21917634,68,What Matters In This Section,02:38,lecture,1,The World of CSS Selectors,7
+625204,21917636,69,Universal & Element Selectors,04:57,lecture,2,The World of CSS Selectors,7
+625204,21917638,70,The ID Selector,05:24,lecture,3,The World of CSS Selectors,7
+625204,21917640,71,The Class Selector,04:43,lecture,4,The World of CSS Selectors,7
+625204,5024854,9,Basic Selectors Practice,1 question,quiz,5,The World of CSS Selectors,7
+625204,21917642,72,The Descendent Selector,05:11,lecture,6,The World of CSS Selectors,7
+625204,5024860,10,Descendent Combinator Practice,1 question,quiz,7,The World of CSS Selectors,7
+625204,21917644,73,The Adjacent & Direct-Descendent Selectors,05:03,lecture,8,The World of CSS Selectors,7
+625204,21917646,74,The Attribute Selector,05:30,lecture,9,The World of CSS Selectors,7
+625204,21917648,75,Pseudo Classes,08:47,lecture,10,The World of CSS Selectors,7
+625204,5028320,11,Checkerboard Exercise,1 question,quiz,11,The World of CSS Selectors,7
+625204,21917650,76,Pseudo Elements,04:23,lecture,12,The World of CSS Selectors,7
+625204,21917654,77,The CSS Cascade,02:21,lecture,13,The World of CSS Selectors,7
+625204,21917656,78,WTF is Specificity,08:00,lecture,14,The World of CSS Selectors,7
+625204,5033748,2,Specificity Quiz,3 questions,quiz,15,The World of CSS Selectors,7
+625204,21917658,79,TIP: Chrome Dev Tools & CSS,03:57,lecture,16,The World of CSS Selectors,7
+625204,21917660,80,Inline Styles & Important,03:49,lecture,17,The World of CSS Selectors,7
+625204,21917662,81,CSS Inheritance,05:10,lecture,18,The World of CSS Selectors,7
+625204,21917680,82,What Matters In This Section,02:42,lecture,1,The CSS Box Model,8
+625204,21917682,83,Box Model: Width & Height,05:40,lecture,2,The CSS Box Model,8
+625204,21917684,84,Box Model: Border & Border-Radius,12:08,lecture,3,The CSS Box Model,8
+625204,5026016,12,Box Model Practice,1 question,quiz,4,The CSS Box Model,8
+625204,21917686,85,Box Model: Padding,07:45,lecture,5,The CSS Box Model,8
+625204,21917690,86,Box Model: Margin,06:11,lecture,6,The CSS Box Model,8
+625204,21917694,87,The Display Property,11:46,lecture,7,The CSS Box Model,8
+625204,21917698,88,CSS Units Revisited,05:39,lecture,8,The CSS Box Model,8
+625204,21917706,89,CSS Units: ems,08:20,lecture,9,The CSS Box Model,8
+625204,21917708,90,CSS Units: rems,07:43,lecture,10,The CSS Box Model,8
+625204,22505002,91,What Matters In This Section,03:04,lecture,1,Other Assorted Useful CSS Properties,9
+625204,21917710,92,Opacity & The Alpha Channel,06:32,lecture,2,Other Assorted Useful CSS Properties,9
+625204,21917714,93,The Position Property,09:40,lecture,3,Other Assorted Useful CSS Properties,9
+625204,21917722,94,CSS Transitions (yay!),11:17,lecture,4,Other Assorted Useful CSS Properties,9
+625204,21917724,95,The Power of CSS Transforms,13:13,lecture,5,Other Assorted Useful CSS Properties,9
+625204,22377506,96,Fancy Button Hover Effect CodeAlong,10:21,lecture,6,Other Assorted Useful CSS Properties,9
+625204,21917726,97,The Truth About Background,08:45,lecture,7,Other Assorted Useful CSS Properties,9
+625204,21917728,98,Google Fonts is Amazing,07:47,lecture,8,Other Assorted Useful CSS Properties,9
+625204,22377442,99,Photo Blog CodeAlong Pt. 1,08:44,lecture,9,Other Assorted Useful CSS Properties,9
+625204,22377448,100,Photo Blog CodeAlong Pt. 2,08:38,lecture,10,Other Assorted Useful CSS Properties,9
+625204,21917732,101,What Matters In This Section,03:11,lecture,1,Responsive CSS & Flexbox,10
+625204,21917734,102,What on Earth Is Flexbox?,04:24,lecture,2,Responsive CSS & Flexbox,10
+625204,21917738,103,Flex-Direction,05:58,lecture,3,Responsive CSS & Flexbox,10
+625204,21917742,104,Justify-Content,05:07,lecture,4,Responsive CSS & Flexbox,10
+625204,21917744,105,Flex-Wrap,03:42,lecture,5,Responsive CSS & Flexbox,10
+625204,21917746,106,Align-Items,07:47,lecture,6,Responsive CSS & Flexbox,10
+625204,21917748,107,Align-Content & Align-Self,05:18,lecture,7,Responsive CSS & Flexbox,10
+625204,21917752,108,"Flex-Basis, Grow, & Shrink",07:51,lecture,8,Responsive CSS & Flexbox,10
+625204,21917756,109,Flex Shorthand,05:38,lecture,9,Responsive CSS & Flexbox,10
+625204,21917762,110,Responsive Design & Media Queries Intro,07:18,lecture,10,Responsive CSS & Flexbox,10
+625204,21917772,111,The Power of Media Queries,09:25,lecture,11,Responsive CSS & Flexbox,10
+625204,21917768,112,Building a Responsive Nav,08:42,lecture,12,Responsive CSS & Flexbox,10
+625204,22380972,113,Pricing Panel CodeAlong Pt. 1,03:55,lecture,1,Pricing Panel Project,11
+625204,22380976,114,Pricing Panel CodeAlong Pt. 2,03:46,lecture,2,Pricing Panel Project,11
+625204,22380980,115,Pricing Panel CodeAlong Pt. 3,03:45,lecture,3,Pricing Panel Project,11
+625204,22380986,116,Pricing Panel CodeAlong Pt. 4,04:43,lecture,4,Pricing Panel Project,11
+625204,22380988,117,Pricing Panel CodeAlong Pt. 5,03:47,lecture,5,Pricing Panel Project,11
+625204,22380992,118,Pricing Panel CodeAlong Pt. 6,03:24,lecture,6,Pricing Panel Project,11
+625204,21917852,119,What Matters In This Section,03:03,lecture,1,CSS Frameworks: Bootstrap,12
+625204,21917856,120,WTF Is Bootstrap,08:01,lecture,2,CSS Frameworks: Bootstrap,12
+625204,21917862,121,Including Bootstrap & Containers,09:38,lecture,3,CSS Frameworks: Bootstrap,12
+625204,21917864,122,Bootstrap Buttons,09:34,lecture,4,CSS Frameworks: Bootstrap,12
+625204,21917866,123,Bootstrap Typography & Utilities,08:01,lecture,5,CSS Frameworks: Bootstrap,12
+625204,21917868,124,"Badges, Alerts, & Button Groups",11:30,lecture,6,CSS Frameworks: Bootstrap,12
+625204,5027386,13,Bootstrap Basics Practice,1 question,quiz,7,CSS Frameworks: Bootstrap,12
+625204,21917872,125,Intro to the Bootstrap Grid,08:05,lecture,8,CSS Frameworks: Bootstrap,12
+625204,5030158,14,Bootstrap Grid Practice,1 question,quiz,9,CSS Frameworks: Bootstrap,12
+625204,21917878,126,Responsive Bootstrap Grids,11:17,lecture,10,CSS Frameworks: Bootstrap,12
+625204,21917880,127,Useful Grid Utilities,08:17,lecture,11,CSS Frameworks: Bootstrap,12
+625204,21917882,128,Bootstrap & Forms,13:17,lecture,12,CSS Frameworks: Bootstrap,12
+625204,21917884,129,Bootstrap Navbars,13:56,lecture,13,CSS Frameworks: Bootstrap,12
+625204,21917870,130,Bootstrap Icons!,07:53,lecture,14,CSS Frameworks: Bootstrap,12
+625204,21917886,131,Other Bootstrap Utilities,11:17,lecture,15,CSS Frameworks: Bootstrap,12
+625204,21917888,132,A Mixed Bag of Other Bootstrap Stuff,03:46,lecture,16,CSS Frameworks: Bootstrap,12
+625204,22765701,133,Watch This First! (it's short),01:10,lecture,1,OPTIONAL Museum Of Candy Project,13
+625204,12262082,134,Museum of Candy Project Part 1,05:16,lecture,2,OPTIONAL Museum Of Candy Project,13
+625204,22762709,135,NOTE ABOUT THE NEXT VIDEO!,00:11,lecture,3,OPTIONAL Museum Of Candy Project,13
+625204,12262084,136,Museum of Candy Project Part 2,14:01,lecture,4,OPTIONAL Museum Of Candy Project,13
+625204,12262088,137,Museum of Candy Project Part 3,12:41,lecture,5,OPTIONAL Museum Of Candy Project,13
+625204,12262092,138,Museum of Candy Project Part 4,16:39,lecture,6,OPTIONAL Museum Of Candy Project,13
+625204,12262094,139,Museum of Candy Project Part 5,09:41,lecture,7,OPTIONAL Museum Of Candy Project,13
+625204,21930182,140,What Matters In This Section,02:27,lecture,1,JavaScript Basics!,14
+625204,21930188,141,Why JavaScript is Awesome,08:09,lecture,2,JavaScript Basics!,14
+625204,21930192,142,Primitives & The Console,06:38,lecture,3,JavaScript Basics!,14
+625204,21930198,143,JavaScript Numbers,07:43,lecture,4,JavaScript Basics!,14
+625204,21930202,144,WTF is NaN,02:56,lecture,5,JavaScript Basics!,14
+625204,21930204,145,Quick Numbers Quiz,01:57,lecture,6,JavaScript Basics!,14
+625204,21930208,146,Variables & Let,06:31,lecture,7,JavaScript Basics!,14
+625204,5029256,15,Our First Variables Exercise,1 question,quiz,8,JavaScript Basics!,14
+625204,21930212,147,Updating Variables,05:17,lecture,9,JavaScript Basics!,14
+625204,21930218,148,Const & Var,04:53,lecture,10,JavaScript Basics!,14
+625204,5030166,16,Our First Constants Exercise,1 question,quiz,11,JavaScript Basics!,14
+625204,5029264,3,Variables Quiz,3 questions,quiz,12,JavaScript Basics!,14
+625204,21930222,149,Booleans,04:37,lecture,13,JavaScript Basics!,14
+625204,21930244,150,Variable Naming and Conventions,05:31,lecture,14,JavaScript Basics!,14
+625204,5032152,4,Quick Variable Quiz,2 questions,quiz,15,JavaScript Basics!,14
+625204,21935970,151,What Matters In This Section,01:45,lecture,1,JavaScript Strings and More,15
+625204,21935972,152,Introducing Strings,04:16,lecture,2,JavaScript Strings and More,15
+625204,5032160,17,Our First String Variables Practice,1 question,quiz,3,JavaScript Strings and More,15
+625204,21935976,153,Indices & Length,08:25,lecture,4,JavaScript Strings and More,15
+625204,5029304,5,Strings Basics Quiz,3 questions,quiz,5,JavaScript Strings and More,15
+625204,21935978,154,String Methods,07:35,lecture,6,JavaScript Strings and More,15
+625204,5029326,18,String Methods Practice,1 question,quiz,7,JavaScript Strings and More,15
+625204,21935982,155,String Methods With Arguments,10:27,lecture,8,JavaScript Strings and More,15
+625204,5029330,19,More String Methods Practice,1 question,quiz,9,JavaScript Strings and More,15
+625204,21935984,156,String Template Literals -SUPER USEFUL,07:01,lecture,10,JavaScript Strings and More,15
+625204,21935986,157,Undefined & Null,03:06,lecture,11,JavaScript Strings and More,15
+625204,21935988,158,Random Numbers & The Math Object,07:32,lecture,12,JavaScript Strings and More,15
+625204,5029342,20,String Template Literal Exercise,1 question,quiz,13,JavaScript Strings and More,15
+625204,21989924,159,What Matters In This Section,01:41,lecture,1,JavaScript Decision Making,16
+625204,22607240,160,Decision Making With Code??,02:01,lecture,2,JavaScript Decision Making,16
+625204,21989926,161,Comparison Operators,05:19,lecture,3,JavaScript Decision Making,16
+625204,21989930,162,Equality: Triple Vs. Double Equals,05:39,lecture,4,JavaScript Decision Making,16
+625204,5030302,6,Comparison Quiz!,3 questions,quiz,5,JavaScript Decision Making,16
+625204,21989934,163,"Console, Alert, & Prompt",05:03,lecture,6,JavaScript Decision Making,16
+625204,21989944,164,Running JavaScript From A Script!,05:46,lecture,7,JavaScript Decision Making,16
+625204,21989948,165,If Statements,06:25,lecture,8,JavaScript Decision Making,16
+625204,5030424,21,Our First Conditional Exercise,1 question,quiz,9,JavaScript Decision Making,16
+625204,21989950,166,Else-If,08:33,lecture,10,JavaScript Decision Making,16
+625204,21989952,167,Else,08:48,lecture,11,JavaScript Decision Making,16
+625204,5030428,22,getColor Conditional Exercise,1 question,quiz,12,JavaScript Decision Making,16
+625204,21989954,168,Nesting Conditionals,05:55,lecture,13,JavaScript Decision Making,16
+625204,5030326,23,Nested Conditionals Practice,1 question,quiz,14,JavaScript Decision Making,16
+625204,21989958,169,Truth-y & False-y Values,05:16,lecture,15,JavaScript Decision Making,16
+625204,21989964,170,Logical AND,05:00,lecture,16,JavaScript Decision Making,16
+625204,5030484,24,Logical AND Mystery Exercise,1 question,quiz,17,JavaScript Decision Making,16
+625204,21989968,171,Logical OR,09:07,lecture,18,JavaScript Decision Making,16
+625204,21989972,172,Logical NOT,05:40,lecture,19,JavaScript Decision Making,16
+625204,24892790,173,The Switch Statement Is...A Lot,09:31,lecture,20,JavaScript Decision Making,16
+625204,21990020,174,What Matters In This Section,01:41,lecture,1,JavaScript Arrays,17
+625204,21990022,175,Introducing Arrays,07:37,lecture,2,JavaScript Arrays,17
+625204,5030526,25,Lotto Numbers Exercise,1 question,quiz,3,JavaScript Arrays,17
+625204,21990026,176,Array Random Access,07:50,lecture,4,JavaScript Arrays,17
+625204,5030504,26,Array Access Exercise,1 question,quiz,5,JavaScript Arrays,17
+625204,21990030,177,Push & Pop,07:37,lecture,6,JavaScript Arrays,17
+625204,21990034,178,Shift & Unshift,04:20,lecture,7,JavaScript Arrays,17
+625204,5030532,27,Push/Pop/Shift/Unshift Practice,1 question,quiz,8,JavaScript Arrays,17
+625204,21990040,179,"Concat, indexOf, includes & reverse",05:57,lecture,9,JavaScript Arrays,17
+625204,21990046,180,Slice & Splice,13:01,lecture,10,JavaScript Arrays,17
+625204,21990050,181,Reference Types & Equality Testing,05:35,lecture,11,JavaScript Arrays,17
+625204,21990054,182,Arrays + Const,04:25,lecture,12,JavaScript Arrays,17
+625204,21990056,183,Multi-Dimensional Arrays,03:57,lecture,13,JavaScript Arrays,17
+625204,5029506,28,Nested Arrays Exercise,1 question,quiz,14,JavaScript Arrays,17
+625204,21990060,184,What Matters In This Section,01:41,lecture,1,JavaScript Object Literals,18
+625204,21990066,185,Introducing Object Literals,04:46,lecture,2,JavaScript Object Literals,18
+625204,21990070,186,Creating Object Literals,03:56,lecture,3,JavaScript Object Literals,18
+625204,5032698,29,Our First Object Exercise,1 question,quiz,4,JavaScript Object Literals,18
+625204,21990072,187,Accessing Data Out Of Objects,07:18,lecture,5,JavaScript Object Literals,18
+625204,5032732,30,Object Access Exercise,1 question,quiz,6,JavaScript Object Literals,18
+625204,21990076,188,Modifying Objects,04:31,lecture,7,JavaScript Object Literals,18
+625204,21990082,189,Nesting Arrays & Objects,06:29,lecture,8,JavaScript Object Literals,18
+625204,21990090,190,What Matters In This Section,02:37,lecture,1,Repeating Stuff With Loops,19
+625204,21990978,191,Intro to For Loops,07:10,lecture,2,Repeating Stuff With Loops,19
+625204,5029352,31,Our First For Loop Practice,1 question,quiz,3,Repeating Stuff With Loops,19
+625204,21990980,192,More For Loops Examples,05:29,lecture,4,Repeating Stuff With Loops,19
+625204,5029354,32,More For Loops Practice,1 question,quiz,5,Repeating Stuff With Loops,19
+625204,21990984,193,The Perils Of Infinite Loops :(,05:39,lecture,6,Repeating Stuff With Loops,19
+625204,21990986,194,Looping Over Arrays,05:59,lecture,7,Repeating Stuff With Loops,19
+625204,5029398,33,Iterating Arrays Exercise,1 question,quiz,8,Repeating Stuff With Loops,19
+625204,21990992,195,Nested Loops,08:39,lecture,9,Repeating Stuff With Loops,19
+625204,21990994,196,Another Loop: The While Loop,06:16,lecture,10,Repeating Stuff With Loops,19
+625204,21990998,197,The Break Keyword,04:19,lecture,11,Repeating Stuff With Loops,19
+625204,21991002,198,Writing a Guessing Game,11:20,lecture,12,Repeating Stuff With Loops,19
+625204,21991010,199,The Lovely For...Of Loop,06:21,lecture,13,Repeating Stuff With Loops,19
+625204,5031152,34,For...Of Practice,1 question,quiz,14,Repeating Stuff With Loops,19
+625204,21991014,200,Iterating Over Objects,05:59,lecture,15,Repeating Stuff With Loops,19
+625204,22694835,201,Todo List Project Intro,05:14,lecture,16,Repeating Stuff With Loops,19
+625204,22694837,202,Todo List Project CodeAlong,19:00,lecture,17,Repeating Stuff With Loops,19
+625204,21991032,203,What Matters In This Section,02:38,lecture,1,NEW: Introducing Functions,20
+625204,21991034,204,Intro to Functions,04:05,lecture,2,NEW: Introducing Functions,20
+625204,21991050,205,Our Very First Function,06:02,lecture,3,NEW: Introducing Functions,20
+625204,5030548,35,Heart Function Exercise,1 question,quiz,4,NEW: Introducing Functions,20
+625204,21991052,206,Arguments Intro,08:07,lecture,5,NEW: Introducing Functions,20
+625204,5030552,36,Rant Exercise,1 question,quiz,6,NEW: Introducing Functions,20
+625204,21991054,207,Functions With Multiple Arguments,07:57,lecture,7,NEW: Introducing Functions,20
+625204,5031200,37,Multiple Args Exercise,1 question,quiz,8,NEW: Introducing Functions,20
+625204,21991056,208,The Return Keyword,06:52,lecture,9,NEW: Introducing Functions,20
+625204,5031222,38,Return Value Practice,1 question,quiz,10,NEW: Introducing Functions,20
+625204,5031292,39,isShortsWeather Function,1 question,quiz,11,NEW: Introducing Functions,20
+625204,5031224,40,Last Element Exercise,1 question,quiz,12,NEW: Introducing Functions,20
+625204,5031298,41,Capitalize Exercise,1 question,quiz,13,NEW: Introducing Functions,20
+625204,5031306,42,Sum Array Exercise,1 question,quiz,14,NEW: Introducing Functions,20
+625204,5031282,43,Days Of The Week Exercise,1 question,quiz,15,NEW: Introducing Functions,20
+625204,22003430,209,What Matters In This Section,03:40,lecture,1,Leveling Up Our Functions,21
+625204,22006460,210,Function Scope,05:56,lecture,2,Leveling Up Our Functions,21
+625204,5035970,7,Function Scope Quiz,3 questions,quiz,3,Leveling Up Our Functions,21
+625204,22003436,211,Block Scope,04:52,lecture,4,Leveling Up Our Functions,21
+625204,22003484,212,Lexical Scope,03:42,lecture,5,Leveling Up Our Functions,21
+625204,22003490,213,Function Expressions,03:34,lecture,6,Leveling Up Our Functions,21
+625204,5031310,44,Function Expression Exercise,1 question,quiz,7,Leveling Up Our Functions,21
+625204,22003494,214,Higher Order Functions,05:00,lecture,8,Leveling Up Our Functions,21
+625204,22003498,215,Returning Functions,10:43,lecture,9,Leveling Up Our Functions,21
+625204,22003500,216,Defining Methods,05:45,lecture,10,Leveling Up Our Functions,21
+625204,5031322,45,Methods Exercise,1 question,quiz,11,Leveling Up Our Functions,21
+625204,22003506,217,The Mysterious Keyword 'this',09:57,lecture,12,Leveling Up Our Functions,21
+625204,5031324,46,Egg Laying Exercise,1 question,quiz,13,Leveling Up Our Functions,21
+625204,22567680,218,Using Try/Catch,06:09,lecture,14,Leveling Up Our Functions,21
+625204,22007788,219,What Matters In This Section,03:10,lecture,1,Callbacks & Array Methods,22
+625204,22607332,220,What Is This Section Even About?!,01:43,lecture,2,Callbacks & Array Methods,22
+625204,22003512,221,The forEach Method,05:25,lecture,3,Callbacks & Array Methods,22
+625204,22003540,222,The map Method,03:49,lecture,4,Callbacks & Array Methods,22
+625204,5031336,47,Map Practice,1 question,quiz,5,Callbacks & Array Methods,22
+625204,22003542,223,Intro to Arrow Functions,05:15,lecture,6,Callbacks & Array Methods,22
+625204,5031394,48,Arrow Function Exercise,1 question,quiz,7,Callbacks & Array Methods,22
+625204,22003544,224,Arrow Function Implicit Returns,04:23,lecture,8,Callbacks & Array Methods,22
+625204,22003546,225,Arrow Functions Wrapup,02:34,lecture,9,Callbacks & Array Methods,22
+625204,22567684,226,setTimeout and setInterval,06:50,lecture,10,Callbacks & Array Methods,22
+625204,22003550,227,The filter Method,06:33,lecture,11,Callbacks & Array Methods,22
+625204,5031396,49,Filter Exercise,1 question,quiz,12,Callbacks & Array Methods,22
+625204,22003552,228,Some & Every Methods,03:22,lecture,13,Callbacks & Array Methods,22
+625204,5031422,50,Some/Every Exercise,1 question,quiz,14,Callbacks & Array Methods,22
+625204,22003570,229,The Notorious Reduce Method,10:53,lecture,15,Callbacks & Array Methods,22
+625204,22567686,230,Arrow Functions & 'this',06:28,lecture,16,Callbacks & Array Methods,22
+625204,22003578,231,What Matters In This Section,02:06,lecture,1,Newer JavaScript Features,23
+625204,22003582,232,Default Params,05:58,lecture,2,Newer JavaScript Features,23
+625204,22003586,233,Spread in Function Calls,05:01,lecture,3,Newer JavaScript Features,23
+625204,22003592,234,Spread with Array Literals,03:00,lecture,4,Newer JavaScript Features,23
+625204,22003598,235,Spread with Objects,05:19,lecture,5,Newer JavaScript Features,23
+625204,22003670,236,Rest Params,06:59,lecture,6,Newer JavaScript Features,23
+625204,22003676,237,Destructuring Arrays,03:22,lecture,7,Newer JavaScript Features,23
+625204,22003680,238,Destructuring Objects,05:38,lecture,8,Newer JavaScript Features,23
+625204,22003684,239,Destructuring Params,04:58,lecture,9,Newer JavaScript Features,23
+625204,22003746,240,What Matters In This Section,02:08,lecture,1,Introducing The World Of The DOM,24
+625204,22504682,241,Introducing the DOM,03:44,lecture,2,Introducing The World Of The DOM,24
+625204,22003748,242,The Document Object,09:52,lecture,3,Introducing The World Of The DOM,24
+625204,22003750,243,getElementById,06:51,lecture,4,Introducing The World Of The DOM,24
+625204,5031458,51,getElementById Practice,1 question,quiz,5,Introducing The World Of The DOM,24
+625204,22003764,244,getElementsByTagName & className,08:15,lecture,6,Introducing The World Of The DOM,24
+625204,22003772,245,querySelector & querySelectorAll,07:16,lecture,7,Introducing The World Of The DOM,24
+625204,5031460,52,querySelector Practice,1 question,quiz,8,Introducing The World Of The DOM,24
+625204,22003778,246,"innerHTML, textContent, & innerText",12:54,lecture,9,Introducing The World Of The DOM,24
+625204,5031464,53,Pickles Exercise,1 question,quiz,10,Introducing The World Of The DOM,24
+625204,22003782,247,Attributes,07:03,lecture,11,Introducing The World Of The DOM,24
+625204,5031840,54,Manipulating Attributes Practice,1 question,quiz,12,Introducing The World Of The DOM,24
+625204,22003784,248,Changing Styles,11:42,lecture,13,Introducing The World Of The DOM,24
+625204,5031936,55,Magical Forest Circle Exercise,1 question,quiz,14,Introducing The World Of The DOM,24
+625204,5031860,56,Rainbow Text Exercise,1 question,quiz,15,Introducing The World Of The DOM,24
+625204,22003788,249,ClassList,07:27,lecture,16,Introducing The World Of The DOM,24
+625204,5031970,57,ClassList Practice,1 question,quiz,17,Introducing The World Of The DOM,24
+625204,22003792,250,Traversing Parent/Child/Sibling,07:25,lecture,18,Introducing The World Of The DOM,24
+625204,22003798,251,Append & AppendChild,11:31,lecture,19,Introducing The World Of The DOM,24
+625204,5031982,58,100 Button Insanity Exercise,1 question,quiz,20,Introducing The World Of The DOM,24
+625204,22003822,252,removeChild & remove,03:39,lecture,21,Introducing The World Of The DOM,24
+625204,22003864,253,Pokemon Sprites Demo,10:02,lecture,22,Introducing The World Of The DOM,24
+625204,22051260,254,What Matters In This Section,02:10,lecture,1,The Missing Piece: DOM Events,25
+625204,22051262,255,Intro to Events,06:00,lecture,2,The Missing Piece: DOM Events,25
+625204,22051264,256,Inline Events,05:44,lecture,3,The Missing Piece: DOM Events,25
+625204,5032090,59,Know Thy Enemy Exercise,1 question,quiz,4,The Missing Piece: DOM Events,25
+625204,22051266,257,The Onclick Property,08:54,lecture,5,The Missing Piece: DOM Events,25
+625204,22051274,258,addEventListener,09:22,lecture,6,The Missing Piece: DOM Events,25
+625204,5031990,60,Click Events Exercise,1 question,quiz,7,The Missing Piece: DOM Events,25
+625204,22051276,259,Random Color Exercise,08:33,lecture,8,The Missing Piece: DOM Events,25
+625204,22051280,260,Events & The Keyword This,07:59,lecture,9,The Missing Piece: DOM Events,25
+625204,22051288,261,Keyboard Events & Event Objects,11:43,lecture,10,The Missing Piece: DOM Events,25
+625204,29212054,262,NEW VERSION: Form Events & PreventDefault,08:09,lecture,11,The Missing Piece: DOM Events,25
+625204,29212064,263,NEW VERSION: Practice With Form Events & PreventDefault,08:57,lecture,12,The Missing Piece: DOM Events,25
+625204,22051290,264,ORIGINAL VERSION: Form Events & PreventDefault,18:42,lecture,13,The Missing Piece: DOM Events,25
+625204,5032056,61,Form Events Exercise,1 question,quiz,14,The Missing Piece: DOM Events,25
+625204,22051294,265,Input & Change Events,05:27,lecture,15,The Missing Piece: DOM Events,25
+625204,5032022,62,Input Event Practice,1 question,quiz,16,The Missing Piece: DOM Events,25
+625204,22051298,266,Event Bubbling,07:22,lecture,17,The Missing Piece: DOM Events,25
+625204,22051302,267,Event Delegation,07:48,lecture,18,The Missing Piece: DOM Events,25
+625204,22385604,268,Score Keeper Pt. 1,13:03,lecture,1,Score Keeper CodeAlong,26
+625204,22385606,269,Score Keeper Pt. 2,10:29,lecture,2,Score Keeper CodeAlong,26
+625204,22385608,270,Score Keeper Pt. 3 With Bulma,13:34,lecture,3,Score Keeper CodeAlong,26
+625204,22385614,271,Score Keeper Pt. 4 Refactoring,10:11,lecture,4,Score Keeper CodeAlong,26
+625204,22051308,272,What Matters In This Section,01:58,lecture,1,Async JavaScript: Oh Boy!,27
+625204,22051314,273,The Call Stack,11:30,lecture,2,Async JavaScript: Oh Boy!,27
+625204,22051318,274,WebAPIs & Single Threaded,09:43,lecture,3,Async JavaScript: Oh Boy!,27
+625204,22051324,275,Callback Hell :(,11:58,lecture,4,Async JavaScript: Oh Boy!,27
+625204,22051328,276,Demo: fakeRequest Using Callbacks,09:45,lecture,5,Async JavaScript: Oh Boy!,27
+625204,22051334,277,Demo: fakeRequest Using Promises,12:36,lecture,6,Async JavaScript: Oh Boy!,27
+625204,22051338,278,The Magic Of Promises,07:38,lecture,7,Async JavaScript: Oh Boy!,27
+625204,22051340,279,Creating Our Own Promises,10:35,lecture,8,Async JavaScript: Oh Boy!,27
+625204,22051342,280,The Async Keyword,10:31,lecture,9,Async JavaScript: Oh Boy!,27
+625204,22051348,281,The Await Keyword,08:11,lecture,10,Async JavaScript: Oh Boy!,27
+625204,22051350,282,Handling Errors In Async Functions,04:29,lecture,11,Async JavaScript: Oh Boy!,27
+625204,22051352,283,What Matters In This Section,02:29,lecture,1,AJAX and API's,28
+625204,22051354,284,Intro to AJAX,07:49,lecture,2,AJAX and API's,28
+625204,22051360,285,Intro to APIs,10:26,lecture,3,AJAX and API's,28
+625204,22051366,286,WTF is JSON,07:45,lecture,4,AJAX and API's,28
+625204,22051368,287,Using Postman,10:43,lecture,5,AJAX and API's,28
+625204,22051372,288,Query Strings & Headers,12:01,lecture,6,AJAX and API's,28
+625204,22051374,289,Making XHR's,04:39,lecture,7,AJAX and API's,28
+625204,22051378,290,The Fetch API,08:55,lecture,8,AJAX and API's,28
+625204,22051380,291,Intro to Axios,06:35,lecture,9,AJAX and API's,28
+625204,22051384,292,Setting Headers With Axios,11:24,lecture,10,AJAX and API's,28
+625204,22051388,293,TV Show Search App,16:01,lecture,11,AJAX and API's,28
+625204,23344410,294,What Matters In This Section,04:43,lecture,1,"Prototypes, Classes, & OOP",29
+625204,23344412,295,What On Earth Are Prototypes,12:23,lecture,2,"Prototypes, Classes, & OOP",29
+625204,23344414,296,Intro to Object Oriented Programming,07:13,lecture,3,"Prototypes, Classes, & OOP",29
+625204,23344422,297,Factory Functions,09:00,lecture,4,"Prototypes, Classes, & OOP",29
+625204,23344424,298,Constructor Functions,16:59,lecture,5,"Prototypes, Classes, & OOP",29
+625204,23344426,299,JavaScript Classes,15:04,lecture,6,"Prototypes, Classes, & OOP",29
+625204,23344430,300,More Classes Practice,10:18,lecture,7,"Prototypes, Classes, & OOP",29
+625204,23344432,301,Extends and Super Keywords,10:05,lecture,8,"Prototypes, Classes, & OOP",29
+625204,22051408,302,What Matters In This Section,03:51,lecture,1,Mastering The Terminal,30
+625204,22607314,303,Backend Overview,03:38,lecture,2,Mastering The Terminal,30
+625204,22051410,304,A Pep Talk On Terminal,03:31,lecture,3,Mastering The Terminal,30
+625204,22051416,305,Why Do We Need To Know Terminal Commands?,08:32,lecture,4,Mastering The Terminal,30
+625204,22541322,306,Windows Terminal Installation Instructions,00:17,lecture,5,Mastering The Terminal,30
+625204,22051418,307,The Basics: LS & PWD,05:12,lecture,6,Mastering The Terminal,30
+625204,22051420,308,Changing Directories,04:33,lecture,7,Mastering The Terminal,30
+625204,22051424,309,Relative Vs. Absolute Paths,05:31,lecture,8,Mastering The Terminal,30
+625204,22051426,310,Making Directories,03:00,lecture,9,Mastering The Terminal,30
+625204,22051428,311,Man Pages & Flags,06:20,lecture,10,Mastering The Terminal,30
+625204,22051430,312,The Touch Command,04:29,lecture,11,Mastering The Terminal,30
+625204,22051438,313,Removing Files & Folders,05:44,lecture,12,Mastering The Terminal,30
+625204,22052698,314,What Matters In This Section,02:53,lecture,1,Our First Brush With Node,31
+625204,22052700,315,Introducing Node JS,05:35,lecture,2,Our First Brush With Node,31
+625204,22052706,316,What Is Node Used For?,04:44,lecture,3,Our First Brush With Node,31
+625204,22052712,317,Installing Node,01:53,lecture,4,Our First Brush With Node,31
+625204,22052720,318,The Node REPL,04:58,lecture,5,Our First Brush With Node,31
+625204,22052722,319,Running Node Files,02:48,lecture,6,Our First Brush With Node,31
+625204,22052726,320,Process & Argv,07:42,lecture,7,Our First Brush With Node,31
+625204,22052730,321,File System Module Crash Course,14:51,lecture,8,Our First Brush With Node,31
+625204,22053062,322,What Matters In This Section,02:52,lecture,1,Exploring Modules & The NPM Universe,32
+625204,22053066,323,Working With module.exports,09:53,lecture,2,Exploring Modules & The NPM Universe,32
+625204,22053078,324,Requiring A Directory,05:31,lecture,3,Exploring Modules & The NPM Universe,32
+625204,22053080,325,Introducing NPM,03:03,lecture,4,Exploring Modules & The NPM Universe,32
+625204,22053082,326,Installing Packages - Jokes & Rainbow,08:08,lecture,5,Exploring Modules & The NPM Universe,32
+625204,22053084,327,Adding Global Packages,05:38,lecture,6,Exploring Modules & The NPM Universe,32
+625204,22053088,328,The All-Important Package.json,07:55,lecture,7,Exploring Modules & The NPM Universe,32
+625204,22053090,329,Installing All Dependencies For A Project,05:38,lecture,8,Exploring Modules & The NPM Universe,32
+625204,22053098,330,Language Guesser Challenge,10:04,lecture,9,Exploring Modules & The NPM Universe,32
+625204,22066278,331,What Matters In This Section,02:48,lecture,1,Creating Servers With Express,33
+625204,22066280,332,Introducing Express,05:44,lecture,2,Creating Servers With Express,33
+625204,22066284,333,Our Very First Express App,09:55,lecture,3,Creating Servers With Express,33
+625204,22066288,334,The Request & Response Objects,07:44,lecture,4,Creating Servers With Express,33
+625204,22066292,335,Express Routing Basics,09:57,lecture,5,Creating Servers With Express,33
+625204,22066296,336,Express Path Parameters,09:14,lecture,6,Creating Servers With Express,33
+625204,22066298,337,Working With Query Strings,04:56,lecture,7,Creating Servers With Express,33
+625204,22066302,338,Auto-Restart With Nodemon,03:51,lecture,8,Creating Servers With Express,33
+625204,22066318,339,What Matters In This Section,02:38,lecture,1,Creating Dynamic HTML With Templating,34
+625204,22066322,340,What is Templating?,06:23,lecture,2,Creating Dynamic HTML With Templating,34
+625204,22066324,341,Configuring Express For EJS,05:46,lecture,3,Creating Dynamic HTML With Templating,34
+625204,22066326,342,Setting The Views Directory,04:32,lecture,4,Creating Dynamic HTML With Templating,34
+625204,22066332,343,EJS Interpolation Syntax,03:29,lecture,5,Creating Dynamic HTML With Templating,34
+625204,22066338,344,Passing Data To Templates,04:21,lecture,6,Creating Dynamic HTML With Templating,34
+625204,22066348,345,Subreddit Template Demo,02:51,lecture,7,Creating Dynamic HTML With Templating,34
+625204,22066350,346,Conditionals in EJS,07:12,lecture,8,Creating Dynamic HTML With Templating,34
+625204,22066354,347,Loops In EJS,06:24,lecture,9,Creating Dynamic HTML With Templating,34
+625204,22066360,348,A More Complex Subreddit Demo,10:52,lecture,10,Creating Dynamic HTML With Templating,34
+625204,22066362,349,Serving Static Assets In Express,06:40,lecture,11,Creating Dynamic HTML With Templating,34
+625204,22066368,350,Bootstrap + Express,08:04,lecture,12,Creating Dynamic HTML With Templating,34
+625204,22066374,351,EJS & Partials,09:58,lecture,13,Creating Dynamic HTML With Templating,34
+625204,22117118,352,What Matters In This Section,04:05,lecture,1,Defining RESTful Routes,35
+625204,22117122,353,Get Vs. Post Requests,06:33,lecture,2,Defining RESTful Routes,35
+625204,22117124,354,Defining Express Post Routes,04:03,lecture,3,Defining RESTful Routes,35
+625204,22117126,355,Parsing The Request Body,06:28,lecture,4,Defining RESTful Routes,35
+625204,22117130,356,Intro to REST,08:27,lecture,5,Defining RESTful Routes,35
+625204,22117132,357,RESTful Comments Overview,05:23,lecture,6,Defining RESTful Routes,35
+625204,22117136,358,RESTful Comments Index,06:38,lecture,7,Defining RESTful Routes,35
+625204,22117140,359,RESTful Comments New,08:13,lecture,8,Defining RESTful Routes,35
+625204,22117144,360,Express Redirects,05:43,lecture,9,Defining RESTful Routes,35
+625204,22117146,361,RESTful Comments Show,12:10,lecture,10,Defining RESTful Routes,35
+625204,22117152,362,The UUID Package,05:12,lecture,11,Defining RESTful Routes,35
+625204,22117154,363,RESTful Comments Update,10:33,lecture,12,Defining RESTful Routes,35
+625204,22117160,364,Express Method Override,11:48,lecture,13,Defining RESTful Routes,35
+625204,22117162,365,RESTful Comments Delete,10:18,lecture,14,Defining RESTful Routes,35
+625204,22086110,366,What Matters In This Section,03:18,lecture,1,Our First Database: MongoDB,36
+625204,22086112,367,Introduction to Databases,04:36,lecture,2,Our First Database: MongoDB,36
+625204,22086114,368,SQL Vs. NoSQL Databases,08:50,lecture,3,Our First Database: MongoDB,36
+625204,22086116,369,Why We're Learning Mongo,06:46,lecture,4,Our First Database: MongoDB,36
+625204,22086120,370,Installing Mongo: MacOS,02:49,lecture,5,Our First Database: MongoDB,36
+625204,22607162,371,Installing Mongo: Windows,00:20,lecture,6,Our First Database: MongoDB,36
+625204,22086118,372,The Mongo Shell,05:28,lecture,7,Our First Database: MongoDB,36
+625204,22086122,373,What On Earth Is BSON?,03:07,lecture,8,Our First Database: MongoDB,36
+625204,22086124,374,Inserting With Mongo,11:19,lecture,9,Our First Database: MongoDB,36
+625204,22086126,375,Finding With Mongo,08:01,lecture,10,Our First Database: MongoDB,36
+625204,22086130,376,Updating With Mongo,10:22,lecture,11,Our First Database: MongoDB,36
+625204,22086128,377,Deleting With Mongo,04:27,lecture,12,Our First Database: MongoDB,36
+625204,22086132,378,Additional Mongo Operators,11:00,lecture,13,Our First Database: MongoDB,36
+625204,22086034,379,What Matters In This Section,02:48,lecture,1,Connecting To Mongo With Mongoose,37
+625204,22086038,380,What is Mongoose,04:07,lecture,2,Connecting To Mongo With Mongoose,37
+625204,22086044,381,Connecting Mongoose to Mongo,08:08,lecture,3,Connecting To Mongo With Mongoose,37
+625204,22086048,382,Our First Mongoose Model,10:19,lecture,4,Connecting To Mongo With Mongoose,37
+625204,22086050,383,Insert Many,04:20,lecture,5,Connecting To Mongo With Mongoose,37
+625204,22086052,384,Finding With Mongoose,09:23,lecture,6,Connecting To Mongo With Mongoose,37
+625204,22086054,385,Updating With Mongoose,10:09,lecture,7,Connecting To Mongo With Mongoose,37
+625204,22086060,386,Deleting With Mongoose!,04:55,lecture,8,Connecting To Mongo With Mongoose,37
+625204,22086062,387,Mongoose Schema Validations,08:39,lecture,9,Connecting To Mongo With Mongoose,37
+625204,22086066,388,Additional Schema Constraints,08:12,lecture,10,Connecting To Mongo With Mongoose,37
+625204,22086072,389,Validating Mongoose Updates,03:55,lecture,11,Connecting To Mongo With Mongoose,37
+625204,22086078,390,Mongoose Validation Errors,03:25,lecture,12,Connecting To Mongo With Mongoose,37
+625204,22086082,391,Model Instance Methods,12:12,lecture,13,Connecting To Mongo With Mongoose,37
+625204,22086084,392,Adding Model Static Methods,05:00,lecture,14,Connecting To Mongo With Mongoose,37
+625204,22086086,393,Mongoose Virtuals,06:57,lecture,15,Connecting To Mongo With Mongoose,37
+625204,22086092,394,Defining Mongoose Middleware,07:13,lecture,16,Connecting To Mongo With Mongoose,37
+625204,22098984,395,What Matters In This Section,02:44,lecture,1,Putting It All Together: Mongoose With Express,38
+625204,22098988,396,Express + Mongoose Basic Setup,03:55,lecture,2,Putting It All Together: Mongoose With Express,38
+625204,22098990,397,Creating Our Model,11:16,lecture,3,Putting It All Together: Mongoose With Express,38
+625204,22098992,398,Products Index,05:18,lecture,4,Putting It All Together: Mongoose With Express,38
+625204,22098994,399,Product Details,08:13,lecture,5,Putting It All Together: Mongoose With Express,38
+625204,22098998,400,Creating Products,09:27,lecture,6,Putting It All Together: Mongoose With Express,38
+625204,22099000,401,Updating Products,14:01,lecture,7,Putting It All Together: Mongoose With Express,38
+625204,22099004,402,Tangent On Category Selector,08:12,lecture,8,Putting It All Together: Mongoose With Express,38
+625204,22099006,403,Deleting Products,04:53,lecture,9,Putting It All Together: Mongoose With Express,38
+625204,22099008,404,BONUS: Filtering By Category,08:19,lecture,10,Putting It All Together: Mongoose With Express,38
+625204,22291304,405,Introducing YelpCamp: Our Massive Project,06:46,lecture,1,YelpCamp: Campgrounds CRUD,39
+625204,22569432,406,How to Access YelpCamp Code,03:12,lecture,2,YelpCamp: Campgrounds CRUD,39
+625204,22291320,407,Creating the Basic Express App,03:30,lecture,3,YelpCamp: Campgrounds CRUD,39
+625204,22291324,408,Campground Model Basics,07:09,lecture,4,YelpCamp: Campgrounds CRUD,39
+625204,22291332,409,Seeding Campgrounds,10:35,lecture,5,YelpCamp: Campgrounds CRUD,39
+625204,22291334,410,Campground Index,03:36,lecture,6,YelpCamp: Campgrounds CRUD,39
+625204,22291340,411,Campground Show,03:54,lecture,7,YelpCamp: Campgrounds CRUD,39
+625204,22291350,412,Campground New & Create,07:37,lecture,8,YelpCamp: Campgrounds CRUD,39
+625204,22291352,413,Campground Edit & Update,08:57,lecture,9,YelpCamp: Campgrounds CRUD,39
+625204,22291356,414,Campground Delete,03:22,lecture,10,YelpCamp: Campgrounds CRUD,39
+625204,22101604,415,What Matters In This Section,01:20,lecture,1,Middleware: The Key To Express,40
+625204,22101606,416,Intro to Express Middleware,03:40,lecture,2,Middleware: The Key To Express,40
+625204,22101608,417,Using Morgan - Logger Middleware,07:08,lecture,3,Middleware: The Key To Express,40
+625204,22101610,418,Defining Our Own Middleware,08:13,lecture,4,Middleware: The Key To Express,40
+625204,22101612,419,More Middleware Practice,08:11,lecture,5,Middleware: The Key To Express,40
+625204,22101616,420,Setting Up A 404 Route,05:18,lecture,6,Middleware: The Key To Express,40
+625204,22101618,421,Password Middleware Demo (NOT REAL AUTH),04:40,lecture,7,Middleware: The Key To Express,40
+625204,22101620,422,Protecting Specific Routes,05:15,lecture,8,Middleware: The Key To Express,40
+625204,22291500,423,A New EJS Tool For Layouts,06:29,lecture,1,YelpCamp: Adding Basic Styles,41
+625204,22291506,424,Bootstrap5! Boilerplate,03:24,lecture,2,YelpCamp: Adding Basic Styles,41
+625204,22291510,425,Navbar Partial,04:45,lecture,3,YelpCamp: Adding Basic Styles,41
+625204,22291514,426,Footer Partial,04:17,lecture,4,YelpCamp: Adding Basic Styles,41
+625204,22291516,427,Adding Images,06:00,lecture,5,YelpCamp: Adding Basic Styles,41
+625204,22291518,428,Styling Campgrounds Index,04:46,lecture,6,YelpCamp: Adding Basic Styles,41
+625204,22291520,429,Styling The New Form,09:00,lecture,7,YelpCamp: Adding Basic Styles,41
+625204,22291524,430,Styling Edit Form,03:13,lecture,8,YelpCamp: Adding Basic Styles,41
+625204,22291526,431,Styling Show Page,07:39,lecture,9,YelpCamp: Adding Basic Styles,41
+625204,22101632,432,What Matters In This Section,01:51,lecture,1,Handling Errors In Express Apps,42
+625204,22101636,433,Express' Built-In Error Handler,08:01,lecture,2,Handling Errors In Express Apps,42
+625204,22101638,434,Defining Custom Error Handlers,08:49,lecture,3,Handling Errors In Express Apps,42
+625204,22101640,435,Our Custom Error Class,12:40,lecture,4,Handling Errors In Express Apps,42
+625204,22101642,436,Handling Async Errors,11:41,lecture,5,Handling Errors In Express Apps,42
+625204,22101648,437,Handling More Async Errors!,07:35,lecture,6,Handling Errors In Express Apps,42
+625204,22101650,438,Defining An Async Utility,07:50,lecture,7,Handling Errors In Express Apps,42
+625204,22101652,439,Differentiating Mongoose Errors,08:49,lecture,8,Handling Errors In Express Apps,42
+625204,22291532,440,Where To Next With YelpCamp?,02:20,lecture,1,YelpCamp: Errors & Validating Data,43
+625204,22291538,441,Client-Side Form Validations,10:19,lecture,2,YelpCamp: Errors & Validating Data,43
+625204,22291542,442,Basic Error Handler,03:03,lecture,3,YelpCamp: Errors & Validating Data,43
+625204,22291546,443,Defining ExpressError Class,07:06,lecture,4,YelpCamp: Errors & Validating Data,43
+625204,22291554,444,More Errors,07:42,lecture,5,YelpCamp: Errors & Validating Data,43
+625204,22291558,445,Defining Error Template,05:09,lecture,6,YelpCamp: Errors & Validating Data,43
+625204,22291562,446,JOI Schema Validations,11:16,lecture,7,YelpCamp: Errors & Validating Data,43
+625204,22291564,447,JOI Validation Middleware,10:49,lecture,8,YelpCamp: Errors & Validating Data,43
+625204,22117186,448,What Matters In This Section,03:44,lecture,1,Data Relationships With Mongo,44
+625204,22117188,449,Introduction to Mongo Relationships,04:13,lecture,2,Data Relationships With Mongo,44
+625204,22117194,450,SQL Relationships Overview,08:25,lecture,3,Data Relationships With Mongo,44
+625204,22117196,451,One to Few,12:37,lecture,4,Data Relationships With Mongo,44
+625204,22117198,452,One to Many,13:27,lecture,5,Data Relationships With Mongo,44
+625204,22117200,453,Mongoose Populate,03:32,lecture,6,Data Relationships With Mongo,44
+625204,22117206,454,"One to ""Bajillions""",13:58,lecture,7,Data Relationships With Mongo,44
+625204,22117210,455,Mongo Schema Design,08:21,lecture,8,Data Relationships With Mongo,44
+625204,22522656,456,What Matters In This Section,02:21,lecture,1,Mongo Relationships With Express,45
+625204,22117212,457,Defining Our Farm & Product Models,06:26,lecture,2,Mongo Relationships With Express,45
+625204,25771654,458,Note about Farm model,00:21,lecture,3,Mongo Relationships With Express,45
+625204,22117214,459,Creating New Farms,08:54,lecture,4,Mongo Relationships With Express,45
+625204,22117216,460,Farms Show Page,04:35,lecture,5,Mongo Relationships With Express,45
+625204,22117218,461,Creating Products For A Farm,10:44,lecture,6,Mongo Relationships With Express,45
+625204,22117220,462,Finishing Touches,10:58,lecture,7,Mongo Relationships With Express,45
+625204,22117222,463,Deletion Mongoose Middleware,13:31,lecture,8,Mongo Relationships With Express,45
+625204,22291598,464,Defining The Review Model,05:15,lecture,1,YelpCamp: Adding The Reviews Model,46
+625204,22291602,465,Adding The Review Form,05:20,lecture,2,YelpCamp: Adding The Reviews Model,46
+625204,22291604,466,Creating Reviews,06:32,lecture,3,YelpCamp: Adding The Reviews Model,46
+625204,22291610,467,Validating Reviews,09:06,lecture,4,YelpCamp: Adding The Reviews Model,46
+625204,22291612,468,Displaying Reviews,06:06,lecture,5,YelpCamp: Adding The Reviews Model,46
+625204,22291616,469,Styling Reviews,04:52,lecture,6,YelpCamp: Adding The Reviews Model,46
+625204,22291618,470,Deleting Reviews,08:16,lecture,7,YelpCamp: Adding The Reviews Model,46
+625204,22291624,471,Campground Delete Middleware,09:27,lecture,8,YelpCamp: Adding The Reviews Model,46
+625204,22119278,472,What Matters In This Section,02:19,lecture,1,Express Router & Cookies,47
+625204,22119282,473,Express Router Intro,10:43,lecture,2,Express Router & Cookies,47
+625204,22119290,474,Express Router & Middleware,04:53,lecture,3,Express Router & Cookies,47
+625204,22119294,475,Introducing Cookies,07:56,lecture,4,Express Router & Cookies,47
+625204,22119300,476,Sending Cookies,06:42,lecture,5,Express Router & Cookies,47
+625204,22119304,477,Cookie Parser Middleware,05:25,lecture,6,Express Router & Cookies,47
+625204,22119308,478,Signing Cookies,10:11,lecture,7,Express Router & Cookies,47
+625204,22119312,479,OPTIONAL: HMAC Signing,06:26,lecture,8,Express Router & Cookies,47
+625204,22522664,480,What Matters In This Section,01:30,lecture,1,Express Session & Flash,48
+625204,22119322,481,Introduction to Sessions,05:19,lecture,2,Express Session & Flash,48
+625204,22119330,482,Express Session,11:39,lecture,3,Express Session & Flash,48
+625204,22119332,483,More Express Session,07:51,lecture,4,Express Session & Flash,48
+625204,22119336,484,Intro to Flash,06:42,lecture,5,Express Session & Flash,48
+625204,22119342,485,Res.locals & Flash,03:22,lecture,6,Express Session & Flash,48
+625204,22291764,486,Breaking Out Campground Routes,06:01,lecture,1,YelpCamp: Restructuring & Flash,49
+625204,22291766,487,Breaking Out Review Routes,05:34,lecture,2,YelpCamp: Restructuring & Flash,49
+625204,22291768,488,Serving Static Assets,05:47,lecture,3,YelpCamp: Restructuring & Flash,49
+625204,22291772,489,Configuring Session,06:48,lecture,4,YelpCamp: Restructuring & Flash,49
+625204,22291778,490,Setting Up Flash,05:22,lecture,5,YelpCamp: Restructuring & Flash,49
+625204,22291782,491,Flash Success Partial,07:03,lecture,6,YelpCamp: Restructuring & Flash,49
+625204,22291784,492,Flash Errors Partial,04:06,lecture,7,YelpCamp: Restructuring & Flash,49
+625204,22522672,493,What Matters In This Section,04:34,lecture,1,"Authentication From ""Scratch""",50
+625204,22346162,494,Authentication Vs. Authorization,03:31,lecture,2,"Authentication From ""Scratch""",50
+625204,22346164,495,How to (not) Store Passwords,05:01,lecture,3,"Authentication From ""Scratch""",50
+625204,22346166,496,Cryptographic Hashing Functions,07:05,lecture,4,"Authentication From ""Scratch""",50
+625204,22346168,497,Password Salts,11:29,lecture,5,"Authentication From ""Scratch""",50
+625204,22346170,498,Intro to Bcrypt,13:01,lecture,6,"Authentication From ""Scratch""",50
+625204,22346174,499,Auth Demo: Setup,07:25,lecture,7,"Authentication From ""Scratch""",50
+625204,22346176,500,Auth Demo: Registering,06:14,lecture,8,"Authentication From ""Scratch""",50
+625204,22346178,501,Auth Demo: Login,07:21,lecture,9,"Authentication From ""Scratch""",50
+625204,22346180,502,Auth Demo: Staying Logged In With Session,07:32,lecture,10,"Authentication From ""Scratch""",50
+625204,22346182,503,Auth Demo: Logout,05:58,lecture,11,"Authentication From ""Scratch""",50
+625204,22346184,504,Auth Demo: Require Login Middleware,03:22,lecture,12,"Authentication From ""Scratch""",50
+625204,22346188,505,Auth Demo: Refactoring To Model Methods,13:48,lecture,13,"Authentication From ""Scratch""",50
+625204,22346416,506,Introduction to Passport,04:43,lecture,1,YelpCamp: Adding In Authentication,51
+625204,22346418,507,Creating Our User Model,04:07,lecture,2,YelpCamp: Adding In Authentication,51
+625204,22346426,508,Configuring Passport,09:15,lecture,3,YelpCamp: Adding In Authentication,51
+625204,22346428,509,Register Form,07:01,lecture,4,YelpCamp: Adding In Authentication,51
+625204,22346430,510,Register Route Logic,06:20,lecture,5,YelpCamp: Adding In Authentication,51
+625204,22346434,511,Login Routes,05:40,lecture,6,YelpCamp: Adding In Authentication,51
+625204,22346436,512,isLoggedIn Middleware,08:55,lecture,7,YelpCamp: Adding In Authentication,51
+625204,22346438,513,Adding Logout,03:59,lecture,8,YelpCamp: Adding In Authentication,51
+625204,22346440,514,currentUser Helper,04:54,lecture,9,YelpCamp: Adding In Authentication,51
+625204,22346444,515,Fixing Register Route,03:42,lecture,10,YelpCamp: Adding In Authentication,51
+625204,22346446,516,ReturnTo Behavior,04:52,lecture,11,YelpCamp: Adding In Authentication,51
+625204,22346394,517,Adding an Author to Campground,07:20,lecture,1,YelpCamp: Basic Authorization,52
+625204,22346398,518,Showing and Hiding Edit/Delete,03:01,lecture,2,YelpCamp: Basic Authorization,52
+625204,22346400,519,Campground Permissions,06:57,lecture,3,YelpCamp: Basic Authorization,52
+625204,22346404,520,Authorization Middleware,08:42,lecture,4,YelpCamp: Basic Authorization,52
+625204,22346406,521,Reviews Permissions,05:44,lecture,5,YelpCamp: Basic Authorization,52
+625204,22346408,522,More Reviews Authorization,12:49,lecture,6,YelpCamp: Basic Authorization,52
+625204,22346362,523,Refactoring To Campgrounds Controller,09:50,lecture,1,YelpCamp: Controllers & Star Ratings,53
+625204,22346364,524,Adding a Reviews Controller,06:08,lecture,2,YelpCamp: Controllers & Star Ratings,53
+625204,22346366,525,A Fancy Way To Restructure Routes,05:57,lecture,3,YelpCamp: Controllers & Star Ratings,53
+625204,22346368,526,Displaying Star Ratings,08:01,lecture,4,YelpCamp: Controllers & Star Ratings,53
+625204,22346374,527,Star Rating Form,04:58,lecture,5,YelpCamp: Controllers & Star Ratings,53
+625204,22346296,528,Intro To Image Upload Process,03:32,lecture,1,YelpCamp: Image Upload,54
+625204,22346298,529,The Multer Middleware,09:58,lecture,2,YelpCamp: Image Upload,54
+625204,22346300,530,Cloudinary Registration,02:34,lecture,3,YelpCamp: Image Upload,54
+625204,22346302,531,Environment Variables with dotenv,06:21,lecture,4,YelpCamp: Image Upload,54
+625204,22346304,532,Uploading To Cloudinary Basics,09:01,lecture,5,YelpCamp: Image Upload,54
+625204,22346306,533,Storing Uploaded Image Links In Mongo,11:29,lecture,6,YelpCamp: Image Upload,54
+625204,22346308,534,Displaying Images In A Carousel,08:39,lecture,7,YelpCamp: Image Upload,54
+625204,22346310,535,Fixing Our Seeds,02:43,lecture,8,YelpCamp: Image Upload,54
+625204,22346312,536,Adding Upload to Edit Page,05:59,lecture,9,YelpCamp: Image Upload,54
+625204,22346316,537,Customizing File Input,08:41,lecture,10,YelpCamp: Image Upload,54
+625204,22346318,538,A Word Of Warning!,02:50,lecture,11,YelpCamp: Image Upload,54
+625204,22346322,539,Deleting Images Form,06:50,lecture,12,YelpCamp: Image Upload,54
+625204,22346324,540,Deleting Images Backend,06:08,lecture,13,YelpCamp: Image Upload,54
+625204,22346326,541,Adding a Thumbnail Virtual Property,10:48,lecture,14,YelpCamp: Image Upload,54
+625204,22346278,542,Registering For Mapbox,04:36,lecture,1,YelpCamp: Adding Maps,55
+625204,22346280,543,Geocoding Our Locations,10:51,lecture,2,YelpCamp: Adding Maps,55
+625204,22346282,544,Working With GeoJSON,06:27,lecture,3,YelpCamp: Adding Maps,55
+625204,22346284,545,Displaying A Map,08:11,lecture,4,YelpCamp: Adding Maps,55
+625204,22346286,546,Centering The Map On A Campground,08:11,lecture,5,YelpCamp: Adding Maps,55
+625204,22346288,547,Fixing Our Seeds Bug,06:17,lecture,6,YelpCamp: Adding Maps,55
+625204,22346290,548,Customizing Map Popup,04:21,lecture,7,YelpCamp: Adding Maps,55
+625204,22346244,549,Intro To Our Cluster Map,02:33,lecture,1,YelpCamp: Fancy Cluster Map,56
+625204,22346248,550,Adding Earthquake Cluster Map,05:48,lecture,2,YelpCamp: Fancy Cluster Map,56
+625204,22346250,551,Reseeding Our Database (again),02:42,lecture,3,YelpCamp: Fancy Cluster Map,56
+625204,22346252,552,Basic Clustering Campgrounds,07:29,lecture,4,YelpCamp: Fancy Cluster Map,56
+625204,22346254,553,Tweaking Clustering Code,07:03,lecture,5,YelpCamp: Fancy Cluster Map,56
+625204,22346256,554,Changing Cluster Size and Color,07:11,lecture,6,YelpCamp: Fancy Cluster Map,56
+625204,22346260,555,Adding Custom Popups,15:39,lecture,7,YelpCamp: Fancy Cluster Map,56
+625204,22346218,556,Styling Home Page,09:21,lecture,1,YelpCamp: Styles Clean Up,57
+625204,22346220,557,Additional Home Page Styling,06:30,lecture,2,YelpCamp: Styles Clean Up,57
+625204,22346226,558,Styling Login Form,03:48,lecture,3,YelpCamp: Styles Clean Up,57
+625204,22346228,559,Styling Register Form,03:41,lecture,4,YelpCamp: Styles Clean Up,57
+625204,22346230,560,Spacing Campgrounds,00:28,lecture,5,YelpCamp: Styles Clean Up,57
+625204,22346232,561,Removing Inline Map Styles,02:54,lecture,6,YelpCamp: Styles Clean Up,57
+625204,22346238,562,Adding Map Controls,03:14,lecture,7,YelpCamp: Styles Clean Up,57
+625204,22348108,563,Mongo Injection,07:46,lecture,1,YelpCamp: Common Security Issues,58
+625204,22348112,564,Cross Site Scripting (XSS),05:59,lecture,2,YelpCamp: Common Security Issues,58
+625204,22348114,565,Sanitizing HTML w/ JOI,11:27,lecture,3,YelpCamp: Common Security Issues,58
+625204,22348120,566,Minor Changes to Session/Cookies,03:26,lecture,4,YelpCamp: Common Security Issues,58
+625204,22348122,567,Hiding Errors,02:17,lecture,5,YelpCamp: Common Security Issues,58
+625204,22348126,568,Using Helmet,05:36,lecture,6,YelpCamp: Common Security Issues,58
+625204,22348128,569,Content Security Policy Fun,08:25,lecture,7,YelpCamp: Common Security Issues,58
+625204,22361202,570,Setting Up Mongo Atlas,09:53,lecture,1,YelpCamp: Deploying,59
+625204,22361206,571,Using Mongo For Our Session Store,06:59,lecture,2,YelpCamp: Deploying,59
+625204,22361210,572,Heroku Setup,03:42,lecture,3,YelpCamp: Deploying,59
+625204,22361220,573,Pushing to Heroku,05:34,lecture,4,YelpCamp: Deploying,59
+625204,22361228,574,Fixing Heroku Errors,04:36,lecture,5,YelpCamp: Deploying,59
+625204,22361242,575,Configuring Heroku Env Variables,06:44,lecture,6,YelpCamp: Deploying,59
+625204,27956614,576,What's Next and Goodbye!,09:41,lecture,1,The End :(,60
+625204,22643891,577,LEGACY Download: Introduction To This Course,00:08,lecture,1,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643915,578,LEGACY Download: Introduction To Front End Development,00:08,lecture,2,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643923,579,LEGACY Download: Introduction to HTML,00:08,lecture,3,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643951,580,LEGACY Download: Intermediate HTML,00:07,lecture,4,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643963,581,LEGACY Download: Introduction to CSS,00:08,lecture,5,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643965,582,LEGACY Download: Intermediate CSS,00:07,lecture,6,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643979,583,LEGACY Download: Bootstrap,00:07,lecture,7,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643985,584,LEGACY Download: Bootstrap 4,00:07,lecture,8,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643987,585,LEGACY Download: Bootstrap 4 Flexbox & Layout,00:08,lecture,9,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643993,586,LEGACY Download: Introduction to JavaScript,00:08,lecture,10,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643995,587,LEGACY Download: JavaScript Basics Control Flow,00:08,lecture,11,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22643999,588,LEGACY Download: JavaScript Basics Functions,00:08,lecture,12,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22644001,589,LEGACY Download: JavaScript Basics Arrays,00:08,lecture,13,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22644005,590,LEGACY Download: JavaScript Basics Objects,00:08,lecture,14,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22644009,591,LEGACY Download: DOM Manipulation,00:07,lecture,15,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22644013,592,LEGACY Download: Advanced DOM Manipulation,00:08,lecture,16,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22644015,593,LEGACY Download: Color Game Project,00:08,lecture,17,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656425,594,LEGACY Download: Intro to jQuery,00:08,lecture,18,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656461,595,LEGACY Download: Advanced jQuery,00:07,lecture,19,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656485,596,LEGACY Download: Todo List Projects,00:08,lecture,20,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656495,597,LEGACY Download: Patatap Clone,00:07,lecture,21,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656507,598,LEGACY Download: Backend Basics,00:07,lecture,22,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656599,599,LEGACY Download: The Command Line,00:08,lecture,23,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656609,600,LEGACY Download: Node JS,00:07,lecture,24,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22656629,601,LEGACY Download: Server Side Frameworks,00:08,lecture,25,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657151,602,LEGACY Download: Intermediate Express,00:07,lecture,26,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657163,603,LEGACY Download: Working With APIs,00:08,lecture,27,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657173,604,LEGACY Download: YelpCamp Basics,00:07,lecture,28,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657179,605,LEGACY Download: Databases,00:07,lecture,29,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657185,606,LEGACY Download: YelpCamp Data Persistence,00:08,lecture,30,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657251,607,LEGACY Download: RESTful Routing,00:07,lecture,31,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657265,608,LEGACY Download: Data Associations,00:07,lecture,32,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657279,609,LEGACY Download: YelpCamp Comments,00:07,lecture,33,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657281,610,LEGACY Download: Authentication,00:07,lecture,34,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657285,611,LEGACY Download: YelpCamp Adding Authentication,00:08,lecture,35,LEGACY CONTENT (The Old Version Of This Course),61
+625204,22657287,612,LEGACY Download: YelpCamp Cleaning Up,00:08,lecture,36,LEGACY CONTENT (The Old Version Of This Course),61

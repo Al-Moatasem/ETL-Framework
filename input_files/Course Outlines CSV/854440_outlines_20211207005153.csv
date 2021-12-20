@@ -1,0 +1,19 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+854440,5154366,1,Introduction,02:48,lecture,1,Course Introduction,1
+854440,5154368,2,Tips,10:04,lecture,2,Course Introduction,1
+854440,5154370,3,Long Vowel Sounds,10:15,lecture,1,Vowel Sounds and Rules,2
+854440,5154374,4,Short Vowel Sounds,10:00,lecture,2,Vowel Sounds and Rules,2
+854440,5154386,5,The Silent 'e',07:50,lecture,3,Vowel Sounds and Rules,2
+854440,5154504,6,Vowels Together,15:05,lecture,4,Vowel Sounds and Rules,2
+854440,5154516,7,Diphthongs,11:01,lecture,5,Vowel Sounds and Rules,2
+854440,5154522,8,V and W,12:31,lecture,1,Consonant Sounds and Mouth Positions,3
+854440,5154528,9,TH,12:20,lecture,2,Consonant Sounds and Mouth Positions,3
+854440,5154536,10,S and Z,14:39,lecture,3,Consonant Sounds and Mouth Positions,3
+854440,5154544,11,"L, R, N Part 1",08:21,lecture,4,Consonant Sounds and Mouth Positions,3
+854440,5154552,12,"L, R, N Part 2",10:02,lecture,5,Consonant Sounds and Mouth Positions,3
+854440,5154562,13,CH and S,09:13,lecture,6,Consonant Sounds and Mouth Positions,3
+854440,5154570,14,-ble and -ple,06:51,lecture,7,Consonant Sounds and Mouth Positions,3
+854440,5154584,15,Similar Words Part 1,14:30,lecture,1,Extension,4
+854440,5154606,16,Similar Words Part 2,09:17,lecture,2,Extension,4
+854440,5154624,17,Sound and Form,06:00,lecture,3,Extension,4
+854440,5154652,18,Course Summary,03:27,lecture,4,Extension,4

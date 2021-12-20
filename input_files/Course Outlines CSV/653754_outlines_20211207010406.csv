@@ -1,0 +1,13 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+653754,3897468,1,Introduction,02:21,lecture,1,Controlling how to display content on a webpage,1
+653754,3907056,2,Syntax,05:50,lecture,2,Controlling how to display content on a webpage,1
+653754,3906320,3,Static Position,04:13,lecture,3,Controlling how to display content on a webpage,1
+653754,3906322,4,Relative Position,06:29,lecture,4,Controlling how to display content on a webpage,1
+653754,3907050,5,Absolute Position,07:26,lecture,5,Controlling how to display content on a webpage,1
+653754,3906328,6,Controlling the horizontal and vertical display of elements,06:53,lecture,6,Controlling how to display content on a webpage,1
+653754,3906334,7,Using The Float Property for positioning,07:15,lecture,7,Controlling how to display content on a webpage,1
+653754,3906344,8,Forcing elements into their containner,06:53,lecture,8,Controlling how to display content on a webpage,1
+653754,3908652,9,Fixed Position,05:27,lecture,9,Controlling how to display content on a webpage,1
+653754,3908828,10,Z-Index,06:07,lecture,10,Controlling how to display content on a webpage,1
+653754,3908830,11,Summary,01:47,lecture,11,Controlling how to display content on a webpage,1
+653754,26889106,12,Thank You,00:09,lecture,12,Controlling how to display content on a webpage,1

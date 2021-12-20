@@ -1,0 +1,10 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+654832,3944594,1,Introduction,02:54,lecture,1,HTML Forms,1
+654832,3944598,2,Creating a simple form,04:21,lecture,2,HTML Forms,1
+654832,3944676,3,Creating a Textarea,04:08,lecture,3,HTML Forms,1
+654832,3944606,4,Creating a form with a dropdownlist,03:20,lecture,4,HTML Forms,1
+654832,3944666,5,Grouping form data,05:41,lecture,5,HTML Forms,1
+654832,3959362,6,Mini Project: Creating a form Part 1 (Structure),12:10,lecture,6,HTML Forms,1
+654832,3953182,7,Mini Project: Creating a form Part2 (Styling),11:47,lecture,7,HTML Forms,1
+654832,4232362,8,Storing Form Input locally,09:39,lecture,8,HTML Forms,1
+654832,26889208,9,Thank You,00:09,lecture,9,HTML Forms,1

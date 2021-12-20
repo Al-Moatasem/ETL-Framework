@@ -1,0 +1,13 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+670310,4013756,1,Introduction,02:23,lecture,1,Database Fundamentals,1
+670310,4013780,2,What is a Database,04:16,lecture,2,Database Fundamentals,1
+670310,4328788,3,Flat File Database,05:06,lecture,3,Database Fundamentals,1
+670310,4328790,4,Hierarchical Database,04:48,lecture,4,Database Fundamentals,1
+670310,4328792,5,RDBMS,04:14,lecture,5,Database Fundamentals,1
+670310,4328794,6,Schema,04:12,lecture,6,Database Fundamentals,1
+670310,4328796,7,Primary Key,04:50,lecture,7,Database Fundamentals,1
+670310,4328798,8,Foreign Key,04:39,lecture,8,Database Fundamentals,1
+670310,4328800,9,Client - Server  Computing,05:15,lecture,9,Database Fundamentals,1
+670310,4333890,10,Conclusion,01:29,lecture,10,Database Fundamentals,1
+670310,213730,1,Database Basic Concepts,11 questions,quiz,11,Database Fundamentals,1
+670310,26889218,11,Thank You,00:09,lecture,12,Database Fundamentals,1

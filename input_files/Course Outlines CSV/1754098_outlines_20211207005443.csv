@@ -1,0 +1,633 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1754098,10799982,1,A Practical Example: What You Will Learn in This Course,05:06,lecture,1,Part 1: Introduction,1
+1754098,10762626,2,What Does the Course Cover,03:34,lecture,2,Part 1: Introduction,1
+1754098,12955006,3,Download All Resources and Important FAQ,10:42,lecture,3,Part 1: Introduction,1
+1754098,10762750,4,Data Science and Business Buzzwords: Why are there so Many?,05:21,lecture,1,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,4450874,1,Data Science and Business Buzzwords: Why are there so Many?,1 question,quiz,2,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,10762754,5,What is the difference between Analysis and Analytics,03:50,lecture,3,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,4450876,2,What is the difference between Analysis and Analytics,1 question,quiz,4,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,10762762,6,"Business Analytics, Data Analytics, and Data Science: An Introduction",08:26,lecture,5,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,4450878,3,"Business Analytics, Data Analytics, and Data Science: An Introduction",3 questions,quiz,6,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,10762768,7,"Continuing with BI, ML, and AI",09:31,lecture,7,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,4450880,4,"Continuing with BI, ML, and AI",2 questions,quiz,8,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,10762772,8,A Breakdown of our Data Science Infographic,04:03,lecture,9,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,4450882,5,A Breakdown of our Data Science Infographic,1 question,quiz,10,The Field of Data Science - The Various Data Science Disciplines,2
+1754098,10762778,9,"Applying Traditional Data, Big Data, BI, Traditional Data Science and ML",07:19,lecture,1,The Field of Data Science - Connecting the Data Science Disciplines,3
+1754098,4450886,6,"Applying Traditional Data, Big Data, BI, Traditional Data Science and ML",1 question,quiz,2,The Field of Data Science - Connecting the Data Science Disciplines,3
+1754098,10762786,10,The Reason Behind These Disciplines,04:44,lecture,1,The Field of Data Science - The Benefits of Each Discipline,4
+1754098,4450888,7,The Reason Behind These Disciplines,1 question,quiz,2,The Field of Data Science - The Benefits of Each Discipline,4
+1754098,10762798,11,Techniques for Working with Traditional Data,08:13,lecture,1,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450892,8,Techniques for Working with Traditional Data,1 question,quiz,2,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762800,12,Real Life Examples of Traditional Data,01:44,lecture,3,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762804,13,Techniques for Working with Big Data,04:26,lecture,4,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450894,9,Techniques for Working with Big Data,1 question,quiz,5,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762820,14,Real Life Examples of Big Data,01:32,lecture,6,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762824,15,Business Intelligence (BI) Techniques,06:45,lecture,7,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450896,10,Business Intelligence (BI) Techniques,4 questions,quiz,8,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762826,16,Real Life Examples of Business Intelligence (BI),01:42,lecture,9,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762828,17,Techniques for Working with Traditional Methods,09:08,lecture,10,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450898,11,Techniques for Working with Traditional Methods,4 questions,quiz,11,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762830,18,Real Life Examples of Traditional Methods,02:45,lecture,12,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762832,19,Machine Learning (ML) Techniques,06:55,lecture,13,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450902,12,Machine Learning (ML) Techniques,2 questions,quiz,14,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762834,20,Types of Machine Learning,08:13,lecture,15,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450904,13,Types of Machine Learning,2 questions,quiz,16,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762848,21,Real Life Examples of Machine Learning (ML),02:11,lecture,17,The Field of Data Science - Popular Data Science Techniques,5
+1754098,4450908,14,Real Life Examples of Machine Learning (ML),5 questions,quiz,18,The Field of Data Science - Popular Data Science Techniques,5
+1754098,10762852,22,Necessary Programming Languages and Software Used in Data Science,05:51,lecture,1,The Field of Data Science - Popular Data Science Tools,6
+1754098,4450910,15,Necessary Programming Languages and Software Used in Data Science,4 questions,quiz,2,The Field of Data Science - Popular Data Science Tools,6
+1754098,10762856,23,Finding the Job - What to Expect and What to Look for,03:29,lecture,1,The Field of Data Science - Careers in Data Science,7
+1754098,4450912,16,Finding the Job - What to Expect and What to Look for,1 question,quiz,2,The Field of Data Science - Careers in Data Science,7
+1754098,10762860,24,Debunking Common Misconceptions,04:10,lecture,1,The Field of Data Science - Debunking Common Misconceptions,8
+1754098,4450914,17,Debunking Common Misconceptions,1 question,quiz,2,The Field of Data Science - Debunking Common Misconceptions,8
+1754098,14241632,25,The Basic Probability Formula,07:09,lecture,1,Part 2: Probability,9
+1754098,4620602,18,The Basic Probability Formula,3 questions,quiz,2,Part 2: Probability,9
+1754098,14241646,26,Computing Expected Values,05:29,lecture,3,Part 2: Probability,9
+1754098,4620604,19,Computing Expected Values,3 questions,quiz,4,Part 2: Probability,9
+1754098,14241650,27,Frequency,05:00,lecture,5,Part 2: Probability,9
+1754098,4620606,20,Frequency,3 questions,quiz,6,Part 2: Probability,9
+1754098,14241664,28,Events and Their Complements,05:26,lecture,7,Part 2: Probability,9
+1754098,4620608,21,Events and Their Complements,3 questions,quiz,8,Part 2: Probability,9
+1754098,14241678,29,Fundamentals of Combinatorics,01:04,lecture,1,Probability - Combinatorics,10
+1754098,4620610,22,Fundamentals of Combinatorics,1 question,quiz,2,Probability - Combinatorics,10
+1754098,14241690,30,Permutations and How to Use Them,03:21,lecture,3,Probability - Combinatorics,10
+1754098,4620612,23,Permutations and How to Use Them,2 questions,quiz,4,Probability - Combinatorics,10
+1754098,14241696,31,Simple Operations with Factorials,03:35,lecture,5,Probability - Combinatorics,10
+1754098,4620614,24,Simple Operations with Factorials,3 questions,quiz,6,Probability - Combinatorics,10
+1754098,14241702,32,Solving Variations with Repetition,02:59,lecture,7,Probability - Combinatorics,10
+1754098,4620616,25,Solving Variations with Repetition,3 questions,quiz,8,Probability - Combinatorics,10
+1754098,14241708,33,Solving Variations without Repetition,03:48,lecture,9,Probability - Combinatorics,10
+1754098,4620618,26,Solving Variations without Repetition,3 questions,quiz,10,Probability - Combinatorics,10
+1754098,14241718,34,Solving Combinations,04:51,lecture,11,Probability - Combinatorics,10
+1754098,4620620,27,Solving Combinations,4 questions,quiz,12,Probability - Combinatorics,10
+1754098,14241726,35,Symmetry of Combinations,03:26,lecture,13,Probability - Combinatorics,10
+1754098,4620622,28,Symmetry of Combinations,1 question,quiz,14,Probability - Combinatorics,10
+1754098,14241744,36,Solving Combinations with Separate Sample Spaces,02:52,lecture,15,Probability - Combinatorics,10
+1754098,4620624,29,Solving Combinations with Separate Sample Spaces,1 question,quiz,16,Probability - Combinatorics,10
+1754098,14241754,37,Combinatorics in Real-Life: The Lottery,03:12,lecture,17,Probability - Combinatorics,10
+1754098,4620626,30,Combinatorics in Real-Life: The Lottery,1 question,quiz,18,Probability - Combinatorics,10
+1754098,14241758,38,A Recap of Combinatorics,02:55,lecture,19,Probability - Combinatorics,10
+1754098,14242356,39,A Practical Example of Combinatorics,10:53,lecture,20,Probability - Combinatorics,10
+1754098,14241772,40,Sets and Events,04:25,lecture,1,Probability - Bayesian Inference,11
+1754098,4620628,31,Sets and Events,3 questions,quiz,2,Probability - Bayesian Inference,11
+1754098,14241776,41,Ways Sets Can Interact,03:45,lecture,3,Probability - Bayesian Inference,11
+1754098,4620630,32,Ways Sets Can Interact,2 questions,quiz,4,Probability - Bayesian Inference,11
+1754098,14241778,42,Intersection of Sets,02:06,lecture,5,Probability - Bayesian Inference,11
+1754098,4620632,33,Intersection of Sets,3 questions,quiz,6,Probability - Bayesian Inference,11
+1754098,14241782,43,Union of Sets,04:51,lecture,7,Probability - Bayesian Inference,11
+1754098,4620634,34,Union of Sets,3 questions,quiz,8,Probability - Bayesian Inference,11
+1754098,14241784,44,Mutually Exclusive Sets,02:09,lecture,9,Probability - Bayesian Inference,11
+1754098,4620636,35,Mutually Exclusive Sets,4 questions,quiz,10,Probability - Bayesian Inference,11
+1754098,14241788,45,Dependence and Independence of Sets,03:01,lecture,11,Probability - Bayesian Inference,11
+1754098,4620638,36,Dependence and Independence of Sets,3 questions,quiz,12,Probability - Bayesian Inference,11
+1754098,14241794,46,The Conditional Probability Formula,04:16,lecture,13,Probability - Bayesian Inference,11
+1754098,4620640,37,The Conditional Probability Formula,3 questions,quiz,14,Probability - Bayesian Inference,11
+1754098,14241796,47,The Law of Total Probability,03:03,lecture,15,Probability - Bayesian Inference,11
+1754098,14241800,48,The Additive Rule,02:21,lecture,16,Probability - Bayesian Inference,11
+1754098,4620642,38,The Additive Rule,2 questions,quiz,17,Probability - Bayesian Inference,11
+1754098,14241802,49,The Multiplication Law,04:05,lecture,18,Probability - Bayesian Inference,11
+1754098,4620644,39,The Multiplication Law,2 questions,quiz,19,Probability - Bayesian Inference,11
+1754098,14241804,50,Bayes' Law,05:44,lecture,20,Probability - Bayesian Inference,11
+1754098,4620646,40,Bayes' Law,2 questions,quiz,21,Probability - Bayesian Inference,11
+1754098,14242362,51,A Practical Example of Bayesian Inference,14:52,lecture,22,Probability - Bayesian Inference,11
+1754098,14241806,52,Fundamentals of Probability Distributions,06:29,lecture,1,Probability - Distributions,12
+1754098,4620648,41,Fundamentals of Probability Distributions,3 questions,quiz,2,Probability - Distributions,12
+1754098,14241808,53,Types of Probability Distributions,07:32,lecture,3,Probability - Distributions,12
+1754098,4620650,42,Types of Probability Distributions,2 questions,quiz,4,Probability - Distributions,12
+1754098,14241816,54,Characteristics of Discrete Distributions,02:00,lecture,5,Probability - Distributions,12
+1754098,4620652,43,Characteristics of Discrete Distributions,2 questions,quiz,6,Probability - Distributions,12
+1754098,14241820,55,Discrete Distributions: The Uniform Distribution,02:13,lecture,7,Probability - Distributions,12
+1754098,4620654,44,Discrete Distributions: The Uniform Distribution,2 questions,quiz,8,Probability - Distributions,12
+1754098,14241824,56,Discrete Distributions: The Bernoulli Distribution,03:26,lecture,9,Probability - Distributions,12
+1754098,4620656,45,Discrete Distributions: The Bernoulli Distribution,1 question,quiz,10,Probability - Distributions,12
+1754098,14241828,57,Discrete Distributions: The Binomial Distribution,07:04,lecture,11,Probability - Distributions,12
+1754098,4620660,46,Discrete Distributions: The Binomial Distribution,1 question,quiz,12,Probability - Distributions,12
+1754098,14241832,58,Discrete Distributions: The Poisson Distribution,05:27,lecture,13,Probability - Distributions,12
+1754098,4620676,47,Discrete Distributions: The Poisson Distribution,1 question,quiz,14,Probability - Distributions,12
+1754098,14241838,59,Characteristics of Continuous Distributions,07:12,lecture,15,Probability - Distributions,12
+1754098,4620678,48,Characteristics of Continuous Distributions,1 question,quiz,16,Probability - Distributions,12
+1754098,14241844,60,Continuous Distributions: The Normal Distribution,04:08,lecture,17,Probability - Distributions,12
+1754098,4620680,49,Continuous Distributions: The Normal Distribution,1 question,quiz,18,Probability - Distributions,12
+1754098,14241848,61,Continuous Distributions: The Standard Normal Distribution,04:25,lecture,19,Probability - Distributions,12
+1754098,4620682,50,Continuous Distributions: The Standard Normal Distribution,1 question,quiz,20,Probability - Distributions,12
+1754098,14241856,62,Continuous Distributions: The Students' T Distribution,02:29,lecture,21,Probability - Distributions,12
+1754098,4620684,51,Continuous Distributions: The Students' T Distribution,1 question,quiz,22,Probability - Distributions,12
+1754098,14241860,63,Continuous Distributions: The Chi-Squared Distribution,02:22,lecture,23,Probability - Distributions,12
+1754098,4620686,52,Continuous Distributions: The Chi-Squared Distribution,1 question,quiz,24,Probability - Distributions,12
+1754098,14241864,64,Continuous Distributions: The Exponential Distribution,03:15,lecture,25,Probability - Distributions,12
+1754098,4620690,53,Continuous Distributions: The Exponential Distribution,1 question,quiz,26,Probability - Distributions,12
+1754098,14241868,65,Continuous Distributions: The Logistic Distribution,04:07,lecture,27,Probability - Distributions,12
+1754098,4620692,54,Continuous Distributions: The Logistic Distribution,1 question,quiz,28,Probability - Distributions,12
+1754098,14242364,66,A Practical Example of Probability Distributions,15:03,lecture,29,Probability - Distributions,12
+1754098,14241874,67,Probability in Finance,07:46,lecture,1,Probability - Probability in Other Fields,13
+1754098,14241878,68,Probability in Statistics,06:18,lecture,2,Probability - Probability in Other Fields,13
+1754098,14241884,69,Probability in Data Science,04:47,lecture,3,Probability - Probability in Other Fields,13
+1754098,10764376,70,Population and Sample,04:02,lecture,1,Part 3: Statistics,14
+1754098,4450986,55,Population and Sample,2 questions,quiz,2,Part 3: Statistics,14
+1754098,10764384,71,Types of Data,04:33,lecture,1,Statistics - Descriptive Statistics,15
+1754098,4450990,56,Types of Data,2 questions,quiz,2,Statistics - Descriptive Statistics,15
+1754098,10764386,72,Levels of Measurement,03:43,lecture,3,Statistics - Descriptive Statistics,15
+1754098,4450992,57,Levels of Measurement,2 questions,quiz,4,Statistics - Descriptive Statistics,15
+1754098,10764388,73,Categorical Variables - Visualization Techniques,04:52,lecture,5,Statistics - Descriptive Statistics,15
+1754098,4545288,58,Categorical Variables - Visualization Techniques,1 question,quiz,6,Statistics - Descriptive Statistics,15
+1754098,10764390,74,Categorical Variables Exercise,00:03,lecture,7,Statistics - Descriptive Statistics,15
+1754098,10764392,75,Numerical Variables - Frequency Distribution Table,03:09,lecture,8,Statistics - Descriptive Statistics,15
+1754098,4545290,59,Numerical Variables - Frequency Distribution Table,1 question,quiz,9,Statistics - Descriptive Statistics,15
+1754098,10764394,76,Numerical Variables Exercise,00:03,lecture,10,Statistics - Descriptive Statistics,15
+1754098,10764396,77,The Histogram,02:14,lecture,11,Statistics - Descriptive Statistics,15
+1754098,4545294,60,The Histogram,1 question,quiz,12,Statistics - Descriptive Statistics,15
+1754098,10764400,78,Histogram Exercise,00:03,lecture,13,Statistics - Descriptive Statistics,15
+1754098,10764402,79,Cross Tables and Scatter Plots,04:44,lecture,14,Statistics - Descriptive Statistics,15
+1754098,4545296,61,Cross Tables and Scatter Plots,1 question,quiz,15,Statistics - Descriptive Statistics,15
+1754098,10764404,80,Cross Tables and Scatter Plots Exercise,00:03,lecture,16,Statistics - Descriptive Statistics,15
+1754098,10764408,81,"Mean, median and mode",04:20,lecture,17,Statistics - Descriptive Statistics,15
+1754098,10764410,82,"Mean, Median and Mode Exercise",00:03,lecture,18,Statistics - Descriptive Statistics,15
+1754098,10764412,83,Skewness,02:37,lecture,19,Statistics - Descriptive Statistics,15
+1754098,4545298,62,Skewness,1 question,quiz,20,Statistics - Descriptive Statistics,15
+1754098,10764416,84,Skewness Exercise,00:03,lecture,21,Statistics - Descriptive Statistics,15
+1754098,10764418,85,Variance,05:55,lecture,22,Statistics - Descriptive Statistics,15
+1754098,10764420,86,Variance Exercise,00:15,lecture,23,Statistics - Descriptive Statistics,15
+1754098,10764422,87,Standard Deviation and Coefficient of Variation,04:40,lecture,24,Statistics - Descriptive Statistics,15
+1754098,4545302,63,Standard Deviation,1 question,quiz,25,Statistics - Descriptive Statistics,15
+1754098,10764424,88,Standard Deviation and Coefficient of Variation Exercise,00:03,lecture,26,Statistics - Descriptive Statistics,15
+1754098,10764426,89,Covariance,03:23,lecture,27,Statistics - Descriptive Statistics,15
+1754098,4545306,64,Covariance,1 question,quiz,28,Statistics - Descriptive Statistics,15
+1754098,10764428,90,Covariance Exercise,00:03,lecture,29,Statistics - Descriptive Statistics,15
+1754098,10764432,91,Correlation Coefficient,03:17,lecture,30,Statistics - Descriptive Statistics,15
+1754098,4545308,65,Correlation,2 questions,quiz,31,Statistics - Descriptive Statistics,15
+1754098,10764434,92,Correlation Coefficient Exercise,00:03,lecture,32,Statistics - Descriptive Statistics,15
+1754098,10764436,93,Practical Example: Descriptive Statistics,16:15,lecture,1,Statistics - Practical Example: Descriptive Statistics,16
+1754098,10764438,94,Practical Example: Descriptive Statistics Exercise,00:03,lecture,2,Statistics - Practical Example: Descriptive Statistics,16
+1754098,10764446,95,Introduction,01:00,lecture,1,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764448,96,What is a Distribution,04:33,lecture,2,Statistics - Inferential Statistics Fundamentals,17
+1754098,4450994,66,What is a Distribution,1 question,quiz,3,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764450,97,The Normal Distribution,03:54,lecture,4,Statistics - Inferential Statistics Fundamentals,17
+1754098,4450996,67,The Normal Distribution,1 question,quiz,5,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764452,98,The Standard Normal Distribution,03:30,lecture,6,Statistics - Inferential Statistics Fundamentals,17
+1754098,4545310,68,The Standard Normal Distribution,1 question,quiz,7,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764464,99,The Standard Normal Distribution Exercise,00:03,lecture,8,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764454,100,Central Limit Theorem,04:20,lecture,9,Statistics - Inferential Statistics Fundamentals,17
+1754098,4450998,69,Central Limit Theorem,1 question,quiz,10,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764456,101,Standard error,01:27,lecture,11,Statistics - Inferential Statistics Fundamentals,17
+1754098,4545312,70,Standard Error,1 question,quiz,12,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764458,102,Estimators and Estimates,03:07,lecture,13,Statistics - Inferential Statistics Fundamentals,17
+1754098,4451000,71,Estimators and Estimates,1 question,quiz,14,Statistics - Inferential Statistics Fundamentals,17
+1754098,10764472,103,What are Confidence Intervals?,02:41,lecture,1,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,4451002,72,What are Confidence Intervals?,1 question,quiz,2,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764476,104,Confidence Intervals; Population Variance Known; Z-score,08:01,lecture,3,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764478,105,Confidence Intervals; Population Variance Known; Z-score; Exercise,00:03,lecture,4,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,11725242,106,Confidence Interval Clarifications,04:38,lecture,5,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764482,107,Student's T Distribution,03:22,lecture,6,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,4451004,73,Student's T Distribution,1 question,quiz,7,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764486,108,Confidence Intervals; Population Variance Unknown; T-score,04:36,lecture,8,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764488,109,Confidence Intervals; Population Variance Unknown; T-score; Exercise,00:03,lecture,9,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764494,110,Margin of Error,04:52,lecture,10,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,4451010,74,Margin of Error,1 question,quiz,11,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764502,111,Confidence intervals. Two means. Dependent samples,06:04,lecture,12,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764506,112,Confidence intervals. Two means. Dependent samples Exercise,00:03,lecture,13,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764510,113,Confidence intervals. Two means. Independent Samples (Part 1),04:31,lecture,14,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764512,114,Confidence intervals. Two means. Independent Samples (Part 1). Exercise,00:03,lecture,15,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764516,115,Confidence intervals. Two means. Independent Samples (Part 2),03:57,lecture,16,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764518,116,Confidence intervals. Two means. Independent Samples (Part 2). Exercise,00:03,lecture,17,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764522,117,Confidence intervals. Two means. Independent Samples (Part 3),01:27,lecture,18,Statistics - Inferential Statistics: Confidence Intervals,18
+1754098,10764530,118,Practical Example: Inferential Statistics,10:06,lecture,1,Statistics - Practical Example: Inferential Statistics,19
+1754098,10764532,119,Practical Example: Inferential Statistics Exercise,00:03,lecture,2,Statistics - Practical Example: Inferential Statistics,19
+1754098,10764538,120,Null vs Alternative Hypothesis,05:52,lecture,1,Statistics - Hypothesis Testing,20
+1754098,10786160,121,Further Reading on Null and Alternative Hypothesis,01:16,lecture,2,Statistics - Hypothesis Testing,20
+1754098,4451018,75,Null vs Alternative Hypothesis,2 questions,quiz,3,Statistics - Hypothesis Testing,20
+1754098,10764544,122,Rejection Region and Significance Level,07:05,lecture,4,Statistics - Hypothesis Testing,20
+1754098,4451020,76,Rejection Region and Significance Level,2 questions,quiz,5,Statistics - Hypothesis Testing,20
+1754098,10764546,123,Type I Error and Type II Error,04:14,lecture,6,Statistics - Hypothesis Testing,20
+1754098,4451022,77,Type I Error and Type II Error,4 questions,quiz,7,Statistics - Hypothesis Testing,20
+1754098,10764550,124,Test for the Mean. Population Variance Known,06:34,lecture,8,Statistics - Hypothesis Testing,20
+1754098,10764556,125,Test for the Mean. Population Variance Known Exercise,00:03,lecture,9,Statistics - Hypothesis Testing,20
+1754098,10764560,126,p-value,04:13,lecture,10,Statistics - Hypothesis Testing,20
+1754098,4451024,78,p-value,4 questions,quiz,11,Statistics - Hypothesis Testing,20
+1754098,10764568,127,Test for the Mean. Population Variance Unknown,04:48,lecture,12,Statistics - Hypothesis Testing,20
+1754098,10764574,128,Test for the Mean. Population Variance Unknown Exercise,00:03,lecture,13,Statistics - Hypothesis Testing,20
+1754098,10764578,129,Test for the Mean. Dependent Samples,05:18,lecture,14,Statistics - Hypothesis Testing,20
+1754098,10764582,130,Test for the Mean. Dependent Samples Exercise,00:03,lecture,15,Statistics - Hypothesis Testing,20
+1754098,10764584,131,Test for the mean. Independent Samples (Part 1),04:22,lecture,16,Statistics - Hypothesis Testing,20
+1754098,12698175,132,Test for the mean. Independent Samples (Part 1). Exercise,00:03,lecture,17,Statistics - Hypothesis Testing,20
+1754098,10764592,133,Test for the mean. Independent Samples (Part 2),04:26,lecture,18,Statistics - Hypothesis Testing,20
+1754098,4545316,79,Test for the mean. Independent Samples (Part 2),1 question,quiz,19,Statistics - Hypothesis Testing,20
+1754098,10764586,134,Test for the mean. Independent Samples (Part 2). Exercise,00:03,lecture,20,Statistics - Hypothesis Testing,20
+1754098,10764600,135,Practical Example: Hypothesis Testing,07:16,lecture,1,Statistics - Practical Example: Hypothesis Testing,21
+1754098,10764602,136,Practical Example: Hypothesis Testing Exercise,00:03,lecture,2,Statistics - Practical Example: Hypothesis Testing,21
+1754098,10772510,137,Introduction to Programming,05:04,lecture,1,Part 4: Introduction to Python,22
+1754098,4451546,80,Introduction to Programming,2 questions,quiz,2,Part 4: Introduction to Python,22
+1754098,10772524,138,Why Python?,05:11,lecture,3,Part 4: Introduction to Python,22
+1754098,4451548,81,Why Python?,2 questions,quiz,4,Part 4: Introduction to Python,22
+1754098,10772526,139,Why Jupyter?,03:29,lecture,5,Part 4: Introduction to Python,22
+1754098,4451550,82,Why Jupyter?,2 questions,quiz,6,Part 4: Introduction to Python,22
+1754098,10772552,140,Installing Python and Jupyter,06:49,lecture,7,Part 4: Introduction to Python,22
+1754098,10772582,141,Understanding Jupyter's Interface - the Notebook Dashboard,03:15,lecture,8,Part 4: Introduction to Python,22
+1754098,10772590,142,Prerequisites for Coding in the Jupyter Notebooks,06:15,lecture,9,Part 4: Introduction to Python,22
+1754098,4451560,83,Jupyter's Interface,3 questions,quiz,10,Part 4: Introduction to Python,22
+1754098,10772630,143,Variables,03:37,lecture,1,Python - Variables and Data Types,23
+1754098,4451562,84,Variables,1 question,quiz,2,Python - Variables and Data Types,23
+1754098,10772634,144,Numbers and Boolean Values in Python,03:05,lecture,3,Python - Variables and Data Types,23
+1754098,4451564,85,Numbers and Boolean Values in Python,1 question,quiz,4,Python - Variables and Data Types,23
+1754098,10772636,145,Python Strings,05:40,lecture,5,Python - Variables and Data Types,23
+1754098,4451566,86,Python Strings,3 questions,quiz,6,Python - Variables and Data Types,23
+1754098,10772640,146,Using Arithmetic Operators in Python,03:23,lecture,1,Python - Basic Python Syntax,24
+1754098,4451568,87,Using Arithmetic Operators in Python,1 question,quiz,2,Python - Basic Python Syntax,24
+1754098,10772644,147,The Double Equality Sign,01:33,lecture,3,Python - Basic Python Syntax,24
+1754098,4451570,88,The Double Equality Sign,1 question,quiz,4,Python - Basic Python Syntax,24
+1754098,10772656,148,How to Reassign Values,01:08,lecture,5,Python - Basic Python Syntax,24
+1754098,4451572,89,How to Reassign Values,1 question,quiz,6,Python - Basic Python Syntax,24
+1754098,10772658,149,Add Comments,01:34,lecture,7,Python - Basic Python Syntax,24
+1754098,4451574,90,Add Comments,1 question,quiz,8,Python - Basic Python Syntax,24
+1754098,10772662,150,Understanding Line Continuation,00:49,lecture,9,Python - Basic Python Syntax,24
+1754098,10772664,151,Indexing Elements,01:18,lecture,10,Python - Basic Python Syntax,24
+1754098,4451576,91,Indexing Elements,1 question,quiz,11,Python - Basic Python Syntax,24
+1754098,10772680,152,Structuring with Indentation,01:44,lecture,12,Python - Basic Python Syntax,24
+1754098,4451580,92,Structuring with Indentation,1 question,quiz,13,Python - Basic Python Syntax,24
+1754098,10772684,153,Comparison Operators,02:10,lecture,1,Python - Other Python Operators,25
+1754098,4451582,93,Comparison Operators,2 questions,quiz,2,Python - Other Python Operators,25
+1754098,10772688,154,Logical and Identity Operators,05:35,lecture,3,Python - Other Python Operators,25
+1754098,4451584,94,Logical and Identity Operators,2 questions,quiz,4,Python - Other Python Operators,25
+1754098,10772698,155,The IF Statement,03:01,lecture,1,Python - Conditional Statements,26
+1754098,4451586,95,The IF Statement,1 question,quiz,2,Python - Conditional Statements,26
+1754098,10772702,156,The ELSE Statement,02:45,lecture,3,Python - Conditional Statements,26
+1754098,10772704,157,The ELIF Statement,05:34,lecture,4,Python - Conditional Statements,26
+1754098,10772706,158,A Note on Boolean Values,02:13,lecture,5,Python - Conditional Statements,26
+1754098,4451590,96,A Note on Boolean Values,1 question,quiz,6,Python - Conditional Statements,26
+1754098,10772718,159,Defining a Function in Python,02:02,lecture,1,Python - Python Functions,27
+1754098,10772726,160,How to Create a Function with a Parameter,03:49,lecture,2,Python - Python Functions,27
+1754098,10772736,161,Defining a Function in Python - Part II,02:36,lecture,3,Python - Python Functions,27
+1754098,10772744,162,How to Use a Function within a Function,01:49,lecture,4,Python - Python Functions,27
+1754098,10772748,163,Conditional Statements and Functions,03:06,lecture,5,Python - Python Functions,27
+1754098,10772750,164,Functions Containing a Few Arguments,01:17,lecture,6,Python - Python Functions,27
+1754098,10772752,165,Built-in Functions in Python,03:56,lecture,7,Python - Python Functions,27
+1754098,4451596,97,Python Functions,2 questions,quiz,8,Python - Python Functions,27
+1754098,10772766,166,Lists,08:18,lecture,1,Python - Sequences,28
+1754098,4451600,98,Lists,1 question,quiz,2,Python - Sequences,28
+1754098,10772776,167,Using Methods,06:54,lecture,3,Python - Sequences,28
+1754098,4451606,99,Using Methods,1 question,quiz,4,Python - Sequences,28
+1754098,10772782,168,List Slicing,04:31,lecture,5,Python - Sequences,28
+1754098,10772786,169,Tuples,06:40,lecture,6,Python - Sequences,28
+1754098,10772790,170,Dictionaries,08:27,lecture,7,Python - Sequences,28
+1754098,4451768,100,Dictionaries,1 question,quiz,8,Python - Sequences,28
+1754098,10773856,171,For Loops,05:40,lecture,1,Python - Iterations,29
+1754098,4451648,101,For Loops,1 question,quiz,2,Python - Iterations,29
+1754098,10773864,172,While Loops and Incrementing,05:10,lecture,3,Python - Iterations,29
+1754098,10773870,173,Lists with the range() Function,06:22,lecture,4,Python - Iterations,29
+1754098,4451650,102,Lists with the range() Function,1 question,quiz,5,Python - Iterations,29
+1754098,10773872,174,Conditional Statements and Loops,06:30,lecture,6,Python - Iterations,29
+1754098,10773874,175,"Conditional Statements, Functions, and Loops",02:27,lecture,7,Python - Iterations,29
+1754098,10773916,176,How to Iterate over Dictionaries,06:21,lecture,8,Python - Iterations,29
+1754098,10773924,177,Object Oriented Programming,05:00,lecture,1,Python - Advanced Python Tools,30
+1754098,4451654,103,Object Oriented Programming,2 questions,quiz,2,Python - Advanced Python Tools,30
+1754098,10773932,178,Modules and Packages,01:05,lecture,3,Python - Advanced Python Tools,30
+1754098,4451656,104,Modules and Packages,2 questions,quiz,4,Python - Advanced Python Tools,30
+1754098,10773940,179,What is the Standard Library?,02:47,lecture,5,Python - Advanced Python Tools,30
+1754098,4451658,105,What is the Standard Library?,1 question,quiz,6,Python - Advanced Python Tools,30
+1754098,10773978,180,Importing Modules in Python,04:04,lecture,7,Python - Advanced Python Tools,30
+1754098,4451660,106,Importing Modules in Python,2 questions,quiz,8,Python - Advanced Python Tools,30
+1754098,10776980,181,Introduction to Regression Analysis,01:27,lecture,1,Part 5: Advanced Statistical Methods in Python,31
+1754098,4451908,107,Introduction to Regression Analysis,1 question,quiz,2,Part 5: Advanced Statistical Methods in Python,31
+1754098,10776984,182,The Linear Regression Model,05:50,lecture,1,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4451910,108,The Linear Regression Model,2 questions,quiz,2,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10776986,183,Correlation vs Regression,01:43,lecture,3,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4451912,109,Correlation vs Regression,1 question,quiz,4,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10776988,184,Geometrical Representation of the Linear Regression Model,01:25,lecture,5,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4545320,110,Geometrical Representation of the Linear Regression Model,1 question,quiz,6,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10776992,185,Python Packages Installation,04:39,lecture,7,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10776994,186,First Regression in Python,07:11,lecture,8,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10887944,187,First Regression in Python Exercise,00:39,lecture,9,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10776998,188,Using Seaborn for Graphs,01:21,lecture,10,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10777000,189,How to Interpret the Regression Table,05:47,lecture,11,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4545324,111,How to Interpret the Regression Table,3 questions,quiz,12,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10777008,190,Decomposition of Variability,03:37,lecture,13,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4451914,112,Decomposition of Variability,1 question,quiz,14,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10777030,191,What is the OLS?,03:13,lecture,15,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4545322,113,What is the OLS,1 question,quiz,16,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10777032,192,R-Squared,05:30,lecture,17,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,4453050,114,R-Squared,2 questions,quiz,18,Advanced Statistical Methods - Linear Regression with StatsModels,32
+1754098,10777040,193,Multiple Linear Regression,02:55,lecture,1,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4545328,115,Multiple Linear Regression,1 question,quiz,2,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777048,194,Adjusted R-Squared,06:00,lecture,3,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4451922,116,Adjusted R-Squared,3 questions,quiz,4,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10887972,195,Multiple Linear Regression Exercise,00:03,lecture,5,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777052,196,Test for Significance of the Model (F-Test),02:01,lecture,6,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777056,197,OLS Assumptions,02:21,lecture,7,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4451924,117,OLS Assumptions,1 question,quiz,8,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777058,198,A1: Linearity,01:50,lecture,9,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4451926,118,A1: Linearity,2 questions,quiz,10,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777086,199,A2: No Endogeneity,04:09,lecture,11,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4451928,119,A2: No Endogeneity,1 question,quiz,12,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777112,200,A3:  Normality and Homoscedasticity,05:47,lecture,13,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777114,201,A4: No Autocorrelation,03:31,lecture,14,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4451932,120,A4:  No autocorrelation,2 questions,quiz,15,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777116,202,A5: No Multicollinearity,03:26,lecture,16,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,4451934,121,A5: No Multicollinearity,1 question,quiz,17,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777118,203,Dealing with Categorical Data - Dummy Variables,06:43,lecture,18,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10888002,204,Dealing with Categorical Data - Dummy Variables,00:03,lecture,19,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,10777122,205,Making Predictions with the Linear Regression,03:29,lecture,20,Advanced Statistical Methods - Multiple Linear Regression with StatsModels,33
+1754098,14390298,206,What is sklearn and How is it Different from Other Packages,02:14,lecture,1,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390320,207,How are we Going to Approach this Section?,01:56,lecture,2,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390322,208,Simple Linear Regression with sklearn,05:38,lecture,3,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390338,209,Simple Linear Regression with sklearn - A StatsModels-like Summary Table,04:49,lecture,4,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390346,210,A Note on Normalization,00:09,lecture,5,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390356,211,Simple Linear Regression with sklearn - Exercise,00:03,lecture,6,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390366,212,Multiple Linear Regression with sklearn,03:10,lecture,7,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390378,213,Calculating the Adjusted R-Squared in sklearn,04:45,lecture,8,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390386,214,Calculating the Adjusted R-Squared in sklearn - Exercise,00:03,lecture,9,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390402,215,Feature Selection (F-regression),04:41,lecture,10,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390418,216,A Note on Calculation of P-values with sklearn,00:13,lecture,11,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390434,217,Creating a Summary Table with P-values,02:10,lecture,12,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390444,218,Multiple Linear Regression - Exercise,00:03,lecture,13,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390448,219,Feature Scaling (Standardization),05:38,lecture,14,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390454,220,Feature Selection through Standardization of Weights,05:22,lecture,15,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390458,221,Predicting with the Standardized Coefficients,03:53,lecture,16,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390462,222,Feature Scaling (Standardization) - Exercise,00:03,lecture,17,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390466,223,Underfitting and Overfitting,02:42,lecture,18,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390476,224,Train - Test Split Explained,06:54,lecture,19,Advanced Statistical Methods - Linear Regression with sklearn,34
+1754098,14390482,225,Practical Example: Linear Regression (Part 1),11:59,lecture,1,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390486,226,Practical Example: Linear Regression (Part 2),06:12,lecture,2,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390498,227,A Note on Multicollinearity,00:14,lecture,3,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390490,228,Practical Example: Linear Regression (Part 3),03:15,lecture,4,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390600,229,Dummies and Variance Inflation Factor - Exercise,00:03,lecture,5,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390492,230,Practical Example: Linear Regression (Part 4),08:10,lecture,6,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390608,231,Dummy Variables - Exercise,00:14,lecture,7,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390494,232,Practical Example: Linear Regression (Part 5),07:34,lecture,8,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,14390616,233,Linear Regression - Exercise,00:16,lecture,9,Advanced Statistical Methods - Practical Example: Linear Regression,35
+1754098,10777126,234,Introduction to Logistic Regression,01:19,lecture,1,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777128,235,A Simple Example in Python,04:42,lecture,2,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777130,236,Logistic vs Logit Function,04:00,lecture,3,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777132,237,Building a Logistic Regression,02:48,lecture,4,Advanced Statistical Methods - Logistic Regression,36
+1754098,12710405,238,Building a Logistic Regression - Exercise,00:03,lecture,5,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777136,239,An Invaluable Coding Tip,02:26,lecture,6,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777138,240,Understanding Logistic Regression Tables,04:06,lecture,7,Advanced Statistical Methods - Logistic Regression,36
+1754098,12710607,241,Understanding Logistic Regression Tables - Exercise,00:03,lecture,8,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777140,242,What do the Odds Actually Mean,04:30,lecture,9,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777142,243,Binary Predictors in a Logistic Regression,04:32,lecture,10,Advanced Statistical Methods - Logistic Regression,36
+1754098,12710533,244,Binary Predictors in a Logistic Regression - Exercise,00:03,lecture,11,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777144,245,Calculating the Accuracy of the Model,03:21,lecture,12,Advanced Statistical Methods - Logistic Regression,36
+1754098,12710711,246,Calculating the Accuracy of the Model,00:03,lecture,13,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777146,247,Underfitting and Overfitting,03:43,lecture,14,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777148,248,Testing the Model,05:05,lecture,15,Advanced Statistical Methods - Logistic Regression,36
+1754098,12710751,249,Testing the Model - Exercise,00:03,lecture,16,Advanced Statistical Methods - Logistic Regression,36
+1754098,10777154,250,Introduction to Cluster Analysis,03:41,lecture,1,Advanced Statistical Methods - Cluster Analysis,37
+1754098,10777156,251,Some Examples of Clusters,04:31,lecture,2,Advanced Statistical Methods - Cluster Analysis,37
+1754098,10777160,252,Difference between Classification and Clustering,02:32,lecture,3,Advanced Statistical Methods - Cluster Analysis,37
+1754098,10777162,253,Math Prerequisites,03:19,lecture,4,Advanced Statistical Methods - Cluster Analysis,37
+1754098,10777164,254,K-Means Clustering,04:41,lecture,1,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777166,255,A Simple Example of Clustering,07:48,lecture,2,Advanced Statistical Methods - K-Means Clustering,38
+1754098,12711455,256,A Simple Example of Clustering - Exercise,00:03,lecture,3,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777168,257,Clustering Categorical Data,02:50,lecture,4,Advanced Statistical Methods - K-Means Clustering,38
+1754098,12711473,258,Clustering Categorical Data - Exercise,00:03,lecture,5,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777170,259,How to Choose the Number of Clusters,06:11,lecture,6,Advanced Statistical Methods - K-Means Clustering,38
+1754098,12711503,260,How to Choose the Number of Clusters - Exercise,00:03,lecture,7,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777172,261,Pros and Cons of K-Means Clustering,03:23,lecture,8,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777178,262,To Standardize or not to Standardize,04:32,lecture,9,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777180,263,Relationship between Clustering and Regression,01:31,lecture,10,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777186,264,Market Segmentation with Cluster Analysis (Part 1),06:03,lecture,11,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777190,265,Market Segmentation with Cluster Analysis (Part 2),06:58,lecture,12,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777192,266,How is Clustering Useful?,04:47,lecture,13,Advanced Statistical Methods - K-Means Clustering,38
+1754098,12711511,267,EXERCISE: Species Segmentation with Cluster Analysis (Part 1),00:03,lecture,14,Advanced Statistical Methods - K-Means Clustering,38
+1754098,12711537,268,EXERCISE: Species Segmentation with Cluster Analysis (Part 2),00:03,lecture,15,Advanced Statistical Methods - K-Means Clustering,38
+1754098,10777196,269,Types of Clustering,03:39,lecture,1,Advanced Statistical Methods - Other Types of Clustering,39
+1754098,10777200,270,Dendrogram,05:21,lecture,2,Advanced Statistical Methods - Other Types of Clustering,39
+1754098,10777204,271,Heatmaps,04:34,lecture,3,Advanced Statistical Methods - Other Types of Clustering,39
+1754098,11095420,272,What is a Matrix?,03:37,lecture,1,Part 6: Mathematics,40
+1754098,4485412,122,What is a Matrix?,6 questions,quiz,2,Part 6: Mathematics,40
+1754098,11095424,273,Scalars and Vectors,02:58,lecture,3,Part 6: Mathematics,40
+1754098,4485434,123,Scalars and Vectors,5 questions,quiz,4,Part 6: Mathematics,40
+1754098,11095428,274,Linear Algebra and Geometry,03:06,lecture,5,Part 6: Mathematics,40
+1754098,4485446,124,Linear Algebra and Geometry,3 questions,quiz,6,Part 6: Mathematics,40
+1754098,11095436,275,Arrays in Python - A Convenient Way To Represent Matrices,05:09,lecture,7,Part 6: Mathematics,40
+1754098,11095442,276,What is a Tensor?,03:00,lecture,8,Part 6: Mathematics,40
+1754098,4485456,125,What is a Tensor?,2 questions,quiz,9,Part 6: Mathematics,40
+1754098,11095448,277,Addition and Subtraction of Matrices,03:36,lecture,10,Part 6: Mathematics,40
+1754098,4485460,126,Addition and Subtraction of Matrices,3 questions,quiz,11,Part 6: Mathematics,40
+1754098,11095454,278,Errors when Adding Matrices,02:01,lecture,12,Part 6: Mathematics,40
+1754098,11095456,279,Transpose of a Matrix,05:13,lecture,13,Part 6: Mathematics,40
+1754098,11095462,280,Dot Product,03:48,lecture,14,Part 6: Mathematics,40
+1754098,11095466,281,Dot Product of Matrices,08:23,lecture,15,Part 6: Mathematics,40
+1754098,11095476,282,Why is Linear Algebra Useful?,10:10,lecture,16,Part 6: Mathematics,40
+1754098,10784220,283,What to Expect from this Part?,03:07,lecture,1,Part 7: Deep Learning,41
+1754098,10784226,284,Introduction to Neural Networks,04:09,lecture,1,Deep Learning - Introduction to Neural Networks,42
+1754098,4452332,127,Introduction to Neural Networks,1 question,quiz,2,Deep Learning - Introduction to Neural Networks,42
+1754098,10784242,285,Training the Model,02:54,lecture,3,Deep Learning - Introduction to Neural Networks,42
+1754098,4452334,128,Training the Model,3 questions,quiz,4,Deep Learning - Introduction to Neural Networks,42
+1754098,10784250,286,Types of Machine Learning,03:43,lecture,5,Deep Learning - Introduction to Neural Networks,42
+1754098,4452336,129,Types of Machine Learning,4 questions,quiz,6,Deep Learning - Introduction to Neural Networks,42
+1754098,10784252,287,The Linear Model (Linear Algebraic Version),03:08,lecture,7,Deep Learning - Introduction to Neural Networks,42
+1754098,4452338,130,The Linear Model,2 questions,quiz,8,Deep Learning - Introduction to Neural Networks,42
+1754098,10784258,288,The Linear Model with Multiple Inputs,02:25,lecture,9,Deep Learning - Introduction to Neural Networks,42
+1754098,4452340,131,The Linear Model with Multiple Inputs,2 questions,quiz,10,Deep Learning - Introduction to Neural Networks,42
+1754098,10784272,289,The Linear model with Multiple Inputs and Multiple Outputs,04:25,lecture,11,Deep Learning - Introduction to Neural Networks,42
+1754098,4453034,132,The Linear model with Multiple Inputs and Multiple Outputs,3 questions,quiz,12,Deep Learning - Introduction to Neural Networks,42
+1754098,10784278,290,Graphical Representation of Simple Neural Networks,01:47,lecture,13,Deep Learning - Introduction to Neural Networks,42
+1754098,4452342,133,Graphical Representation of Simple Neural Networks,1 question,quiz,14,Deep Learning - Introduction to Neural Networks,42
+1754098,10784284,291,What is the Objective Function?,01:27,lecture,15,Deep Learning - Introduction to Neural Networks,42
+1754098,4452344,134,What is the Objective Function?,2 questions,quiz,16,Deep Learning - Introduction to Neural Networks,42
+1754098,10784288,292,Common Objective Functions: L2-norm Loss,02:04,lecture,17,Deep Learning - Introduction to Neural Networks,42
+1754098,4452346,135,Common Objective Functions: L2-norm Loss,3 questions,quiz,18,Deep Learning - Introduction to Neural Networks,42
+1754098,10784292,293,Common Objective Functions: Cross-Entropy Loss,03:55,lecture,19,Deep Learning - Introduction to Neural Networks,42
+1754098,4452348,136,Common Objective Functions: Cross-Entropy Loss,4 questions,quiz,20,Deep Learning - Introduction to Neural Networks,42
+1754098,10784298,294,Optimization Algorithm: 1-Parameter Gradient Descent,06:33,lecture,21,Deep Learning - Introduction to Neural Networks,42
+1754098,4452350,137,Optimization Algorithm: 1-Parameter Gradient Descent,4 questions,quiz,22,Deep Learning - Introduction to Neural Networks,42
+1754098,10784302,295,Optimization Algorithm: n-Parameter Gradient Descent,06:08,lecture,23,Deep Learning - Introduction to Neural Networks,42
+1754098,4452352,138,Optimization Algorithm: n-Parameter Gradient Descent,3 questions,quiz,24,Deep Learning - Introduction to Neural Networks,42
+1754098,10784308,296,Basic NN Example (Part 1),03:06,lecture,1,Deep Learning - How to Build a Neural Network from Scratch with NumPy,43
+1754098,10784310,297,Basic NN Example (Part 2),04:59,lecture,2,Deep Learning - How to Build a Neural Network from Scratch with NumPy,43
+1754098,10784312,298,Basic NN Example (Part 3),03:25,lecture,3,Deep Learning - How to Build a Neural Network from Scratch with NumPy,43
+1754098,10784314,299,Basic NN Example (Part 4),08:15,lecture,4,Deep Learning - How to Build a Neural Network from Scratch with NumPy,43
+1754098,10784318,300,Basic NN Example Exercises,00:51,lecture,5,Deep Learning - How to Build a Neural Network from Scratch with NumPy,43
+1754098,10784322,301,How to Install TensorFlow 2.0,05:02,lecture,1,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088826,302,TensorFlow Outline and Comparison with Other Libraries,03:28,lecture,2,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088832,303,TensorFlow 1 vs TensorFlow 2,02:33,lecture,3,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088892,304,A Note on TensorFlow 2 Syntax,00:58,lecture,4,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088834,305,Types of File Formats Supporting TensorFlow,02:34,lecture,5,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088836,306,Outlining the Model with TensorFlow 2,05:48,lecture,6,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088844,307,Interpreting the Result and Extracting the Weights and Bias,04:09,lecture,7,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088860,308,Customizing a TensorFlow 2 Model,02:51,lecture,8,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,15088868,309,Basic NN with TensorFlow: Exercises,00:47,lecture,9,Deep Learning - TensorFlow 2.0: Introduction,44
+1754098,10784354,310,What is a Layer?,01:53,lecture,1,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784356,311,What is a Deep Net?,02:18,lecture,2,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784374,312,Digging into a Deep Net,04:58,lecture,3,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784380,313,Non-Linearities and their Purpose,02:59,lecture,4,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784390,314,Activation Functions,03:37,lecture,5,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784392,315,Activation Functions: Softmax Activation,03:24,lecture,6,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784396,316,Backpropagation,03:12,lecture,7,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784398,317,Backpropagation Picture,03:02,lecture,8,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784402,318,Backpropagation - A Peek into the Mathematics of Optimization,00:21,lecture,9,Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks,45
+1754098,10784404,319,What is Overfitting?,03:51,lecture,1,Deep Learning - Overfitting,46
+1754098,10784410,320,Underfitting and Overfitting for Classification,01:52,lecture,2,Deep Learning - Overfitting,46
+1754098,10784414,321,What is Validation?,03:22,lecture,3,Deep Learning - Overfitting,46
+1754098,10784416,322,"Training, Validation, and Test Datasets",02:30,lecture,4,Deep Learning - Overfitting,46
+1754098,10784420,323,N-Fold Cross Validation,03:07,lecture,5,Deep Learning - Overfitting,46
+1754098,10784424,324,Early Stopping or When to Stop Training,04:54,lecture,6,Deep Learning - Overfitting,46
+1754098,10784428,325,What is Initialization?,02:32,lecture,1,Deep Learning - Initialization,47
+1754098,10784434,326,Types of Simple Initializations,02:47,lecture,2,Deep Learning - Initialization,47
+1754098,10784440,327,State-of-the-Art Method - (Xavier) Glorot Initialization,02:45,lecture,3,Deep Learning - Initialization,47
+1754098,10784446,328,Stochastic Gradient Descent,03:24,lecture,1,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784450,329,Problems with Gradient Descent,02:02,lecture,2,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784454,330,Momentum,02:30,lecture,3,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784460,331,"Learning Rate Schedules, or How to Choose the Optimal Learning Rate",04:25,lecture,4,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784464,332,Learning Rate Schedules Visualized,01:32,lecture,5,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784466,333,Adaptive Learning Rate Schedules (AdaGrad and RMSprop ),04:08,lecture,6,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784472,334,Adam (Adaptive Moment Estimation),02:39,lecture,7,Deep Learning - Digging into Gradient Descent and Learning Rate Schedules,48
+1754098,10784478,335,Preprocessing Introduction,02:51,lecture,1,Deep Learning - Preprocessing,49
+1754098,10784480,336,Types of Basic Preprocessing,01:17,lecture,2,Deep Learning - Preprocessing,49
+1754098,10784484,337,Standardization,04:31,lecture,3,Deep Learning - Preprocessing,49
+1754098,10784486,338,Preprocessing Categorical Data,02:15,lecture,4,Deep Learning - Preprocessing,49
+1754098,10784488,339,Binary and One-Hot Encoding,03:39,lecture,5,Deep Learning - Preprocessing,49
+1754098,15088966,340,MNIST: The Dataset,02:25,lecture,1,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15088968,341,MNIST: How to Tackle the MNIST,02:44,lecture,2,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15088972,342,MNIST: Importing the Relevant Packages and Loading the Data,02:11,lecture,3,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15088980,343,MNIST: Preprocess the Data - Create a Validation Set and Scale It,04:43,lecture,4,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15088988,344,MNIST: Preprocess the Data - Scale the Test Data - Exercise,00:03,lecture,5,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15088994,345,MNIST: Preprocess the Data - Shuffle and Batch,06:30,lecture,6,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15089104,346,MNIST: Preprocess the Data - Shuffle and Batch - Exercise,00:03,lecture,7,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15088998,347,MNIST: Outline the Model,04:54,lecture,8,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15089004,348,MNIST: Select the Loss and the Optimizer,02:05,lecture,9,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15089038,349,MNIST: Learning,05:38,lecture,10,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15089010,350,MNIST - Exercises,01:21,lecture,11,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15089016,351,MNIST: Testing the Model,03:56,lecture,12,Deep Learning - Classifying on the MNIST Dataset,50
+1754098,15089232,352,Business Case: Exploring the Dataset and Identifying Predictors,07:54,lecture,1,Deep Learning - Business Case Example,51
+1754098,15089240,353,Business Case: Outlining the Solution,01:31,lecture,2,Deep Learning - Business Case Example,51
+1754098,15089246,354,Business Case: Balancing the Dataset,03:39,lecture,3,Deep Learning - Business Case Example,51
+1754098,15089250,355,Business Case: Preprocessing the Data,11:32,lecture,4,Deep Learning - Business Case Example,51
+1754098,15089256,356,Business Case: Preprocessing the Data - Exercise,00:12,lecture,5,Deep Learning - Business Case Example,51
+1754098,15089258,357,Business Case: Load the Preprocessed Data,03:23,lecture,6,Deep Learning - Business Case Example,51
+1754098,15089264,358,Business Case: Load the Preprocessed Data - Exercise,00:03,lecture,7,Deep Learning - Business Case Example,51
+1754098,15089272,359,Business Case: Learning and Interpreting the Result,04:15,lecture,8,Deep Learning - Business Case Example,51
+1754098,15089274,360,Business Case: Setting an Early Stopping Mechanism,05:01,lecture,9,Deep Learning - Business Case Example,51
+1754098,15089282,361,Setting an Early Stopping Mechanism - Exercise,00:08,lecture,10,Deep Learning - Business Case Example,51
+1754098,15089290,362,Business Case: Testing the Model,01:23,lecture,11,Deep Learning - Business Case Example,51
+1754098,15089292,363,Business Case: Final Exercise,00:16,lecture,12,Deep Learning - Business Case Example,51
+1754098,10784564,364,Summary on What You've Learned,03:41,lecture,1,Deep Learning - Conclusion,52
+1754098,10784566,365,What's Further out there in terms of Machine Learning,01:47,lecture,2,Deep Learning - Conclusion,52
+1754098,10784572,366,DeepMind and Deep Learning,00:21,lecture,3,Deep Learning - Conclusion,52
+1754098,10784568,367,An overview of CNNs,04:56,lecture,4,Deep Learning - Conclusion,52
+1754098,10784578,368,An Overview of RNNs,02:50,lecture,5,Deep Learning - Conclusion,52
+1754098,10784580,369,An Overview of non-NN Approaches,03:52,lecture,6,Deep Learning - Conclusion,52
+1754098,15089632,370,READ ME!!!!,00:21,lecture,1,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,15088820,371,How to Install TensorFlow 1,02:20,lecture,2,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,15089554,372,A Note on Installing Packages in Anaconda,01:14,lecture,3,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784324,373,TensorFlow Intro,03:46,lecture,4,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784326,374,Actual Introduction to TensorFlow,01:40,lecture,5,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784328,375,"Types of File Formats, supporting Tensors",02:38,lecture,6,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784332,376,"Basic NN Example with TF: Inputs, Outputs, Targets, Weights, Biases",06:05,lecture,7,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784336,377,Basic NN Example with TF: Loss Function and Gradient Descent,03:41,lecture,8,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784338,378,Basic NN Example with TF: Model Output,06:05,lecture,9,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784342,379,Basic NN Example with TF Exercises,01:01,lecture,10,Appendix: Deep Learning - TensorFlow 1: Introduction,53
+1754098,10784496,380,MNIST: What is the MNIST Dataset?,02:26,lecture,1,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784498,381,MNIST: How to Tackle the MNIST,02:48,lecture,2,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784506,382,MNIST: Relevant Packages,01:34,lecture,3,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784508,383,MNIST: Model Outline,06:51,lecture,4,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784510,384,MNIST: Loss and Optimization Algorithm,02:39,lecture,5,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784516,385,Calculating the Accuracy of the Model,04:18,lecture,6,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784518,386,MNIST: Batching and Early Stopping,02:08,lecture,7,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784520,387,MNIST: Learning,07:35,lecture,8,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784522,388,MNIST: Results and Testing,06:11,lecture,9,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784526,389,MNIST: Exercises,01:29,lecture,10,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784528,390,MNIST: Solutions,01:31,lecture,11,Appendix: Deep Learning - TensorFlow 1: Classifying on the MNIST Dataset,54
+1754098,10784532,391,Business Case: Getting Acquainted with the Dataset,07:55,lecture,1,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784534,392,Business Case: Outlining the Solution,01:57,lecture,2,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784536,393,The Importance of Working with a Balanced Dataset,03:39,lecture,3,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784540,394,Business Case: Preprocessing,11:35,lecture,4,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10796140,395,Business Case: Preprocessing Exercise,00:13,lecture,5,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784542,396,Creating a Data Provider,06:37,lecture,6,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784546,397,Business Case: Model Outline,05:35,lecture,7,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784550,398,Business Case: Optimization,05:10,lecture,8,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784552,399,Business Case: Interpretation,02:05,lecture,9,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784554,400,Business Case: Testing the Model,02:04,lecture,10,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784556,401,Business Case: A Comment on the Homework,03:51,lecture,11,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,10784558,402,Business Case: Final Exercise,00:17,lecture,12,Appendix: Deep Learning - TensorFlow 1: Business Case,55
+1754098,12485966,403,"What are Data, Servers, Clients, Requests, and Responses",04:43,lecture,1,Software Integration,56
+1754098,4540620,139,"What are Data, Servers, Clients, Requests, and Responses",2 questions,quiz,2,Software Integration,56
+1754098,12485976,404,"What are Data Connectivity, APIs, and Endpoints?",07:05,lecture,3,Software Integration,56
+1754098,4540626,140,"What are Data Connectivity, APIs, and Endpoints?",2 questions,quiz,4,Software Integration,56
+1754098,12485986,405,Taking a Closer Look at APIs,08:05,lecture,5,Software Integration,56
+1754098,4540632,141,Taking a Closer Look at APIs,2 questions,quiz,6,Software Integration,56
+1754098,12485996,406,Communication between Software Products through Text Files,04:21,lecture,7,Software Integration,56
+1754098,4540638,142,Communication between Software Products through Text Files,1 question,quiz,8,Software Integration,56
+1754098,12486010,407,Software Integration - Explained,05:25,lecture,9,Software Integration,56
+1754098,4540644,143,Software Integration - Explained,2 questions,quiz,10,Software Integration,56
+1754098,12486034,408,"Game Plan for this Python, SQL, and Tableau Business Exercise",04:08,lecture,1,Case Study - What's Next in the Course?,57
+1754098,12486036,409,The Business Task,02:48,lecture,2,Case Study - What's Next in the Course?,57
+1754098,12486038,410,Introducing the Data Set,03:18,lecture,3,Case Study - What's Next in the Course?,57
+1754098,4540648,144,Introducing the Data Set,1 question,quiz,4,Case Study - What's Next in the Course?,57
+1754098,12497202,411,What to Expect from the Following Sections?,01:28,lecture,1,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486056,412,Importing the Absenteeism Data in Python,03:23,lecture,2,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486064,413,Checking the Content of the Data Set,05:53,lecture,3,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486074,414,Introduction to Terms with Multiple Meanings,03:27,lecture,4,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486090,415,What's Regression Analysis - a Quick Refresher,01:50,lecture,5,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486094,416,Using a Statistical Approach towards the Solution to the Exercise,02:17,lecture,6,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486098,417,Dropping a Column from a DataFrame in Python,06:27,lecture,7,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568674,418,EXERCISE - Dropping a Column from a DataFrame in Python,00:26,lecture,8,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568682,419,SOLUTION - Dropping a Column from a DataFrame in Python,00:01,lecture,9,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486102,420,Analyzing the Reasons for Absence,05:04,lecture,10,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486104,421,Obtaining Dummies from a Single Feature,08:37,lecture,11,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568732,422,EXERCISE - Obtaining Dummies from a Single Feature,00:04,lecture,12,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568744,423,SOLUTION - Obtaining Dummies from a Single Feature,00:00,lecture,13,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486106,424,Dropping a Dummy Variable from the Data Set,01:32,lecture,14,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486114,425,More on Dummy Variables: A Statistical Perspective,01:28,lecture,15,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486122,426,Classifying the Various Reasons for Absence,08:35,lecture,16,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486134,427,Using .concat() in Python,04:35,lecture,17,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568820,428,EXERCISE - Using .concat() in Python,00:04,lecture,18,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568838,429,SOLUTION - Using .concat() in Python,00:01,lecture,19,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486144,430,Reordering Columns in a Pandas DataFrame in Python,01:43,lecture,20,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568868,431,EXERCISE - Reordering Columns in a Pandas DataFrame in Python,00:06,lecture,21,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568870,432,SOLUTION - Reordering Columns in a Pandas DataFrame in Python,00:12,lecture,22,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486152,433,Creating Checkpoints while Coding in Jupyter,02:52,lecture,23,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568896,434,EXERCISE - Creating Checkpoints while Coding in Jupyter,00:04,lecture,24,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12568906,435,SOLUTION - Creating Checkpoints while Coding in Jupyter,00:00,lecture,25,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486158,436,Analyzing the Dates from the Initial Data Set,07:49,lecture,26,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486166,437,"Extracting the Month Value from the ""Date"" Column",07:00,lecture,27,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486170,438,"Extracting the Day of the Week from the ""Date"" Column",03:36,lecture,28,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486172,439,"EXERCISE - Removing the ""Date"" Column",00:37,lecture,29,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486176,440,"Analyzing Several ""Straightforward"" Columns for this Exercise",03:17,lecture,30,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486178,441,"Working on ""Education"", ""Children"", and ""Pets""",04:38,lecture,31,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486182,442,Final Remarks of this Section,01:59,lecture,32,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,17001848,443,A Note on Exporting Your Data as a *.csv File,00:26,lecture,33,Case Study - Preprocessing the 'Absenteeism_data',58
+1754098,12486632,444,Exploring the Problem with a Machine Learning Mindset,03:20,lecture,1,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486646,445,Creating the Targets for the Logistic Regression,06:32,lecture,2,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486656,446,Selecting the Inputs for the Logistic Regression,02:41,lecture,3,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486660,447,Standardizing the Data,03:26,lecture,4,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486670,448,Splitting the Data for Training and Testing,06:12,lecture,5,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486686,449,Fitting the Model and Assessing its Accuracy,05:39,lecture,6,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486690,450,Creating a Summary Table with the Coefficients and Intercept,05:16,lecture,7,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486694,451,Interpreting the Coefficients for Our Problem,06:14,lecture,8,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486700,452,Standardizing only the Numerical Variables (Creating a Custom Scaler),04:12,lecture,9,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486706,453,Interpreting the Coefficients of the Logistic Regression,05:10,lecture,10,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486716,454,Backward Elimination or How to Simplify Your Model,04:02,lecture,11,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486722,455,Testing the Model We Created,04:43,lecture,12,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486726,456,Saving the Model and Preparing it for Deployment,04:06,lecture,13,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486730,457,ARTICLE - A Note on 'pickling',01:15,lecture,14,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12583092,458,EXERCISE - Saving the Model (and Scaler),00:13,lecture,15,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12486734,459,Preparing the Deployment of the Model through a Module,04:04,lecture,16,Case Study - Applying Machine Learning to Create the 'absenteeism_module',59
+1754098,12642360,460,Are You Sure You're All Set?,00:14,lecture,1,Case Study - Loading the 'absenteeism_module',60
+1754098,12486750,461,Deploying the 'absenteeism_module' - Part I,03:50,lecture,2,Case Study - Loading the 'absenteeism_module',60
+1754098,12486752,462,Deploying the 'absenteeism_module' - Part II,06:23,lecture,3,Case Study - Loading the 'absenteeism_module',60
+1754098,12579042,463,Exporting the Obtained Data Set as a *.csv,00:31,lecture,4,Case Study - Loading the 'absenteeism_module',60
+1754098,12579078,464,EXERCISE - Age vs Probability,00:14,lecture,1,Case Study - Analyzing the Predicted Outputs in Tableau,61
+1754098,12486870,465,Analyzing Age vs Probability in Tableau,08:49,lecture,2,Case Study - Analyzing the Predicted Outputs in Tableau,61
+1754098,12579088,466,EXERCISE - Reasons vs Probability,00:15,lecture,3,Case Study - Analyzing the Predicted Outputs in Tableau,61
+1754098,12486872,467,Analyzing Reasons vs Probability in Tableau,07:49,lecture,4,Case Study - Analyzing the Predicted Outputs in Tableau,61
+1754098,12579100,468,EXERCISE - Transportation Expense vs Probability,00:22,lecture,5,Case Study - Analyzing the Predicted Outputs in Tableau,61
+1754098,12486876,469,Analyzing Transportation Expense vs Probability in Tableau,06:00,lecture,6,Case Study - Analyzing the Predicted Outputs in Tableau,61
+1754098,23500066,470,Using the .format() Method,09:02,lecture,1,Appendix - Additional Python Tools,62
+1754098,23500074,471,Iterating Over Range Objects,04:17,lecture,2,Appendix - Additional Python Tools,62
+1754098,23500084,472,Introduction to Nested For Loops,05:59,lecture,3,Appendix - Additional Python Tools,62
+1754098,23500096,473,Triple Nested For Loops,05:37,lecture,4,Appendix - Additional Python Tools,62
+1754098,23500114,474,List Comprehensions,08:30,lecture,5,Appendix - Additional Python Tools,62
+1754098,23500132,475,Anonymous (Lambda) Functions,07:00,lecture,6,Appendix - Additional Python Tools,62
+1754098,29332560,476,Introduction to pandas Series,08:33,lecture,1,Appendix - pandas Fundamentals,63
+1754098,29332570,477,Working with Methods in Python - Part I,04:49,lecture,2,Appendix - pandas Fundamentals,63
+1754098,29332574,478,Working with Methods in Python - Part II,02:32,lecture,3,Appendix - pandas Fundamentals,63
+1754098,29332578,479,Parameters and Arguments in pandas,04:09,lecture,4,Appendix - pandas Fundamentals,63
+1754098,29332588,480,Using .unique() and .nunique(),03:49,lecture,5,Appendix - pandas Fundamentals,63
+1754098,29332590,481,Using .sort_values(),03:58,lecture,6,Appendix - pandas Fundamentals,63
+1754098,29332592,482,Introduction to pandas DataFrames - Part I,04:41,lecture,7,Appendix - pandas Fundamentals,63
+1754098,29332596,483,Introduction to pandas DataFrames - Part II,05:05,lecture,8,Appendix - pandas Fundamentals,63
+1754098,29332602,484,pandas DataFrames - Common Attributes,04:15,lecture,9,Appendix - pandas Fundamentals,63
+1754098,29332606,485,Data Selection in pandas DataFrames,06:55,lecture,10,Appendix - pandas Fundamentals,63
+1754098,29332612,486,pandas DataFrames - Indexing with .iloc[],05:56,lecture,11,Appendix - pandas Fundamentals,63
+1754098,29332616,487,pandas DataFrames - Indexing with .loc[],03:52,lecture,12,Appendix - pandas Fundamentals,63
+1754098,17409926,488,Bonus Lecture: Next Steps,00:31,lecture,1,Bonus Lecture,64

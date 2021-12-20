@@ -1,0 +1,12 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+887812,5587322,1,Introduction,01:59,lecture,1,Introduction to Scala Programming Language,1
+887812,5588980,2,What is Scala,01:44,lecture,2,Introduction to Scala Programming Language,1
+887812,5588982,3,Scala Terminologies,03:17,lecture,3,Introduction to Scala Programming Language,1
+887812,5587356,4,Executing Scala Online,02:44,lecture,4,Introduction to Scala Programming Language,1
+887812,5587348,5,Scala Data Types,02:07,lecture,5,Introduction to Scala Programming Language,1
+887812,5587350,6,Scala Operators,05:44,lecture,6,Introduction to Scala Programming Language,1
+887812,5587352,7,Scala Variables,06:02,lecture,7,Introduction to Scala Programming Language,1
+887812,5589028,8,Scala Arrays,05:31,lecture,8,Introduction to Scala Programming Language,1
+887812,5588984,9,Scala Lists,06:45,lecture,9,Introduction to Scala Programming Language,1
+887812,5587354,10,Scala Functions,06:20,lecture,10,Introduction to Scala Programming Language,1
+887812,26889468,11,Thank You,00:09,lecture,11,Introduction to Scala Programming Language,1

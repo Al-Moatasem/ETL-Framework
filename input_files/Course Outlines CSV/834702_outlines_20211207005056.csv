@@ -1,0 +1,16 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+834702,5024968,1,Introduction,06:06,lecture,1,Introduction,0
+834702,5154044,2,Tips,16:13,lecture,1,Learning Methods,1
+834702,5154052,3,Reading,18:13,lecture,2,Learning Methods,1
+834702,5154056,4,New Words,16:48,lecture,3,Learning Methods,1
+834702,5154072,5,Idioms,16:51,lecture,4,Learning Methods,1
+834702,5154088,6,4-Word Exercise,13:07,lecture,1,English Brain Exercises,2
+834702,5154100,7,Variations,11:30,lecture,2,English Brain Exercises,2
+834702,5154116,8,Full Variations,11:39,lecture,3,English Brain Exercises,2
+834702,5154128,9,Listening,09:18,lecture,4,English Brain Exercises,2
+834702,5154156,10,Thinking Exercises,11:18,lecture,5,English Brain Exercises,2
+834702,5154172,11,Writing,14:41,lecture,1,English Learning as a Lifestyle,3
+834702,5154192,12,Watching Movies,10:12,lecture,2,English Learning as a Lifestyle,3
+834702,5154202,13,Internet Immersion,11:42,lecture,3,English Learning as a Lifestyle,3
+834702,5154230,14,Routine & Attitude,12:47,lecture,4,English Learning as a Lifestyle,3
+834702,5154252,15,Summary,06:41,lecture,5,English Learning as a Lifestyle,3

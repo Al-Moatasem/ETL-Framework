@@ -1,0 +1,503 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1653432,10157682,1,What Does the Course Cover,03:38,lecture,1,Part 1: Introduction,1
+1653432,19429600,2,Download All Resources,00:14,lecture,2,Part 1: Introduction,1
+1653432,10151318,3,Why Are There So Many Business and Data Science Buzzwords?,05:21,lecture,1,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,10117236,4,Analysis vs Analytics,03:50,lecture,2,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,10117240,5,"Intro to Business Analytics, Data Analytics, and Data Science",08:26,lecture,3,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,4423032,1,"Intro to Business Analytics, Data Analytics, and Data Science",5 questions,quiz,4,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,10117246,6,"Adding Business Intelligence (BI), Machine Learning (ML), and AI to the Picture",09:31,lecture,5,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,4423034,2,"Adding Business Intelligence (BI), Machine Learning (ML), and AI to the Picture",2 questions,quiz,6,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,10117256,7,An Overview of our Data Science Infographic,04:03,lecture,7,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,4423036,3,An Overview of our Data Science Infographic,1 question,quiz,8,Intro to Data and Data Science - The Different Data Science Fields,2
+1653432,10117274,8,"When are Traditional data, Big Data, BI, Traditional Data Science and ML applied",07:19,lecture,1,Intro to Data and Data Science - The Relationship between Different Fields,3
+1653432,4423038,4,"When are Traditional data, Big Data, BI, Traditional Data Science and ML applied",1 question,quiz,2,Intro to Data and Data Science - The Relationship between Different Fields,3
+1653432,10117282,9,Why do we Need each of these Disciplines?,04:44,lecture,1,Intro to Data and Data Science - What is the Purpose of each Data Science Field,4
+1653432,4423040,5,Why do we Need each of these Disciplines?,1 question,quiz,2,Intro to Data and Data Science - What is the Purpose of each Data Science Field,4
+1653432,10117288,10,Traditional Data: Techniques,08:13,lecture,1,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423042,6,Traditional Data: Techniques,1 question,quiz,2,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117290,11,Traditional Data: Real-life Examples,01:44,lecture,3,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117292,12,Big Data: Techniques,04:26,lecture,4,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423046,7,Big Data: Techniques,1 question,quiz,5,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117294,13,Big Data: Real-life Examples,01:32,lecture,6,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117296,14,Business Intelligence (BI): Techniques,06:45,lecture,7,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423050,8,Business Intelligence (BI): Techniques,4 questions,quiz,8,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117298,15,Business Intelligence (BI): Real-life Examples,01:42,lecture,9,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117304,16,Traditional Methods: Techniques,09:08,lecture,10,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423054,9,Traditional Methods: Techniques,4 questions,quiz,11,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117308,17,Traditional Methods: Real-life Examples,02:45,lecture,12,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117312,18,Machine Learning (ML): Techniques,06:55,lecture,13,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423056,10,Machine Learning (ML): Techniques,2 questions,quiz,14,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117314,19,Machine Learning (ML): Types of Machine Learning,08:13,lecture,15,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423058,11,Machine Learning (ML): Types of Machine Learning,2 questions,quiz,16,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117318,20,Machine Learning (ML): Real-life Examples,02:11,lecture,17,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,4423060,12,Machine Learning (ML): Real-life Examples,5 questions,quiz,18,Intro to Data and Data Science - Common Data Science Techniques,5
+1653432,10117330,21,Programming Languages & Software Employed in Data Science - All the Tools Needed,05:51,lecture,1,Intro to Data and Data Science - Common Data Science Tools,6
+1653432,4423062,13,Programming Languages & Software Employed in Data Science - All the Tools Needed,4 questions,quiz,2,Intro to Data and Data Science - Common Data Science Tools,6
+1653432,10117334,22,Data Science Job Positions: What do they Involve and What to Look out for?,03:29,lecture,1,Intro to Data and Data Science - Data Science Career Paths,7
+1653432,4423064,14,Data Science Job Positions: What do they Involve and What to Look out for?,1 question,quiz,2,Intro to Data and Data Science - Data Science Career Paths,7
+1653432,10117338,23,Dispelling common Misconceptions,04:10,lecture,1,Intro to Data and Data Science - Dispelling Common Misconceptions,8
+1653432,4423066,15,Dispelling common Misconceptions,1 question,quiz,2,Intro to Data and Data Science - Dispelling Common Misconceptions,8
+1653432,10117346,24,Population vs sample,04:02,lecture,1,Part 2: Statistics - Population and Sample,9
+1653432,4421126,16,Population and Sample,2 questions,quiz,2,Part 2: Statistics - Population and Sample,9
+1653432,10117398,25,Types of Data,04:33,lecture,1,Statistics - Descriptive Statistics,10
+1653432,4421120,17,Types of data,2 questions,quiz,2,Statistics - Descriptive Statistics,10
+1653432,10117402,26,Levels of Measurement,03:43,lecture,3,Statistics - Descriptive Statistics,10
+1653432,4421122,18,Levels of measurement,2 questions,quiz,4,Statistics - Descriptive Statistics,10
+1653432,10117406,27,Categorical Variables - Visualization Techniques,04:52,lecture,5,Statistics - Descriptive Statistics,10
+1653432,4545232,19,Categorical variables. Visualization Techniques,1 question,quiz,6,Statistics - Descriptive Statistics,10
+1653432,10117478,28,Categorical Variables Exercise,00:03,lecture,7,Statistics - Descriptive Statistics,10
+1653432,10117408,29,Numerical Variables - Frequency Distribution Table,03:09,lecture,8,Statistics - Descriptive Statistics,10
+1653432,4545234,20,Numerical variables. Using a frequency distribution table,1 question,quiz,9,Statistics - Descriptive Statistics,10
+1653432,10117488,30,Numerical Variables Exercise,00:03,lecture,10,Statistics - Descriptive Statistics,10
+1653432,10117416,31,The Histogram,02:14,lecture,11,Statistics - Descriptive Statistics,10
+1653432,4545236,21,The Histogram,1 question,quiz,12,Statistics - Descriptive Statistics,10
+1653432,10117492,32,Histogram Exercise,00:03,lecture,13,Statistics - Descriptive Statistics,10
+1653432,10117418,33,Cross Table and Scatter Plot,04:44,lecture,14,Statistics - Descriptive Statistics,10
+1653432,4545240,22,Cross Tables and Scatter Plots,1 question,quiz,15,Statistics - Descriptive Statistics,10
+1653432,10117520,34,Cross Tables and Scatter Plots Exercise,00:03,lecture,16,Statistics - Descriptive Statistics,10
+1653432,10117422,35,"Mean, median and mode",04:20,lecture,17,Statistics - Descriptive Statistics,10
+1653432,10117528,36,"Mean, Median and Mode Exercise",00:03,lecture,18,Statistics - Descriptive Statistics,10
+1653432,10117428,37,Skewness,02:37,lecture,19,Statistics - Descriptive Statistics,10
+1653432,4545252,23,Skewness,1 question,quiz,20,Statistics - Descriptive Statistics,10
+1653432,10117536,38,Skewness Exercise,00:03,lecture,21,Statistics - Descriptive Statistics,10
+1653432,10117432,39,Variance,05:55,lecture,22,Statistics - Descriptive Statistics,10
+1653432,10117540,40,Variance Exercise,00:03,lecture,23,Statistics - Descriptive Statistics,10
+1653432,10117434,41,Standard Deviation and Coefficient of Variation,04:40,lecture,24,Statistics - Descriptive Statistics,10
+1653432,4545254,24,Standard deviation,1 question,quiz,25,Statistics - Descriptive Statistics,10
+1653432,10117552,42,Standard Deviation and Coefficient of Variation Exercise,00:03,lecture,26,Statistics - Descriptive Statistics,10
+1653432,10117440,43,Covariance,03:23,lecture,27,Statistics - Descriptive Statistics,10
+1653432,4545256,25,Covariance,1 question,quiz,28,Statistics - Descriptive Statistics,10
+1653432,10117562,44,Covariance Exercise,00:03,lecture,29,Statistics - Descriptive Statistics,10
+1653432,10117566,45,Correlation Coefficient,03:17,lecture,30,Statistics - Descriptive Statistics,10
+1653432,4545260,26,Correlation Coefficient,1 question,quiz,31,Statistics - Descriptive Statistics,10
+1653432,10117570,46,Correlation Coefficient Exercise,00:03,lecture,32,Statistics - Descriptive Statistics,10
+1653432,10117588,47,Practical Example,16:15,lecture,1,Statistics - Practical Example: Descriptive Statistics,11
+1653432,10117590,48,Practical Example Exercise,00:03,lecture,2,Statistics - Practical Example: Descriptive Statistics,11
+1653432,10117850,49,Introduction,01:00,lecture,1,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117854,50,What is a Distribution,04:33,lecture,2,Statistics - Inferential Statistics Fundamentals,12
+1653432,4421130,27,What is a Distribution,1 question,quiz,3,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117858,51,The Normal Distribution,03:54,lecture,4,Statistics - Inferential Statistics Fundamentals,12
+1653432,4421132,28,The Normal Distribution,1 question,quiz,5,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117862,52,The Standard Normal Distribution,03:30,lecture,6,Statistics - Inferential Statistics Fundamentals,12
+1653432,4545264,29,The Standard Normal Distribution,1 question,quiz,7,Statistics - Inferential Statistics Fundamentals,12
+1653432,10118100,53,The Standard Normal Distribution Exercise,00:03,lecture,8,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117864,54,Central Limit Theorem,04:20,lecture,9,Statistics - Inferential Statistics Fundamentals,12
+1653432,4421134,30,Central Limit Theorem,1 question,quiz,10,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117868,55,Standard error,01:27,lecture,11,Statistics - Inferential Statistics Fundamentals,12
+1653432,4545266,31,Standard error,1 question,quiz,12,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117870,56,Estimators and Estimates,03:07,lecture,13,Statistics - Inferential Statistics Fundamentals,12
+1653432,4421136,32,Estimators and Estimates,1 question,quiz,14,Statistics - Inferential Statistics Fundamentals,12
+1653432,10117876,57,What are Confidence Intervals?,02:41,lecture,1,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,4421142,33,What are Confidence Intervals?,1 question,quiz,2,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117884,58,Confidence Intervals; Population Variance Known; z-score,08:01,lecture,3,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10118166,59,Confidence Intervals; Population Variance Known; z-score Exercise,00:03,lecture,4,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,11725302,60,Confidence interval clarifications,04:38,lecture,5,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117886,61,Student's T Distribution,03:22,lecture,6,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,4421144,34,Student's T Distribution,1 question,quiz,7,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117888,62,Confidence Intervals; Population Variance Unknown; t-score,04:36,lecture,8,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10118216,63,Confidence Intervals; Population Variance Unknown; t-score Exercise,00:03,lecture,9,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117890,64,Margin of Error,04:52,lecture,10,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,4421150,35,Margin of Error,1 question,quiz,11,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117892,65,Confidence intervals. Two means. Dependent samples,06:04,lecture,12,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10118228,66,Confidence intervals. Two means. Dependent samples Exercise,00:03,lecture,13,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117896,67,Confidence intervals. Two means. Independent samples (Part 1),04:31,lecture,14,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10118230,68,Confidence intervals. Two means. Independent samples (Part 1) Exercise,00:03,lecture,15,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117898,69,Confidence intervals. Two means. Independent samples (Part 2),03:57,lecture,16,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10118240,70,Confidence intervals. Two means. Independent samples (Part 2) Exercise,00:03,lecture,17,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10117900,71,Confidence intervals. Two means. Independent samples (Part 3),01:27,lecture,18,Statistics - Inferential Statistics: Confidence Intervals,13
+1653432,10118268,72,Practical Example: Inferential Statistics,10:06,lecture,1,Statistics - Practical Example: Inferential Statistics,14
+1653432,10118276,73,Practical Example: Inferential Statistics Exercise,00:03,lecture,2,Statistics - Practical Example: Inferential Statistics,14
+1653432,10118288,74,The Null vs Alternative Hypothesis,05:52,lecture,1,Statistics - Hypothesis Testing,15
+1653432,10118318,75,Further Reading on Null and Alternative Hypothesis,01:16,lecture,2,Statistics - Hypothesis Testing,15
+1653432,4421158,36,The Null vs Alternative Hypothesis,3 questions,quiz,3,Statistics - Hypothesis Testing,15
+1653432,10118290,76,Rejection Region and Significance Level,07:05,lecture,4,Statistics - Hypothesis Testing,15
+1653432,4421162,37,Rejection Region and Significance Level,2 questions,quiz,5,Statistics - Hypothesis Testing,15
+1653432,10118292,77,Type I Error and Type II Error,04:14,lecture,6,Statistics - Hypothesis Testing,15
+1653432,4421164,38,Type I Error and Type II Error,4 questions,quiz,7,Statistics - Hypothesis Testing,15
+1653432,10118294,78,Test for the Mean. Population Variance Known,06:34,lecture,8,Statistics - Hypothesis Testing,15
+1653432,10118332,79,Test for the Mean. Population Variance Known Exercise,00:03,lecture,9,Statistics - Hypothesis Testing,15
+1653432,10118296,80,p-value,04:13,lecture,10,Statistics - Hypothesis Testing,15
+1653432,4421168,39,p-value,4 questions,quiz,11,Statistics - Hypothesis Testing,15
+1653432,10118298,81,Test for the Mean. Population Variance Unknown,04:48,lecture,12,Statistics - Hypothesis Testing,15
+1653432,10118338,82,Test for the Mean. Population Variance Unknown Exercise,00:03,lecture,13,Statistics - Hypothesis Testing,15
+1653432,10118302,83,Test for the Mean. Dependent Samples,05:18,lecture,14,Statistics - Hypothesis Testing,15
+1653432,10118668,84,Test for the Mean. Dependent Samples Exercise,00:03,lecture,15,Statistics - Hypothesis Testing,15
+1653432,10118304,85,Test for the mean. Independent samples (Part 1),04:22,lecture,16,Statistics - Hypothesis Testing,15
+1653432,12698149,86,Test for the mean. Independent samples (Part 1). Exercise,00:03,lecture,17,Statistics - Hypothesis Testing,15
+1653432,10118308,87,Test for the mean. Independent samples (Part 2),04:26,lecture,18,Statistics - Hypothesis Testing,15
+1653432,4545272,40,Test for the mean. Independent samples (Part 2),1 question,quiz,19,Statistics - Hypothesis Testing,15
+1653432,10118688,88,Test for the mean. Independent samples (Part 2),00:03,lecture,20,Statistics - Hypothesis Testing,15
+1653432,10118706,89,Practical Example: Hypothesis Testing,07:16,lecture,1,Statistics - Practical Example: Hypothesis Testing,16
+1653432,10118710,90,Practical Example: Hypothesis Testing Exercise,00:03,lecture,2,Statistics - Practical Example: Hypothesis Testing,16
+1653432,10121722,91,Why use SQL?,03:17,lecture,1,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421358,41,Why use SQL?,2 questions,quiz,2,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10121752,92,Why use MySQL?,01:57,lecture,3,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421360,42,Why use MySQL?,1 question,quiz,4,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122062,93,Introducing Databases,04:44,lecture,5,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421362,43,Introducing Databases,2 questions,quiz,6,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122096,94,Relational Database Fundamentals,04:51,lecture,7,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421364,44,Relational Database Fundamentals,2 questions,quiz,8,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122102,95,Comparing Databases and Spreadsheets,07:05,lecture,9,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421366,45,Comparing Databases and Spreadsheets,2 questions,quiz,10,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122116,96,Important Database Terminology,04:17,lecture,11,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421368,46,Important Database Terminology,1 question,quiz,12,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122148,97,The Concept of Relational Schemas: Primary Key,04:55,lecture,13,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421374,47,The Concept of Relational Schemas: Primary Key,1 question,quiz,14,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122152,98,The Concept of Relational Schemas: Foreign Key,04:58,lecture,15,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421376,48,The Concept of Relational Schemas: Foreign Key,1 question,quiz,16,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122156,99,The Concept of Relational Schemas: Unique Key and Null Values,03:07,lecture,17,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421378,49,The Concept of Relational Schemas: Unique Key,1 question,quiz,18,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122168,100,The Concept of Relational Schemas: Relationships Between Tables,04:39,lecture,19,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,4421380,50,The Concept of Relational Schemas: Relationships Between Tables,1 question,quiz,20,Part 3: Relational Database Theory & Introduction to SQL,17
+1653432,10122194,101,Installing MySQL Workbench and Server,10:48,lecture,1,SQL - Install and get to know MySQL,18
+1653432,10151436,102,Installing Visual C,00:21,lecture,2,SQL - Install and get to know MySQL,18
+1653432,16168257,103,Installing MySQL on macOS and Unix systems,01:24,lecture,3,SQL - Install and get to know MySQL,18
+1653432,10151440,104,The Client-Server Model,00:00,lecture,4,SQL - Install and get to know MySQL,18
+1653432,10122202,105,Linking GUI with the MySQL Server,02:34,lecture,5,SQL - Install and get to know MySQL,18
+1653432,16168481,106,Read me!!!,00:44,lecture,6,SQL - Install and get to know MySQL,18
+1653432,10404646,107,Creating a New User and a New Connection to it,06:18,lecture,7,SQL - Install and get to know MySQL,18
+1653432,10122206,108,Familiarize Yourself with the MySQL Interface,05:09,lecture,8,SQL - Install and get to know MySQL,18
+1653432,29335572,109,SQL Fundamentals - MySQL Session and Databases,08:31,lecture,9,SQL - Install and get to know MySQL,18
+1653432,29332460,110,"SQL Fundamentals - DROP, CREATE, SELECT, INSERT, DELETE",04:37,lecture,10,SQL - Install and get to know MySQL,18
+1653432,10122244,111,Coding Tips and Best Practices - I,05:34,lecture,1,SQL - Best SQL Practices,19
+1653432,4421392,51,Coding Tips and Best Practices - I,1 question,quiz,2,SQL - Best SQL Practices,19
+1653432,10122246,112,Coding Tips and Best Practices - II,04:12,lecture,3,SQL - Best SQL Practices,19
+1653432,4421394,52,Coding Tips and Best Practices - II,2 questions,quiz,4,SQL - Best SQL Practices,19
+1653432,10122250,113,Loading the 'employees' Database,02:20,lecture,1,SQL - Loading the 'employees' Database,20
+1653432,10122254,114,Loading the 'employees' Database,00:37,lecture,2,SQL - Loading the 'employees' Database,20
+1653432,10122330,115,Using SELECT - FROM,04:57,lecture,1,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122334,116,Using SELECT - FROM - Exercise,00:04,lecture,2,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122338,117,Using SELECT - FROM - Solution,00:01,lecture,3,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122340,118,Using WHERE,02:30,lecture,4,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122344,119,Using WHERE - Exercise,00:03,lecture,5,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122346,120,Using WHERE - Solution,00:01,lecture,6,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122350,121,Using AND,02:14,lecture,7,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122352,122,Using AND - Exercise,00:03,lecture,8,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122354,123,Using AND - Solution,00:02,lecture,9,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122356,124,Using OR,03:35,lecture,10,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122358,125,Using OR - Exercise,00:03,lecture,11,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122360,126,Using OR - Solution,00:02,lecture,12,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122364,127,Operator Precedence and Logical Order,03:34,lecture,13,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122366,128,Operator Precedence and Logical Order - Exercise,00:03,lecture,14,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122370,129,Operator Precedence and Logical Order - Solution,00:03,lecture,15,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122374,130,Using IN - NOT IN,03:12,lecture,16,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122376,131,Using IN - NOT IN - Exercise 1,00:05,lecture,17,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122378,132,Using IN - NOT IN - Solution 1,00:02,lecture,18,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122380,133,Using IN - NOT IN - Exercise 2,00:04,lecture,19,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122382,134,Using IN - NOT IN - Solution 2,00:02,lecture,20,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122402,135,Using LIKE - NOT LIKE,03:36,lecture,21,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122406,136,Using LIKE - NOT LIKE - Exercise,00:16,lecture,22,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122408,137,Using LIKE - NOT LIKE - Solution,00:05,lecture,23,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122410,138,Using Wildcard Characters,01:44,lecture,24,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122412,139,Using Wildcard characters - Exercise,00:07,lecture,25,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122414,140,Using Wildcard characters - Solution,00:03,lecture,26,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122418,141,Using BETWEEN - AND,02:19,lecture,27,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122420,142,Using BETWEEN - AND - Exercise,00:11,lecture,28,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122422,143,Using BETWEEN - AND - Solution,00:08,lecture,29,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122426,144,Using IS NOT NULL - IS NULL,01:37,lecture,30,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122432,145,Using IS NOT NULL - IS NULL - Exercise,00:03,lecture,31,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122434,146,Using IS NOT NULL - IS NULL - Solution,00:02,lecture,32,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122438,147,Using Other Comparison Operators,04:30,lecture,33,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122440,148,Using Other Comparison Operators - Exercise,00:10,lecture,34,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122446,149,Using Other Comparison Operators - Solution,00:03,lecture,35,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122452,150,Using SELECT DISTINCT,02:05,lecture,36,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122456,151,Using SELECT DISTINCT - Exercise,00:13,lecture,37,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122458,152,Using SELECT DISTINCT - Solution,00:01,lecture,38,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122462,153,Getting to Know Aggregate Functions,05:24,lecture,39,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122468,154,Getting to Know Aggregate Functions - Exercise,00:10,lecture,40,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122472,155,Getting to Know Aggregate Functions - Solution,00:02,lecture,41,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122480,156,Using ORDER BY,03:46,lecture,42,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122484,157,Using ORDER BY - Exercise,00:03,lecture,43,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122486,158,Using ORDER BY - Solution,00:01,lecture,44,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122488,159,Using GROUP BY,06:00,lecture,45,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122512,160,Using Aliases (AS),02:08,lecture,46,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122516,161,Using Aliases (AS) - Exercise,00:10,lecture,47,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122518,162,Using Aliases (AS) - Solution,00:04,lecture,48,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122520,163,Using HAVING,03:26,lecture,49,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122524,164,Using HAVING - Exercise,00:13,lecture,50,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122526,165,Using HAVING - Solution,00:16,lecture,51,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122528,166,Using WHERE vs HAVING - Part I,04:03,lecture,52,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122530,167,Using WHERE vs HAVING - Part II,03:08,lecture,53,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122532,168,Using WHERE vs HAVING - Part II - Exercise,00:07,lecture,54,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122534,169,Using WHERE vs HAVING - Part II - Solution,00:04,lecture,55,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122544,170,Using LIMIT,04:51,lecture,56,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122546,171,Using LIMIT - Exercise,00:02,lecture,57,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122550,172,Using LIMIT - Solution,00:01,lecture,58,SQL - Practical Application of the SQL SELECT Statement,21
+1653432,10122552,173,Applying COUNT(),04:01,lecture,1,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122556,174,Applying  COUNT() - Exercise,00:04,lecture,2,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122558,175,Applying COUNT() - Solution,00:01,lecture,3,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122560,176,Applying SUM(),01:30,lecture,4,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122564,177,Applying SUM() - Exercise,00:05,lecture,5,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122566,178,Applying SUM() - Solution,00:01,lecture,6,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122570,179,MIN() and MAX(),01:15,lecture,7,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122576,180,MIN() and MAX() - Exercise,00:05,lecture,8,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122578,181,MIN() and MAX() - Solution,00:02,lecture,9,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122580,182,Applying AVG(),01:58,lecture,10,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122584,183,Applying AVG() - Exercise,00:04,lecture,11,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122586,184,Applying AVG() - Solution,00:01,lecture,12,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122588,185,Rounding Numbers with ROUND(),02:06,lecture,13,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122590,186,Rounding Numbers with ROUND() - Exercise,00:06,lecture,14,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122592,187,Rounding Numbers with ROUND() - Solution,00:02,lecture,15,SQL - Expanding on MySQL Aggregate Functions,22
+1653432,10122670,188,What are JOINs?,04:23,lecture,1,SQL - SQL JOINs,23
+1653432,10122672,189,What are JOINs? - Exercise 1,00:13,lecture,2,SQL - SQL JOINs,23
+1653432,10122684,190,What are JOINs? - Exercise 2,00:14,lecture,3,SQL - SQL JOINs,23
+1653432,10122690,191,The Functionality of INNER JOIN - Part I,06:02,lecture,4,SQL - SQL JOINs,23
+1653432,10122696,192,The Functionality of INNER JOIN - Part II,05:33,lecture,5,SQL - SQL JOINs,23
+1653432,10122700,193,The Functionality of INNER JOIN - PART II - Exercise,00:04,lecture,6,SQL - SQL JOINs,23
+1653432,10122704,194,The Functionality of INNER JOIN - PART II - Solution,00:03,lecture,7,SQL - SQL JOINs,23
+1653432,10122708,195,Extra Info on Using Joins,04:09,lecture,8,SQL - SQL JOINs,23
+1653432,10122718,196,Duplicate Rows,04:21,lecture,9,SQL - SQL JOINs,23
+1653432,10122720,197,The Functionality of LEFT JOIN - Part I,04:31,lecture,10,SQL - SQL JOINs,23
+1653432,10122722,198,The Functionality of LEFT JOIN - Part II,05:46,lecture,11,SQL - SQL JOINs,23
+1653432,10122730,199,The Functionality of LEFT JOIN - Part II - Exercise,00:13,lecture,12,SQL - SQL JOINs,23
+1653432,10122736,200,The Functionality of LEFT JOIN - Part II - Solution,00:06,lecture,13,SQL - SQL JOINs,23
+1653432,10122740,201,The Functionality of RIGHT JOIN,04:30,lecture,14,SQL - SQL JOINs,23
+1653432,10122742,202,Differences between the New and the Old Join Syntax,04:17,lecture,15,SQL - SQL JOINs,23
+1653432,10122744,203,Differences between the New and the Old Join Syntax - Exercise,00:07,lecture,16,SQL - SQL JOINs,23
+1653432,10122746,204,Differences between the New and the Old Join Syntax - Solution,00:08,lecture,17,SQL - SQL JOINs,23
+1653432,10122748,205,Using JOIN and WHERE Together,02:53,lecture,18,SQL - SQL JOINs,23
+1653432,16168611,206,Important – Prevent Error Code: 1055!,01:53,lecture,19,SQL - SQL JOINs,23
+1653432,10122750,207,Using JOIN and WHERE Together - Exercise,00:06,lecture,20,SQL - SQL JOINs,23
+1653432,10122752,208,Using JOIN and WHERE Together - Solution,00:06,lecture,21,SQL - SQL JOINs,23
+1653432,10653084,209,The Functionality of CROSS JOIN,07:42,lecture,22,SQL - SQL JOINs,23
+1653432,10693304,210,The Functionality of CROSS JOIN - Exercise 1,00:05,lecture,23,SQL - SQL JOINs,23
+1653432,10693306,211,The Functionality of CROSS JOIN - Solution 1,00:04,lecture,24,SQL - SQL JOINs,23
+1653432,10693308,212,The Functionality of CROSS JOIN - Exercise 2,00:06,lecture,25,SQL - SQL JOINs,23
+1653432,10693310,213,The Functionality of CROSS JOIN - Solution 2,00:04,lecture,26,SQL - SQL JOINs,23
+1653432,10122754,214,Combining Aggregate Functions with Joins,02:17,lecture,27,SQL - SQL JOINs,23
+1653432,10122756,215,JOIN More than Two Tables,04:26,lecture,28,SQL - SQL JOINs,23
+1653432,10122758,216,JOIN More than Two Tables - Exercise,00:04,lecture,29,SQL - SQL JOINs,23
+1653432,10122760,217,JOIN More than Two Tables - Solution,00:17,lecture,30,SQL - SQL JOINs,23
+1653432,10122762,218,Top Tips for Joins,05:39,lecture,31,SQL - SQL JOINs,23
+1653432,10122764,219,Top Tips for Joins - Exercise,00:03,lecture,32,SQL - SQL JOINs,23
+1653432,10122766,220,Top Tips for Joins - Solution,00:03,lecture,33,SQL - SQL JOINs,23
+1653432,10122768,221,The Differences Between UNION and UNION ALL,05:44,lecture,34,SQL - SQL JOINs,23
+1653432,10122770,222,The Differences Between UNION and UNION ALL - Exercise,00:07,lecture,35,SQL - SQL JOINs,23
+1653432,10122772,223,The Differences Between UNION and UNION ALL - Solution,00:10,lecture,36,SQL - SQL JOINs,23
+1653432,10122776,224,SQL Subqueries with IN Embedded Inside WHERE,04:31,lecture,1,SQL - SQL Subqueries,24
+1653432,10122788,225,SQL Subqueries with IN Embedded Inside WHERE - Exercise,00:05,lecture,2,SQL - SQL Subqueries,24
+1653432,10122790,226,SQL Subqueries with IN Embedded Inside WHERE - Solution,00:04,lecture,3,SQL - SQL Subqueries,24
+1653432,10122794,227,SQL Subqueries with EXISTS-NOT EXISTS Embedded Inside WHERE,03:42,lecture,4,SQL - SQL Subqueries,24
+1653432,10122798,228,SQL Subqueries with EXISTS-NOT EXISTS Embedded Inside WHERE - Exercise,00:05,lecture,5,SQL - SQL Subqueries,24
+1653432,10122804,229,SQL Subqueries with EXISTS-NOT EXISTS Embedded Inside WHERE - Solution,00:04,lecture,6,SQL - SQL Subqueries,24
+1653432,10122806,230,SQL Subqueries Nested in SELECT and FROM,07:56,lecture,7,SQL - SQL Subqueries,24
+1653432,10122810,231,SQL Subqueries Embedded in SELECT and FROM - Exercise 1,00:06,lecture,8,SQL - SQL Subqueries,24
+1653432,10122814,232,SQL Subqueries Embedded in SELECT and FROM - Exercise 2,00:38,lecture,9,SQL - SQL Subqueries,24
+1653432,10122816,233,SQL Subqueries Nested in SELECT and FROM - Solution 2,00:00,lecture,10,SQL - SQL Subqueries,24
+1653432,10122818,234,Defining Stored Routines,03:26,lecture,1,SQL - Stored Routines,25
+1653432,4421428,53,Defining Stored Routines,1 question,quiz,2,SQL - Stored Routines,25
+1653432,10122824,235,Create Stored Procedures with MySQL Syntax,04:32,lecture,3,SQL - Stored Routines,25
+1653432,10122832,236,An Example of Stored Procedures Part I,02:45,lecture,4,SQL - Stored Routines,25
+1653432,10122838,237,An Example of Stored Procedures Part II,04:48,lecture,5,SQL - Stored Routines,25
+1653432,10122840,238,An Example of Stored Procedures Part II - Exercise,00:04,lecture,6,SQL - Stored Routines,25
+1653432,10122844,239,An Example of Stored Procedures Part II - Solution,00:04,lecture,7,SQL - Stored Routines,25
+1653432,10122856,240,Creating a Procedure in MySQL Another Way,03:19,lecture,8,SQL - Stored Routines,25
+1653432,10122860,241,Create Stored Procedures with an Input Parameter,06:29,lecture,9,SQL - Stored Routines,25
+1653432,10122862,242,Create Stored Procedures with an Output Parameter,03:19,lecture,10,SQL - Stored Routines,25
+1653432,10122864,243,Create Stored Procedures with an Output Parameter - Exercise,00:05,lecture,11,SQL - Stored Routines,25
+1653432,10122866,244,Stored Procedures with an Output Parameter - Solution,00:07,lecture,12,SQL - Stored Routines,25
+1653432,10122892,245,SQL Variables,06:50,lecture,13,SQL - Stored Routines,25
+1653432,10122896,246,SQL Variables - Exercise,00:10,lecture,14,SQL - Stored Routines,25
+1653432,10122900,247,SQL Variables - Solution,00:02,lecture,15,SQL - Stored Routines,25
+1653432,10122916,248,The Benefit of User-Defined Functions in MySQL,06:14,lecture,16,SQL - Stored Routines,25
+1653432,16168793,249,Error Code: 1418.,01:50,lecture,17,SQL - Stored Routines,25
+1653432,10122918,250,The Benefit of User-Defined Functions in MySQL - Exercise,00:16,lecture,18,SQL - Stored Routines,25
+1653432,10122920,251,The Benefit of User-Defined Functions in MySQL - Solution,00:16,lecture,19,SQL - Stored Routines,25
+1653432,10122936,252,Concluding Stored Routines,03:55,lecture,20,SQL - Stored Routines,25
+1653432,4421432,54,Concluding Stored Routines,1 question,quiz,21,SQL - Stored Routines,25
+1653432,10653094,253,The SQL CASE Statement,05:57,lecture,1,SQL - The CASE Statement,26
+1653432,10693320,254,The SQL CASE Statement - Exercise 1,00:14,lecture,2,SQL - The CASE Statement,26
+1653432,10693322,255,THE SQL CASE Statement - Solution 1,00:07,lecture,3,SQL - The CASE Statement,26
+1653432,10693324,256,THE SQL CASE Statement - Exercise 2,00:14,lecture,4,SQL - The CASE Statement,26
+1653432,10693326,257,THE SQL CASE Statement - Solution 2,00:24,lecture,5,SQL - The CASE Statement,26
+1653432,10693328,258,THE SQL CASE Statement - Exercise 3,00:15,lecture,6,SQL - The CASE Statement,26
+1653432,10693330,259,THE SQL CASE Statement - Solution 3,00:08,lecture,7,SQL - The CASE Statement,26
+1653432,10143774,260,Why Use Tableau: Make Your Data Make an Impact,04:23,lecture,1,Part 4: Introduction to Tableau,27
+1653432,10143776,261,Let's Download Tableau Public,02:03,lecture,2,Part 4: Introduction to Tableau,27
+1653432,10143778,262,Connecting Data in Tableau,02:19,lecture,3,Part 4: Introduction to Tableau,27
+1653432,10143780,263,Exploring Tableau's Interface,09:26,lecture,4,Part 4: Introduction to Tableau,27
+1653432,10143782,264,Let's Create our first Chart in Tableau!,07:12,lecture,5,Part 4: Introduction to Tableau,27
+1653432,10143784,265,Duplicating a Sheet,02:49,lecture,1,Tableau - Tableau functionalities,28
+1653432,10143786,266,Creating a Table,05:23,lecture,2,Tableau - Tableau functionalities,28
+1653432,10143788,267,Creating Custom Fields,02:28,lecture,3,Tableau - Tableau functionalities,28
+1653432,10143790,268,Creating a Custom Field and Adding Calculations to a Table,03:41,lecture,4,Tableau - Tableau functionalities,28
+1653432,10143792,269,Adding Totals and Subtotals,02:03,lecture,5,Tableau - Tableau functionalities,28
+1653432,10143794,270,Adding a Custom Calculation,03:12,lecture,6,Tableau - Tableau functionalities,28
+1653432,10143796,271,Inserting a Filter,02:21,lecture,7,Tableau - Tableau functionalities,28
+1653432,10143798,272,Working with Joins in Tableau,04:33,lecture,8,Tableau - Tableau functionalities,28
+1653432,10143800,273,Introduction to the Exercise,02:06,lecture,1,Tableau - The Tableau Exercise,29
+1653432,10143802,274,Let's Create a Dashboard - Visualizing the Three Charts We Want to Create,01:56,lecture,2,Tableau - The Tableau Exercise,29
+1653432,10143804,275,Using Joins in Tableau,06:10,lecture,3,Tableau - The Tableau Exercise,29
+1653432,10143806,276,Performing a Numbers Check - Attempt #1,03:48,lecture,4,Tableau - The Tableau Exercise,29
+1653432,10143808,277,Blending Data in Tableau,05:49,lecture,5,Tableau - The Tableau Exercise,29
+1653432,10143810,278,Performing a Numbers Check - Attempt #2,04:02,lecture,6,Tableau - The Tableau Exercise,29
+1653432,10143812,279,First Chart,04:05,lecture,7,Tableau - The Tableau Exercise,29
+1653432,10143814,280,Second Chart,03:07,lecture,8,Tableau - The Tableau Exercise,29
+1653432,10143816,281,Third Chart,02:39,lecture,9,Tableau - The Tableau Exercise,29
+1653432,10143818,282,Creating and Formatting a Dashboard,04:26,lecture,10,Tableau - The Tableau Exercise,29
+1653432,10143822,283,Adding Interactive Filters for Improved Analysis,03:54,lecture,11,Tableau - The Tableau Exercise,29
+1653432,14814178,284,Interactive Filters - fix,01:38,lecture,12,Tableau - The Tableau Exercise,29
+1653432,10157676,285,Introduction to Software Integration,05:20,lecture,1,Part 5: Combining SQL and Tableau - Introduction,30
+1653432,10157680,286,Combining SQL and Tableau,04:51,lecture,2,Part 5: Combining SQL and Tableau - Introduction,30
+1653432,10178402,287,Loading the Database,03:22,lecture,3,Part 5: Combining SQL and Tableau - Introduction,30
+1653432,10168540,288,Loading the Database,00:23,lecture,4,Part 5: Combining SQL and Tableau - Introduction,30
+1653432,10179274,289,Problem 1: Task,05:33,lecture,1,Combining SQL and Tableau - Problem 1,31
+1653432,10168400,290,Problem 1: Task - Text,00:05,lecture,2,Combining SQL and Tableau - Problem 1,31
+1653432,16168841,291,Important clarification!,00:50,lecture,3,Combining SQL and Tableau - Problem 1,31
+1653432,10168402,292,Problem 1: Solution in SQL,04:41,lecture,4,Combining SQL and Tableau - Problem 1,31
+1653432,10168518,293,Problem 1: Solution in SQL - Code,00:05,lecture,5,Combining SQL and Tableau - Problem 1,31
+1653432,10179278,294,Exporting Your Output from SQL and Loading it in Tableau,04:13,lecture,6,Combining SQL and Tableau - Problem 1,31
+1653432,10179280,295,Chart 1: Visualizing the Solution in Tableau - Part I,06:17,lecture,7,Combining SQL and Tableau - Problem 1,31
+1653432,10179282,296,Chart 1: Visualizing the Solution in Tableau - Part II,05:25,lecture,8,Combining SQL and Tableau - Problem 1,31
+1653432,10340558,297,Problem 2: Task,03:50,lecture,1,Combining SQL and Tableau - Problem 2,32
+1653432,10342386,298,Problem 2: Task - Text,00:05,lecture,2,Combining SQL and Tableau - Problem 2,32
+1653432,10340570,299,Problem 2: Solution in SQL,03:43,lecture,3,Combining SQL and Tableau - Problem 2,32
+1653432,10342388,300,Problem 2: Solution in SQL - Code,00:12,lecture,4,Combining SQL and Tableau - Problem 2,32
+1653432,10340598,301,Chart 2: Visualizing the Solution in Tableau,06:08,lecture,5,Combining SQL and Tableau - Problem 2,32
+1653432,10364864,302,Problem 3: Task,02:21,lecture,1,Combining SQL and Tableau - Problem 3,33
+1653432,10364872,303,Problem 3: Task - Text,00:07,lecture,2,Combining SQL and Tableau - Problem 3,33
+1653432,10364882,304,Problem 3: Solution in SQL,03:14,lecture,3,Combining SQL and Tableau - Problem 3,33
+1653432,10364894,305,Problem 3: Solution in SQL - Code,00:09,lecture,4,Combining SQL and Tableau - Problem 3,33
+1653432,10364930,306,Chart 3: Visualizing the Solution in Tableau,04:56,lecture,5,Combining SQL and Tableau - Problem 3,33
+1653432,10379370,307,Problem 4: Task,02:45,lecture,1,Combining SQL and Tableau - Problem 4,34
+1653432,10379380,308,Problem 4: Task - Text,00:13,lecture,2,Combining SQL and Tableau - Problem 4,34
+1653432,10379390,309,Problem 4: Solution in SQL,02:47,lecture,3,Combining SQL and Tableau - Problem 4,34
+1653432,10379394,310,Problem 4: Solution in SQL - Code,00:13,lecture,4,Combining SQL and Tableau - Problem 4,34
+1653432,10379396,311,Chart 4: Visualizing the Solution in Tableau,03:22,lecture,5,Combining SQL and Tableau - Problem 4,34
+1653432,10379426,312,Problem 5: Organizing Charts 1-4 into a Beautiful Dashboard,06:04,lecture,1,Combining SQL and Tableau - Problem 5,35
+1653432,10159358,313,A 5-minute explanation of Programming,05:04,lecture,1,Part 6: Introduction to Programming with Python,36
+1653432,4451798,55,A 5-minute explanation of Programming,2 questions,quiz,2,Part 6: Introduction to Programming with Python,36
+1653432,10159366,314,Why use Python?,05:11,lecture,3,Part 6: Introduction to Programming with Python,36
+1653432,4451802,56,Why Use Python?,2 questions,quiz,4,Part 6: Introduction to Programming with Python,36
+1653432,10159368,315,Why use Jupyter?,03:29,lecture,5,Part 6: Introduction to Programming with Python,36
+1653432,4451804,57,Why Use Jupyter?,2 questions,quiz,6,Part 6: Introduction to Programming with Python,36
+1653432,10159372,316,How to Install Python and Jupyter,06:49,lecture,7,Part 6: Introduction to Programming with Python,36
+1653432,10159374,317,Understanding Jupyter’s Interface – Dashboard,03:15,lecture,8,Part 6: Introduction to Programming with Python,36
+1653432,10159378,318,Understanding Jupyter’s Interface – Prerequisites for Coding,06:15,lecture,9,Part 6: Introduction to Programming with Python,36
+1653432,4451806,58,Understanding Jupyter's Interface,3 questions,quiz,10,Part 6: Introduction to Programming with Python,36
+1653432,13652514,319,Python 2 vs Python 3,02:46,lecture,11,Part 6: Introduction to Programming with Python,36
+1653432,10159392,320,Python Variables,04:52,lecture,1,Python - Python Variables and Data Types,37
+1653432,4451812,59,Python Variables,1 question,quiz,2,Python - Python Variables and Data Types,37
+1653432,10159396,321,Understanding Numbers and Boolean Values,03:05,lecture,3,Python - Python Variables and Data Types,37
+1653432,4451816,60,Understanding Numbers and Boolean Values,1 question,quiz,4,Python - Python Variables and Data Types,37
+1653432,10159398,322,Strings,11:20,lecture,5,Python - Python Variables and Data Types,37
+1653432,4451818,61,Strings,3 questions,quiz,6,Python - Python Variables and Data Types,37
+1653432,10159410,323,The Arithmetic Operators of Python,03:23,lecture,1,Python - Python Syntax Fundamentals,38
+1653432,4451826,62,Using Arithmetic Operators in Python,1 question,quiz,2,Python - Python Syntax Fundamentals,38
+1653432,10159414,324,What is the Double Equality Sign?,01:33,lecture,3,Python - Python Syntax Fundamentals,38
+1653432,4451828,63,What is the Double Equality Sign?,1 question,quiz,4,Python - Python Syntax Fundamentals,38
+1653432,10159416,325,How to Reassign Values,01:08,lecture,5,Python - Python Syntax Fundamentals,38
+1653432,4451830,64,How to Reassign Values,1 question,quiz,6,Python - Python Syntax Fundamentals,38
+1653432,10159418,326,How to Add Comments,03:20,lecture,7,Python - Python Syntax Fundamentals,38
+1653432,4451832,65,How to Add Comments,1 question,quiz,8,Python - Python Syntax Fundamentals,38
+1653432,10159422,327,Understanding Line Continuation,00:49,lecture,9,Python - Python Syntax Fundamentals,38
+1653432,10159428,328,How to Index Elements,01:18,lecture,10,Python - Python Syntax Fundamentals,38
+1653432,4451838,66,How to Index Elements,1 question,quiz,11,Python - Python Syntax Fundamentals,38
+1653432,10159430,329,How to Structure Your Code with Indentation,03:42,lecture,12,Python - Python Syntax Fundamentals,38
+1653432,4451844,67,How to Structure Your Code with Indentation,1 question,quiz,13,Python - Python Syntax Fundamentals,38
+1653432,10182888,330,Python's Comparison Operators,02:10,lecture,1,Python - Other Python Operators,39
+1653432,4451846,68,Python's Comparison Operators,2 questions,quiz,2,Python - Other Python Operators,39
+1653432,10182890,331,Python's Logical and Identity Operators,05:35,lecture,3,Python - Other Python Operators,39
+1653432,4451850,69,Python's Logical and Identity Operators,2 questions,quiz,4,Python - Other Python Operators,39
+1653432,10182896,332,Getting to know the IF Statement,06:13,lecture,1,Python - Conditional Statements,40
+1653432,4451852,70,Getting to know the IF Statement,1 question,quiz,2,Python - Conditional Statements,40
+1653432,10182900,333,Adding an ELSE statement,05:37,lecture,3,Python - Conditional Statements,40
+1653432,10182906,334,"Else if, for Brief – ELIF",11:16,lecture,4,Python - Conditional Statements,40
+1653432,10182908,335,An Additional Explanation of Boolean Values,04:38,lecture,5,Python - Conditional Statements,40
+1653432,4451854,71,An Additional Explanation of Boolean Values,1 question,quiz,6,Python - Conditional Statements,40
+1653432,10182914,336,How to Define a Function in Python,04:20,lecture,1,Python - Functions,41
+1653432,10182916,337,How to Create a Function with a Parameter,07:58,lecture,2,Python - Functions,41
+1653432,10182920,338,Define a Function in Another Way,05:29,lecture,3,Python - Functions,41
+1653432,10182924,339,How to use a Function within a Function,01:49,lecture,4,Python - Functions,41
+1653432,10182926,340,Use Conditional Statements and Functions Together,03:06,lecture,5,Python - Functions,41
+1653432,10182928,341,How to Create Functions Which Contain a Few Arguments,02:48,lecture,6,Python - Functions,41
+1653432,10182932,342,Built-In Functions in Python Worth Knowing,03:56,lecture,7,Python - Functions,41
+1653432,4451856,72,Python - Functions,2 questions,quiz,8,Python - Functions,41
+1653432,10182936,343,Introduction to Lists,08:18,lecture,1,Python - Python Sequences,42
+1653432,4451858,73,Introduction to Lists,1 question,quiz,2,Python - Python Sequences,42
+1653432,10182938,344,Using Methods in Python,06:54,lecture,3,Python - Python Sequences,42
+1653432,4451860,74,Using Methods in Python,1 question,quiz,4,Python - Python Sequences,42
+1653432,10182942,345,What is List Slicing?,04:31,lecture,5,Python - Python Sequences,42
+1653432,10182944,346,Working with Tuples,06:40,lecture,6,Python - Python Sequences,42
+1653432,10182948,347,Python Dictionaries,08:27,lecture,7,Python - Python Sequences,42
+1653432,4451864,75,Python Dictionaries,1 question,quiz,8,Python - Python Sequences,42
+1653432,10182958,348,Using For Loops,05:40,lecture,1,Python - Using Iterations,43
+1653432,4451866,76,For Loops,1 question,quiz,2,Python - Using Iterations,43
+1653432,10182960,349,Using While Loops and Incrementing,05:10,lecture,3,Python - Using Iterations,43
+1653432,10182966,350,Use the range() Function to Create Lists,06:22,lecture,4,Python - Using Iterations,43
+1653432,4451868,77,Use the range() Function to Create Lists,1 question,quiz,5,Python - Using Iterations,43
+1653432,10182970,351,Combine Conditional Statements and Loops,06:30,lecture,6,Python - Using Iterations,43
+1653432,10182976,352,"All In – Conditional Statements, Functions, and Loops",02:27,lecture,7,Python - Using Iterations,43
+1653432,10182978,353,How to Iterate over Dictionaries,06:21,lecture,8,Python - Using Iterations,43
+1653432,10182982,354,Introduction to Object Oriented Programming (OOP),05:00,lecture,1,Python - Advanced Python tools,44
+1653432,4451870,78,Introduction to Object Oriented Programming (OOP),2 questions,quiz,2,Python - Advanced Python tools,44
+1653432,10182986,355,Using Modules and Packages,01:05,lecture,3,Python - Advanced Python tools,44
+1653432,4451872,79,Using Modules and Packages,2 questions,quiz,4,Python - Advanced Python tools,44
+1653432,10182988,356,What is the Standard Library?,02:47,lecture,5,Python - Advanced Python tools,44
+1653432,4451874,80,What is the Standard Library?,1 question,quiz,6,Python - Advanced Python tools,44
+1653432,10182994,357,How to Import Modules in Python,04:04,lecture,7,Python - Advanced Python tools,44
+1653432,4451876,81,How to Import Modules in Python,2 questions,quiz,8,Python - Advanced Python tools,44
+1653432,12486014,358,"Getting Started with Data, Servers, Clients, Requests, and Responses",04:43,lecture,1,Part 7: Integration - Software Integration,45
+1653432,4540622,82,"Getting Started with Data, Servers, Clients, Requests, and Responses",2 questions,quiz,2,Part 7: Integration - Software Integration,45
+1653432,12486018,359,"Getting Started with Data Connectivity, APIs, and Endpoints",07:05,lecture,3,Part 7: Integration - Software Integration,45
+1653432,4540628,83,"Getting Started with Data Connectivity, APIs, and Endpoints",2 questions,quiz,4,Part 7: Integration - Software Integration,45
+1653432,12486020,360,Become Better Acquainted with APIs,08:05,lecture,5,Part 7: Integration - Software Integration,45
+1653432,4540634,84,Become Better Acquainted with APIs,2 questions,quiz,6,Part 7: Integration - Software Integration,45
+1653432,12486024,361,Communication through Text Files,04:21,lecture,7,Part 7: Integration - Software Integration,45
+1653432,4540642,85,Communication through Text Files,1 question,quiz,8,Part 7: Integration - Software Integration,45
+1653432,12486026,362,What is Software Integration and How is it Applied?,05:25,lecture,9,Part 7: Integration - Software Integration,45
+1653432,4540646,86,What is Software Integration and How is it Applied?,2 questions,quiz,10,Part 7: Integration - Software Integration,45
+1653432,12486042,363,"Solving a Business Exercise with Python, SQL, and Tableau",04:08,lecture,1,Integration - What is contained in this Course?,46
+1653432,12486046,364,Presenting the Task: Absenteeism at Work,02:48,lecture,2,Integration - What is contained in this Course?,46
+1653432,12486048,365,Presenting the Data Set,03:18,lecture,3,Integration - What is contained in this Course?,46
+1653432,4540650,87,Presenting the Data Set,1 question,quiz,4,Integration - What is contained in this Course?,46
+1653432,12497878,366,How is the Content in the Next Sections Organized?,01:28,lecture,1,Integration - Data Preprocessing Step by Step,47
+1653432,12486256,367,How to Import the Data Set in Python,03:23,lecture,2,Integration - Data Preprocessing Step by Step,47
+1653432,12486260,368,Exploring the Data Set,05:53,lecture,3,Integration - Data Preprocessing Step by Step,47
+1653432,12486264,369,Programming vs the Rest of the World,03:27,lecture,4,Integration - Data Preprocessing Step by Step,47
+1653432,12486266,370,A Brief Summary of Regression Analysis,01:50,lecture,5,Integration - Data Preprocessing Step by Step,47
+1653432,12486272,371,The Approach we will Take to Solve this Exercise,02:17,lecture,6,Integration - Data Preprocessing Step by Step,47
+1653432,12486282,372,Dropping Variables We Don't Need,06:27,lecture,7,Integration - Data Preprocessing Step by Step,47
+1653432,12568706,373,EXERCISE - Dropping Variables We Don't Need,00:26,lecture,8,Integration - Data Preprocessing Step by Step,47
+1653432,12568712,374,SOLUTION - Dropping Variables We Don't Need,00:01,lecture,9,Integration - Data Preprocessing Step by Step,47
+1653432,12486292,375,A Deeper Look at the 'Reasons for Absence' Column,05:04,lecture,10,Integration - Data Preprocessing Step by Step,47
+1653432,12486302,376,Splitting a Variable into Multiple Dummy Variables,08:37,lecture,11,Integration - Data Preprocessing Step by Step,47
+1653432,12568770,377,EXERCISE - Splitting a Variable into Multiple Dummy Variables,00:04,lecture,12,Integration - Data Preprocessing Step by Step,47
+1653432,12568772,378,SOLUTION - Splitting a Variable into Multiple Dummy Variables,00:00,lecture,13,Integration - Data Preprocessing Step by Step,47
+1653432,12486316,379,How to Drop a Dummy Variable from the Data Set,01:32,lecture,14,Integration - Data Preprocessing Step by Step,47
+1653432,12486322,380,A Statistical Perspective on Dummy Variables,01:28,lecture,15,Integration - Data Preprocessing Step by Step,47
+1653432,12486330,381,Categorizing the Various Reasons for Absence,08:35,lecture,16,Integration - Data Preprocessing Step by Step,47
+1653432,12486340,382,Concatenation in Python,04:35,lecture,17,Integration - Data Preprocessing Step by Step,47
+1653432,12568832,383,EXERCISE - Concatenation in Python,00:04,lecture,18,Integration - Data Preprocessing Step by Step,47
+1653432,12568848,384,SOLUTION - Concatenation in Python,00:01,lecture,19,Integration - Data Preprocessing Step by Step,47
+1653432,12486436,385,How to Reorder Columns in a DataFrame in Python,01:43,lecture,20,Integration - Data Preprocessing Step by Step,47
+1653432,12568862,386,EXERCISE - How to Reorder Columns in a DataFrame in Python,00:06,lecture,21,Integration - Data Preprocessing Step by Step,47
+1653432,12568882,387,SOLUTION - How to Reorder Columns in a DataFrame in Python,00:12,lecture,22,Integration - Data Preprocessing Step by Step,47
+1653432,12486442,388,Using Checkpoints to Ease Your Work in Jupyter,02:52,lecture,23,Integration - Data Preprocessing Step by Step,47
+1653432,12568904,389,EXERCISE - Using Checkpoints to Ease Your Work in Jupyter,00:04,lecture,24,Integration - Data Preprocessing Step by Step,47
+1653432,12568926,390,SOLUTION - Using Checkpoints to Ease Your Work in Jupyter,00:00,lecture,25,Integration - Data Preprocessing Step by Step,47
+1653432,12486446,391,"Analyzing the ""Date"" Column",07:49,lecture,26,Integration - Data Preprocessing Step by Step,47
+1653432,12486452,392,"Retrieving the Month Value From the ""Date"" Column",07:00,lecture,27,Integration - Data Preprocessing Step by Step,47
+1653432,12486454,393,"Adding the ""Day of the Week"" Column",03:36,lecture,28,Integration - Data Preprocessing Step by Step,47
+1653432,12486456,394,EXERCISE - Dropping Columns,00:37,lecture,29,Integration - Data Preprocessing Step by Step,47
+1653432,12486460,395,Analysis of the Next 5 Columns in DF,03:17,lecture,30,Integration - Data Preprocessing Step by Step,47
+1653432,12486474,396,Dealing with More Numerical Features which may Behave like Categorical Ones,04:38,lecture,31,Integration - Data Preprocessing Step by Step,47
+1653432,12486480,397,A Final Note on this Section,01:59,lecture,32,Integration - Data Preprocessing Step by Step,47
+1653432,12486760,398,How to Use the 'absenteeism_module' in Python - Part I,03:50,lecture,1,Integration - Integrating Python and SQL,48
+1653432,12486762,399,How to Use the 'absenteeism_module' in Python - Part II,06:23,lecture,2,Integration - Integrating Python and SQL,48
+1653432,12486764,400,Creating the 'predicted_outputs' Database in MySQL,06:37,lecture,3,Integration - Integrating Python and SQL,48
+1653432,12486768,401,Importing 'pymysql' in Python,02:44,lecture,4,Integration - Integrating Python and SQL,48
+1653432,12486770,402,Creating a Connection and Cursor,02:54,lecture,5,Integration - Integrating Python and SQL,48
+1653432,12579052,403,EXERCISE - Creating 'df_new_obs',00:10,lecture,6,Integration - Integrating Python and SQL,48
+1653432,12486772,404,Creating the 'predicted_outputs' Table in MySQL,04:52,lecture,7,Integration - Integrating Python and SQL,48
+1653432,12486800,405,Executing and SQL SELECT Statement from Python,03:04,lecture,8,Integration - Integrating Python and SQL,48
+1653432,12486814,406,Sending Data from Jupyter to Workbench - Part I,06:15,lecture,9,Integration - Integrating Python and SQL,48
+1653432,12486818,407,Sending Data from Jupyter to Workbench - Part II,06:35,lecture,10,Integration - Integrating Python and SQL,48
+1653432,12486822,408,Sending Data from Jupyter to Workbench - Part III,02:45,lecture,11,Integration - Integrating Python and SQL,48
+1653432,12579120,409,EXERCISE - Age vs Probability,00:14,lecture,1,Integration - Using Tableau to Analyze the Predicted Outputs,49
+1653432,12486906,410,Using Tableau to Analyze Age vs Probability,08:49,lecture,2,Integration - Using Tableau to Analyze the Predicted Outputs,49
+1653432,12579126,411,EXERCISE - Reasons vs Probability,00:15,lecture,3,Integration - Using Tableau to Analyze the Predicted Outputs,49
+1653432,12486914,412,Using Tableau to Analyze Reasons vs Probability,07:49,lecture,4,Integration - Using Tableau to Analyze the Predicted Outputs,49
+1653432,12579142,413,EXERCISE - Transportation Expense vs Probability,00:22,lecture,5,Integration - Using Tableau to Analyze the Predicted Outputs,49
+1653432,12626590,414,Using Tableau to Analyze Transportation Expense vs Probability,06:00,lecture,6,Integration - Using Tableau to Analyze the Predicted Outputs,49
+1653432,20645844,415,Completing 100%,00:26,lecture,7,Integration - Using Tableau to Analyze the Predicted Outputs,49

@@ -1,0 +1,17 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+854500,5154702,1,Introduction,06:58,lecture,1,Course Introduction,1
+854500,5154704,2,Fluency Tips,18:23,lecture,1,Speaking Flow,2
+854500,5154806,3,Blending Part 1,15:21,lecture,2,Speaking Flow,2
+854500,5261206,4,Blending Part 2,06:18,lecture,3,Speaking Flow,2
+854500,5155074,5,Jumping,19:50,lecture,4,Speaking Flow,2
+854500,5155078,6,'T' Time Part 1,14:12,lecture,5,Speaking Flow,2
+854500,5155086,7,'T' Time Part 2,06:21,lecture,6,Speaking Flow,2
+854500,5155090,8,Intonation (Questions),12:09,lecture,1,Intonation and Stress,3
+854500,5155096,9,Tone and Meaning,10:48,lecture,2,Intonation and Stress,3
+854500,5155102,10,Using Stress,13:35,lecture,3,Intonation and Stress,3
+854500,5155126,11,Stress and Meaning,17:33,lecture,4,Intonation and Stress,3
+854500,5155154,12,Common Problems,13:01,lecture,1,Mastery,4
+854500,5155164,13,Practice Makes Perfect,13:20,lecture,2,Mastery,4
+854500,5155174,14,Tongue Twisters,05:35,lecture,3,Mastery,4
+854500,5155182,15,Improvisation,06:12,lecture,4,Mastery,4
+854500,5155190,16,Summary,06:38,lecture,5,Mastery,4

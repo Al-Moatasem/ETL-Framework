@@ -1,0 +1,19 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+3995150,26111468,1,Introduction,00:41,lecture,1,Environment Setup,1
+3995150,26111476,2,What is Python,05:16,lecture,2,Environment Setup,1
+3995150,26111486,3,What is Jupyter Notebook,01:20,lecture,3,Environment Setup,1
+3995150,26111492,4,Installing Jupyter Notebook Server,06:45,lecture,4,Environment Setup,1
+3995150,26111498,5,Running Jupyter Notebook Server,08:44,lecture,5,Environment Setup,1
+3995150,26111506,6,Common Jupyter Notebook Commands,07:28,lecture,6,Environment Setup,1
+3995150,26111510,7,Jupyter Notebook Components,04:26,lecture,7,Environment Setup,1
+3995150,26111516,8,Jupyter Notebook Dashboard,04:20,lecture,8,Environment Setup,1
+3995150,26111520,9,Jupyter Notebook User Interface,05:44,lecture,9,Environment Setup,1
+3995150,26111524,10,Creating a new Notebook,06:45,lecture,10,Environment Setup,1
+3995150,26111542,11,Kaggle Data Sets,03:06,lecture,1,Data Analysis and Visualization,2
+3995150,26111554,12,Tabular Data,08:00,lecture,2,Data Analysis and Visualization,2
+3995150,26111562,13,Exploring Pandas DataFrame,02:20,lecture,3,Data Analysis and Visualization,2
+3995150,26111570,14,Analyzing and Manipulating Pandas Data Frame,12:57,lecture,4,Data Analysis and Visualization,2
+3995150,26111594,15,Data Visualization,02:35,lecture,5,Data Analysis and Visualization,2
+3995150,26111602,16,Visualizing Qualitative Data,12:00,lecture,6,Data Analysis and Visualization,2
+3995150,26111608,17,Visualizing Quantitative Data,13:49,lecture,7,Data Analysis and Visualization,2
+3995150,27007790,18,Thank You,00:09,lecture,8,Data Analysis and Visualization,2

@@ -1,0 +1,14 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+766390,5291972,1,Introduction,02:06,lecture,1,Getting Started,1
+766390,5291978,2,Download Oracle Database,04:58,lecture,2,Getting Started,1
+766390,5291980,3,Install Oracle Database,04:47,lecture,3,Getting Started,1
+766390,5291992,4,Oracle Sample Schema,05:09,lecture,4,Getting Started,1
+766390,5291994,5,Download TOAD For Oracle,03:36,lecture,5,Getting Started,1
+766390,5291996,6,Install TOAD For Oracle,04:08,lecture,6,Getting Started,1
+766390,5291998,7,Connect TOAD To Oracle Sample Schema,05:21,lecture,7,Getting Started,1
+766390,5292002,8,What is PL /SQL,03:07,lecture,8,Getting Started,1
+766390,5292004,9,Basic PL/SQL Syntax,11:16,lecture,1,Writing Executable Statements,2
+766390,5292006,10,How to comment PL/SQL Code,03:04,lecture,2,Writing Executable Statements,2
+766390,5292008,11,PL /SQL Delimiters,03:35,lecture,3,Writing Executable Statements,2
+766390,5292010,12,Creating a Simple PL /SQL Procedure,13:33,lecture,4,Writing Executable Statements,2
+766390,26889322,13,Thank You,00:09,lecture,5,Writing Executable Statements,2

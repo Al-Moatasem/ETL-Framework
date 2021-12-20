@@ -1,0 +1,390 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+2643064,16940158,1,¿Qué cubre el curso?,03:34,lecture,1,Parte 1: Introducción,1
+2643064,16940168,2,Ciencia de Datos y jerga de Negocios: ¿Por qué hay tanta?,05:21,lecture,1,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,4751844,1,Ciencia de Datos y jerga de Negocios: ¿Por qué hay tanta?,1 question,quiz,2,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,16940166,3,Cuál es la diferencia entre el análisis y la analítica,03:50,lecture,3,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,4751846,2,Cuál es la diferencia entre el análisis y la analítica,1 question,quiz,4,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,16940164,4,"Analítica de negocio, analítica de datos y ciencia de datos: una introducción",08:24,lecture,5,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,4751848,3,"Analítica de negocio, analítica de datos y ciencia de datos: una introducción",3 questions,quiz,6,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,16940162,5,"Continuando con la IN, AA e IA",09:31,lecture,7,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,4751850,4,"Continuando con la IN, AA e IA",2 questions,quiz,8,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,16940160,6,Un desglose de nuestra Infografía de Ciencia de Datos,04:03,lecture,9,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,4751852,5,Un desglose de nuestra Infografía de Ciencia de Datos,1 question,quiz,10,El campo de la ciencia de datos - Las distintas disciplinas,2
+2643064,16940174,7,"Aplicando datos tradicionales, macrodatos, IN, ciencia de datos tradicional y AA",07:19,lecture,1,El Campo de la Ciencia de Datos - Conectando las Disciplinas,3
+2643064,4751854,6,"Aplicando datos tradicionales, macrodatos, IN, ciencia de datos tradicional y AA",1 question,quiz,2,El Campo de la Ciencia de Datos - Conectando las Disciplinas,3
+2643064,16940176,8,La razón tras estas disciplinas,03:45,lecture,1,El campo de la ciencia de datos - Los beneficios de cada disciplina,4
+2643064,4751856,7,La razón tras estas disciplinas,1 question,quiz,2,El campo de la ciencia de datos - Los beneficios de cada disciplina,4
+2643064,16940212,9,Técnicas para trabajar con datos tradicionales,08:13,lecture,1,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751858,8,Técnicas para trabajar con datos tradicionales,1 question,quiz,2,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940208,10,Ejemplos de la vida real de datos tradicionales,01:44,lecture,3,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940204,11,Técnicas para trabajar con macrodatos,04:26,lecture,4,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751860,9,Técnicas para trabajar con macrodatos,1 question,quiz,5,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940202,12,Ejemplos de la vida de real de macrodatos,01:32,lecture,6,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940200,13,Técnicas de inteligencia de negocios (IN),06:45,lecture,7,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751862,10,Técnicas de inteligencia de negocios (IN),4 questions,quiz,8,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940196,14,Ejemplos de la vida de real de inteligencia de negocios,01:42,lecture,9,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940194,15,Técnicas para trabajar con métodos tradicionales,09:04,lecture,10,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751864,11,Técnicas para trabajar con métodos tradicionales,4 questions,quiz,11,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940190,16,Ejemplos de la vida real de métodos tradicionales,02:45,lecture,12,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940186,17,Técnicas de aprendizaje automático (AA),06:55,lecture,13,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751866,12,Técnicas de aprendizaje automático (AA),2 questions,quiz,14,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940184,18,Tipos de aprendizaje automático,08:13,lecture,15,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751868,13,Tipos de aprendizaje automático,2 questions,quiz,16,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940180,19,Ejemplos de la vida real de aprendizaje automático (ML),02:11,lecture,17,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,4751870,14,Ejemplos de la vida real de aprendizaje automático (ML),5 questions,quiz,18,El campo de la ciencia de datos - técnicas populares de ciencia de datos.,5
+2643064,16940214,20,Lenguajes de programación necesarios y software utilizado en la ciencia de datos,05:51,lecture,1,El campo de la ciencia de datos - Herramientas populares de ciencia de datos,6
+2643064,4751872,15,Lenguajes de programación necesarios y software utilizado en la ciencia de datos,4 questions,quiz,2,El campo de la ciencia de datos - Herramientas populares de ciencia de datos,6
+2643064,16940216,21,Encontrando el trabajo - Qué esperar y qué buscar,03:29,lecture,1,El campo de la ciencia de datos - Carreras en ciencia de datos,7
+2643064,4751874,16,Encontrando el trabajo - Qué esperar y qué buscar,1 question,quiz,2,El campo de la ciencia de datos - Carreras en ciencia de datos,7
+2643064,16940220,22,Desmitificando concepciones erróneas comunes,04:10,lecture,1,El campo de la ciencia de datos - desmitificando concepciones erróneas comunes,8
+2643064,4751876,17,Desmitificando concepciones erróneas comunes,1 question,quiz,2,El campo de la ciencia de datos - desmitificando concepciones erróneas comunes,8
+2643064,16940226,23,Población y muestra,04:02,lecture,1,Parte 2: Estadística,9
+2643064,4751878,18,Población y muestra,2 questions,quiz,2,Parte 2: Estadística,9
+2643064,16940286,24,Tipos de datos,04:33,lecture,1,Estadística - Estadística descriptiva,10
+2643064,4752338,19,Tipos de datos,2 questions,quiz,2,Estadística - Estadística descriptiva,10
+2643064,16940284,25,Niveles de medición,03:43,lecture,3,Estadística - Estadística descriptiva,10
+2643064,4752340,20,Niveles de medición,2 questions,quiz,4,Estadística - Estadística descriptiva,10
+2643064,16940282,26,Variables categóricas - Técnicas de visualización,04:52,lecture,5,Estadística - Estadística descriptiva,10
+2643064,4752342,21,Variables categóricas - Técnicas de visualización,1 question,quiz,6,Estadística - Estadística descriptiva,10
+2643064,16940280,27,Ejercicio de variables categóricas,00:01,lecture,7,Estadística - Estadística descriptiva,10
+2643064,16940278,28,Variables numéricas - Tabla de distribución de frecuencias,03:09,lecture,8,Estadística - Estadística descriptiva,10
+2643064,4752344,22,Variables numéricas - Tabla de distribución de frecuencias,1 question,quiz,9,Estadística - Estadística descriptiva,10
+2643064,16940274,29,Ejercicio de variables numéricas,00:01,lecture,10,Estadística - Estadística descriptiva,10
+2643064,16940272,30,El histograma,02:14,lecture,11,Estadística - Estadística descriptiva,10
+2643064,4752346,23,El histograma,1 question,quiz,12,Estadística - Estadística descriptiva,10
+2643064,16940270,31,Ejercicio de histogramas,00:01,lecture,13,Estadística - Estadística descriptiva,10
+2643064,16940268,32,Tablas cruzadas y diagramas de dispersión,04:44,lecture,14,Estadística - Estadística descriptiva,10
+2643064,4752348,24,Tablas cruzadas y diagramas de dispersión,1 question,quiz,15,Estadística - Estadística descriptiva,10
+2643064,16940266,33,Ejercicio de tablas cruzadas y diagramas de dispersión,00:01,lecture,16,Estadística - Estadística descriptiva,10
+2643064,16940264,34,"Media, mediana y moda",04:20,lecture,17,Estadística - Estadística descriptiva,10
+2643064,16940262,35,"Ejercicio de media, mediana y moda",00:01,lecture,18,Estadística - Estadística descriptiva,10
+2643064,16940258,36,Sesgo,02:37,lecture,19,Estadística - Estadística descriptiva,10
+2643064,16940256,37,Ejercicio de sesgo,00:01,lecture,20,Estadística - Estadística descriptiva,10
+2643064,4752350,25,Sesgo,1 question,quiz,21,Estadística - Estadística descriptiva,10
+2643064,16940254,38,Varianza,05:55,lecture,22,Estadística - Estadística descriptiva,10
+2643064,16940248,39,Ejercicio de varianza,00:01,lecture,23,Estadística - Estadística descriptiva,10
+2643064,16940244,40,Desviación estándar y coeficiente de variación,04:40,lecture,24,Estadística - Estadística descriptiva,10
+2643064,4752352,26,Desviación estándar,1 question,quiz,25,Estadística - Estadística descriptiva,10
+2643064,16940242,41,Ejercicio de desviación estándar y coeficiente de variación,00:01,lecture,26,Estadística - Estadística descriptiva,10
+2643064,16940238,42,Covarianza,03:23,lecture,27,Estadística - Estadística descriptiva,10
+2643064,4752354,27,Covarianza,1 question,quiz,28,Estadística - Estadística descriptiva,10
+2643064,16940236,43,Ejercicio de covarianza,00:01,lecture,29,Estadística - Estadística descriptiva,10
+2643064,16940234,44,Coeficiente de correlación,03:17,lecture,30,Estadística - Estadística descriptiva,10
+2643064,4752356,28,Correlación,1 question,quiz,31,Estadística - Estadística descriptiva,10
+2643064,16940232,45,Ejercicio de coeficiente de correlación,00:01,lecture,32,Estadística - Estadística descriptiva,10
+2643064,16940290,46,Ejemplo práctico: estadística descriptiva,16:15,lecture,1,Estadística - Ejemplo práctico: Estadísitica descriptiva,11
+2643064,16940288,47,Ejemplo práctico: ejercicio de estadística descriptiva,00:01,lecture,2,Estadística - Ejemplo práctico: Estadísitica descriptiva,11
+2643064,16940320,48,Introducción,01:01,lecture,1,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940318,49,¿Qué es una distribución?,04:33,lecture,2,Estadística - Fundamentos de estadística inferencial,12
+2643064,4752360,29,¿Qué es una distribución?,1 question,quiz,3,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940312,50,La distribución normal,03:54,lecture,4,Estadística - Fundamentos de estadística inferencial,12
+2643064,4752362,30,La distribución normal,1 question,quiz,5,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940302,51,La distribución normal estándar,03:30,lecture,6,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940300,52,Ejercicio de distribución normal estándar,00:01,lecture,7,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940296,53,Teorema de límite central,04:20,lecture,8,Estadística - Fundamentos de estadística inferencial,12
+2643064,4752366,31,Teorema de límite central,1 question,quiz,9,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940294,54,Error estándar,01:27,lecture,10,Estadística - Fundamentos de estadística inferencial,12
+2643064,4752368,32,Error estándar,1 question,quiz,11,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940292,55,Estimadores y estimados,03:07,lecture,12,Estadística - Fundamentos de estadística inferencial,12
+2643064,4752370,33,Estimadores y estimados,1 question,quiz,13,Estadística - Fundamentos de estadística inferencial,12
+2643064,16940356,56,¿Qué son los intervalos de confianza?,02:41,lecture,1,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,4752374,34,¿Qué son los intervalos de condianza?,1 question,quiz,2,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940354,57,Intervalos de confianza; Varianza poblacional conocida; valor z,08:01,lecture,3,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940352,58,Ejercicio de intervalos de confianza; Varianza poblacional conocida; valor z,00:01,lecture,4,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940350,59,Aclaratorias sobre intervalos de confianza,04:38,lecture,5,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940348,60,Distribución T de Student,03:22,lecture,6,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,4752376,35,Distribución T de Student,1 question,quiz,7,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940344,61,Intervalos de confianza; varianza población conocida; valor t,04:36,lecture,8,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940342,62,Ejercicio de intervalos de confianza; varianza población conocida; valor t,00:01,lecture,9,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940338,63,Margen de error,04:52,lecture,10,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,4752378,36,Margen de error,1 question,quiz,11,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940336,64,Intervalos de confianza. Dos medias. Muestras dependientes,06:04,lecture,12,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940332,65,Ejercicio de intervalos de confianza. Dos medias. Muestras dependientes,00:01,lecture,13,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940330,66,Intervalos de confianza. Dos medias. Muestras independientes (parte 1),04:31,lecture,14,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940328,67,Ejerc. de intervalos de confianza. Dos medias. Muestras independientes (parte 1),00:01,lecture,15,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940326,68,Intervalos de confianza. Dos medias. Muestras independientes (parte 2),03:57,lecture,16,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940324,69,Ejerc. de intervalos de confianza. Dos medias. Muestras independientes (parte 2),00:01,lecture,17,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940322,70,Intervalos de confianza. Dos medias. Muestras independientes (parte 3),01:27,lecture,18,Estadística - Estadística inferencial: Intervalos de confianza,13
+2643064,16940364,71,Ejemplo práctico: estadística inferencial,10:06,lecture,1,Estadística- Ejemplo práctico: Estadísitca inferencial,14
+2643064,16940362,72,Ejemplo práctico: ejercicio de estadística inferencial,00:01,lecture,2,Estadística- Ejemplo práctico: Estadísitca inferencial,14
+2643064,16940402,73,Hipótesis nula vs Hipótesis alternativa,05:52,lecture,1,Estadística - Prueba de hipótesis,15
+2643064,16946094,74,Lección adicional sobre las hipótesis nula y alternativa,01:23,lecture,2,Estadística - Prueba de hipótesis,15
+2643064,4752380,37,Hipótesis nula vs Hipótesis alternativa,3 questions,quiz,3,Estadística - Prueba de hipótesis,15
+2643064,16940398,75,Región de rechazo y nivel de significación,07:05,lecture,4,Estadística - Prueba de hipótesis,15
+2643064,4752382,38,Región de rechazo y nivel de significación,2 questions,quiz,5,Estadística - Prueba de hipótesis,15
+2643064,16940392,76,Error de tipo I y error de tipo II,04:14,lecture,6,Estadística - Prueba de hipótesis,15
+2643064,4752384,39,Error de tipo I y error de tipo II,4 questions,quiz,7,Estadística - Prueba de hipótesis,15
+2643064,16940390,77,Prueba para la media. Varianza poblacional conocida,06:34,lecture,8,Estadística - Prueba de hipótesis,15
+2643064,16940388,78,Ejercicio de prueba para la media. Varianza poblacional conocida,00:01,lecture,9,Estadística - Prueba de hipótesis,15
+2643064,16940386,79,valor p,04:13,lecture,10,Estadística - Prueba de hipótesis,15
+2643064,4752386,40,valor p,4 questions,quiz,11,Estadística - Prueba de hipótesis,15
+2643064,16940382,80,Prueba para la media. Varianza poblacional desconocida,04:48,lecture,12,Estadística - Prueba de hipótesis,15
+2643064,16940380,81,Ejercicio de prueba para la media. Varianza poblacional desconocida,00:01,lecture,13,Estadística - Prueba de hipótesis,15
+2643064,16940378,82,Prueba para la media. Muestras dependientes,05:18,lecture,14,Estadística - Prueba de hipótesis,15
+2643064,16940376,83,Prueba para la media. Ejercicio de muestras dependientes,00:01,lecture,15,Estadística - Prueba de hipótesis,15
+2643064,16940372,84,Prueba para la media. Muestras independientes (part 1),04:22,lecture,16,Estadística - Prueba de hipótesis,15
+2643064,16940370,85,Ejercicio de prueba para la media. Muestras independientes (part 1),00:01,lecture,17,Estadística - Prueba de hipótesis,15
+2643064,16940368,86,Prueba para la media. Muestras independientes (part 2),04:26,lecture,18,Estadística - Prueba de hipótesis,15
+2643064,4787376,41,Prueba para la media. Muestras independientes (part 2),1 question,quiz,19,Estadística - Prueba de hipótesis,15
+2643064,16940366,87,Ejercicio de prueba para la media. Muestras independientes (part 2),00:01,lecture,20,Estadística - Prueba de hipótesis,15
+2643064,16940408,88,Ejemplo práctico: prueba de hipótesis,07:16,lecture,1,Estadística - Ejemplo práctico: Prueba de hipótesis,16
+2643064,16940406,89,Ejemplo práctico: ejercicio de prueba de hipótesis,00:01,lecture,2,Estadística - Ejemplo práctico: Prueba de hipótesis,16
+2643064,16940422,90,Introducción a la programación,05:04,lecture,1,Parte 3: Introducción a Python,17
+2643064,4752392,42,Introducción a la programación,1 question,quiz,2,Parte 3: Introducción a Python,17
+2643064,16940420,91,¿Por qué Python?,05:11,lecture,3,Parte 3: Introducción a Python,17
+2643064,4752394,43,¿Por qué Python?,1 question,quiz,4,Parte 3: Introducción a Python,17
+2643064,16940416,92,¿Por qué Jupyter?,03:29,lecture,5,Parte 3: Introducción a Python,17
+2643064,4752396,44,¿Por qué Jupyter?,1 question,quiz,6,Parte 3: Introducción a Python,17
+2643064,16940414,93,Instalando Python y Jupyter,07:12,lecture,7,Parte 3: Introducción a Python,17
+2643064,16940412,94,Comprendiendo la interfaz de Jupyter - El tablero del Notebook,02:53,lecture,8,Parte 3: Introducción a Python,17
+2643064,16946272,95,Pre-requisitos para programar en los notebooks de Jupyter,06:15,lecture,9,Parte 3: Introducción a Python,17
+2643064,4752398,45,Interfaz de Jupyter,3 questions,quiz,10,Parte 3: Introducción a Python,17
+2643064,16940410,96,Python 2 vs Python 3,02:28,lecture,11,Parte 3: Introducción a Python,17
+2643064,16940430,97,Variables,04:52,lecture,1,Python - Variables y tipos de datos,18
+2643064,4752400,46,Variables,1 question,quiz,2,Python - Variables y tipos de datos,18
+2643064,16940428,98,Números y valores booleanos en Python,03:05,lecture,3,Python - Variables y tipos de datos,18
+2643064,4752402,47,Números y valores booleanos en Python,1 question,quiz,4,Python - Variables y tipos de datos,18
+2643064,16940426,99,Cadenas en Python,05:43,lecture,5,Python - Variables y tipos de datos,18
+2643064,4752404,48,Cadenas en Python,2 questions,quiz,6,Python - Variables y tipos de datos,18
+2643064,16940450,100,Usando operadores aritméticos en Python,03:23,lecture,1,Python - Sintaxis básica de Python,19
+2643064,4752406,49,Usando operadores aritméticos en Python,1 question,quiz,2,Python - Sintaxis básica de Python,19
+2643064,16940446,101,El doble signo de igualdad,01:33,lecture,3,Python - Sintaxis básica de Python,19
+2643064,4752408,50,El doble signo de igualdad,1 question,quiz,4,Python - Sintaxis básica de Python,19
+2643064,16940444,102,Cómo reasignar valores,01:08,lecture,5,Python - Sintaxis básica de Python,19
+2643064,4752410,51,Cómo reasignar valores,1 question,quiz,6,Python - Sintaxis básica de Python,19
+2643064,16940442,103,Añadir comentarios,01:25,lecture,7,Python - Sintaxis básica de Python,19
+2643064,4752412,52,Añadir comentarios,1 question,quiz,8,Python - Sintaxis básica de Python,19
+2643064,16940440,104,Comprendienda la continuación de línea,00:49,lecture,9,Python - Sintaxis básica de Python,19
+2643064,16940436,105,Indexando elementos,01:18,lecture,10,Python - Sintaxis básica de Python,19
+2643064,4752414,53,Indexando elementos,1 question,quiz,11,Python - Sintaxis básica de Python,19
+2643064,16940434,106,Estructurando con sangría,01:44,lecture,12,Python - Sintaxis básica de Python,19
+2643064,4752416,54,Estructurando con sangría,1 question,quiz,13,Python - Sintaxis básica de Python,19
+2643064,16940454,107,Operadores de comparación,02:10,lecture,1,Python - Otros operadores Python,20
+2643064,4752418,55,Operadores de comparación,1 question,quiz,2,Python - Otros operadores Python,20
+2643064,16940452,108,Operadores lógicos y de identidad,05:35,lecture,3,Python - Otros operadores Python,20
+2643064,4752420,56,Operadores lógicos y de identidad,1 question,quiz,4,Python - Otros operadores Python,20
+2643064,16940466,109,La oración IF,03:04,lecture,1,Python - Oraciones condicionales,21
+2643064,4752422,57,La oracion IF,1 question,quiz,2,Python - Oraciones condicionales,21
+2643064,16940464,110,La oración ELSE,02:39,lecture,3,Python - Oraciones condicionales,21
+2643064,16940460,111,La oración ELIF,05:33,lecture,4,Python - Oraciones condicionales,21
+2643064,16940458,112,Una nota sobre los valores booleanos,02:13,lecture,5,Python - Oraciones condicionales,21
+2643064,4752424,58,Una nota sobre los valores booleanos,1 question,quiz,6,Python - Oraciones condicionales,21
+2643064,16940496,113,Definiendo una función en Python,02:03,lecture,1,Python - Funciones de Python,22
+2643064,16940494,114,Cómo crear una función con un parámetro,03:49,lecture,2,Python - Funciones de Python,22
+2643064,16940492,115,Definiendo una función en Python - parte II,02:35,lecture,3,Python - Funciones de Python,22
+2643064,16940488,116,Cómo usar una función dentro de una función,01:49,lecture,4,Python - Funciones de Python,22
+2643064,16940486,117,Oraciones condicionales y funciones,03:06,lecture,5,Python - Funciones de Python,22
+2643064,16940484,118,Funciones contentivas de varios argumentos,01:13,lecture,6,Python - Funciones de Python,22
+2643064,16940482,119,Funciones incorporadas en Python,03:56,lecture,7,Python - Funciones de Python,22
+2643064,4752426,59,Funciones de Python,2 questions,quiz,8,Python - Funciones de Python,22
+2643064,16940516,120,Listas,04:02,lecture,1,Python - Secuencias,23
+2643064,4752428,60,Listas,1 question,quiz,2,Python - Secuencias,23
+2643064,16940512,121,Usando métodos,03:22,lecture,3,Python - Secuencias,23
+2643064,4752430,61,Usando métodos,1 question,quiz,4,Python - Secuencias,23
+2643064,16940510,122,Rebanando listas,04:31,lecture,5,Python - Secuencias,23
+2643064,16940508,123,Tuplas,03:13,lecture,6,Python - Secuencias,23
+2643064,16940506,124,Diccionarios,04:04,lecture,7,Python - Secuencias,23
+2643064,4752432,62,Diccionarios,1 question,quiz,8,Python - Secuencias,23
+2643064,16940536,125,Bucles For,02:26,lecture,1,Python - Iteraciones,24
+2643064,4752434,63,Bucles For,1 question,quiz,2,Python - Iteraciones,24
+2643064,16940532,126,Bucles While e incrementos,02:26,lecture,3,Python - Iteraciones,24
+2643064,16940530,127,Listas con la función range(),02:22,lecture,4,Python - Iteraciones,24
+2643064,4752436,64,Listas con la función range(),1 question,quiz,5,Python - Iteraciones,24
+2643064,16940528,128,Oraciones condicionales y bucles,03:05,lecture,6,Python - Iteraciones,24
+2643064,16940526,129,"Oraciones condicionales, funciones y bucles",02:27,lecture,7,Python - Iteraciones,24
+2643064,16940522,130,Cómo iterar sobre diccionarios,03:07,lecture,8,Python - Iteraciones,24
+2643064,16940550,131,Programación orientada a objetos,05:00,lecture,1,Python - Herramientas avanzadas de Python,25
+2643064,16940548,132,Módulos y paquetes,01:05,lecture,2,Python - Herramientas avanzadas de Python,25
+2643064,16940544,133,¿Qué es la biblioteca estándar?,02:47,lecture,3,Python - Herramientas avanzadas de Python,25
+2643064,16940542,134,Importando módulos en Python,04:10,lecture,4,Python - Herramientas avanzadas de Python,25
+2643064,16940560,135,Introducción al análisis de regresión,01:27,lecture,1,Parte 4: Métodos estadísticos avanzados en Python,26
+2643064,4752446,65,Introducción al análisis de regresión,1 question,quiz,2,Parte 4: Métodos estadísticos avanzados en Python,26
+2643064,16940592,136,El modelo de regresión lineal,05:50,lecture,1,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752448,66,El modelo de regresión lineal,2 questions,quiz,2,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940590,137,Correlación vs Regresión,01:43,lecture,3,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752450,67,Correlación vs Regresión,1 question,quiz,4,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940586,138,Representación geométrica del modelo de regresión lineal,01:25,lecture,5,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752452,68,Representación geométrica del modelo de regresión lineal,1 question,quiz,6,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940584,139,Instalación de los paquetes de Python,04:39,lecture,7,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940580,140,Primera regresión en Python,07:11,lecture,8,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940576,141,Ejercicio de la primera regresión en Python,00:01,lecture,9,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940574,142,Usando Seaborn para los gráficos,01:21,lecture,10,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940570,143,Cómo interpretar la tabla de regresión,05:47,lecture,11,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752454,69,Cómo interpretar la tabla de regresión,2 questions,quiz,12,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940568,144,Descomposición de la variabilidad,03:37,lecture,13,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752456,70,Descomposición de la variabilidad,1 question,quiz,14,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940566,145,¿Qué son los MCO?,03:13,lecture,15,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752458,71,¿Qué son los MCO?,1 question,quiz,16,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940628,146,R-cuadrado,05:30,lecture,17,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,4752460,72,R-cuadrado,2 questions,quiz,18,Métodos estadísticos avanzados - Regresión lineal con StatsModels,27
+2643064,16940564,147,Regresión lineal múltiple,02:55,lecture,1,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752462,73,Regresión lineal múltiple,1 question,quiz,2,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940626,148,R-cuadrado ajustado,06:00,lecture,3,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752464,74,R-cuadrado ajustado,3 questions,quiz,4,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940624,149,Ejercicio de regresión lineal múltiple,00:01,lecture,5,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940622,150,Prueba para la significación del modelo (prueba F),02:01,lecture,6,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940618,151,Supuestos de los MCO,02:21,lecture,7,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752466,75,Supuestos de los MCO,1 question,quiz,8,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940616,152,A1: Linealidad,01:50,lecture,9,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752468,76,A1: Linealidad,1 question,quiz,10,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940614,153,A2: No endogeneidad,04:09,lecture,11,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752470,77,A2: No endogeneidad,1 question,quiz,12,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940612,154,A3: Normalidad y homocedasticidad,05:47,lecture,13,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940610,155,A4: No autocorrelación,03:31,lecture,14,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752472,78,A4: No autocorrelación,1 question,quiz,15,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940608,156,A5: No multicolinealidad,03:26,lecture,16,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,4752474,79,A5: No multicolinealidad,1 question,quiz,17,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940606,157,Lidiando con los datos categóricos - Variables ficticias,06:43,lecture,18,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940600,158,Lidiando con los datos categóricos - Variables ficticias,00:01,lecture,19,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940598,159,Haciendo predicciones con la regresión lineal,03:29,lecture,20,Métodos estadísticos avanzados - Regresión lineal múltiple con StatsModels,28
+2643064,16940674,160,Introducción a la regresión logística,01:19,lecture,1,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940670,161,Un ejemplo simple en Python,04:42,lecture,2,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940668,162,Función Logística vs Logit,04:00,lecture,3,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940666,163,Construyendo una regresión logística,02:48,lecture,4,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940658,164,Construyendo una regresión logística - Ejercicio,00:01,lecture,5,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940656,165,Un consejo de programación invaluable,02:26,lecture,6,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940652,166,Entendiendo las tablas de regresión logística,04:06,lecture,7,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940650,167,Entendiendo las tablas de regresión logística - Ejercicio,00:01,lecture,8,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940648,168,¿Qué significan realmente las posibilidades?,04:30,lecture,9,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940646,169,Predictores binarios en una regresión logística,04:32,lecture,10,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940642,170,Predictores binarios en una regresión logística - Ejercicio,00:01,lecture,11,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940636,171,Calculando la precisión del modelo,03:21,lecture,12,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940640,172,Calculando la precisión del modelo - Ejercicio,00:01,lecture,13,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940634,173,Subajuste y sobreajuste,03:43,lecture,14,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940632,174,Probando el modelo,05:05,lecture,15,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940630,175,Probando el modelo - Ejercicio,00:01,lecture,16,Métodos estadísticos avanzados - Regresión logística,29
+2643064,16940688,176,Introducción al análisis de agrupamientos,03:41,lecture,1,Métodos estadísticos avanzados - Análisis de agrupamientos,30
+2643064,16940686,177,Algunos ejemplos de agrupamientos,04:31,lecture,2,Métodos estadísticos avanzados - Análisis de agrupamientos,30
+2643064,16940684,178,Diferencia entre la clasificación y el agrupamiento,02:32,lecture,3,Métodos estadísticos avanzados - Análisis de agrupamientos,30
+2643064,16940682,179,Prerequisitos matemáticos,03:19,lecture,4,Métodos estadísticos avanzados - Análisis de agrupamientos,30
+2643064,16940734,180,Agrupamiento K-Medias,04:41,lecture,1,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940730,181,Un ejemplo simple de agrupamiento,07:48,lecture,2,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940728,182,Un ejemplo simple de agrupamiento - Ejercicio,00:01,lecture,3,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940724,183,Agrupando datos categóricos,02:50,lecture,4,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940720,184,Agrupando datos categóricos - Ejercicio,00:01,lecture,5,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940718,185,Cómo elegir el número de agrupamientos,06:11,lecture,6,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940716,186,Cómo elegir el número de agrupamientos - Ejercicio,00:01,lecture,7,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940712,187,Pros y Contras del agrupamiento K-medias,03:23,lecture,8,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940710,188,Estandarizar o no estandarizar,04:32,lecture,9,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940706,189,Relación entre el agrupamiento y la regresión,01:31,lecture,10,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940702,190,Segmentación de mercado con análisis de agrupamiento (parte 1),06:03,lecture,11,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940700,191,Segmentación de mercado con análisis de agrupamiento (parte 2),06:58,lecture,12,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940698,192,¿En que forma es útil el agrupamiento?,04:47,lecture,13,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940696,193,EJERCICIO: Segmentación de especies con análisis de agrupamiento (parte 1),00:01,lecture,14,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940694,194,EJERCICIO: Segmentación de especies con análisis de agrupamiento (parte 2),00:01,lecture,15,Métodos estadísticos avanzados - Agrupamiento K-Medias,31
+2643064,16940742,195,Tipos de agrupamiento,03:39,lecture,1,Métodos estadísticos avanzados - otros tipos de agrupamiento,32
+2643064,16940740,196,Dendrograma,05:21,lecture,2,Métodos estadísticos avanzados - otros tipos de agrupamiento,32
+2643064,16940738,197,Mapas de calor,04:34,lecture,3,Métodos estadísticos avanzados - otros tipos de agrupamiento,32
+2643064,16940774,198,¿Qué es una matriz?,03:37,lecture,1,Parte 5: Mathematicas,33
+2643064,4752476,80,¿Qué es una matriz?,6 questions,quiz,2,Parte 5: Mathematicas,33
+2643064,16940772,199,Escalares y vectores,02:58,lecture,3,Parte 5: Mathematicas,33
+2643064,4752478,81,Escalares y vectores,5 questions,quiz,4,Parte 5: Mathematicas,33
+2643064,16940770,200,Álgebra lineal y geometría,03:06,lecture,5,Parte 5: Mathematicas,33
+2643064,4752480,82,Álgebra lineal y geometría,3 questions,quiz,6,Parte 5: Mathematicas,33
+2643064,16940768,201,Arreglos en Python - Una manera conveniente de representar matrices,05:09,lecture,7,Parte 5: Mathematicas,33
+2643064,16940766,202,¿Qué es un tensor?,03:00,lecture,8,Parte 5: Mathematicas,33
+2643064,4752482,83,¿Qué es un tensor?,2 questions,quiz,9,Parte 5: Mathematicas,33
+2643064,16940764,203,Suma y resta de matrices,03:36,lecture,10,Parte 5: Mathematicas,33
+2643064,4752484,84,Suma y resta de matrices,2 questions,quiz,11,Parte 5: Mathematicas,33
+2643064,16940762,204,Errores al sumar matrices,02:01,lecture,12,Parte 5: Mathematicas,33
+2643064,16940760,205,Transposición de una matriz,05:13,lecture,13,Parte 5: Mathematicas,33
+2643064,16940752,206,Producto escalar,03:48,lecture,14,Parte 5: Mathematicas,33
+2643064,16940756,207,Producto escalar de matrices,08:23,lecture,15,Parte 5: Mathematicas,33
+2643064,16940750,208,¿Por qué es útil el álgebra lineal?,10:10,lecture,16,Parte 5: Mathematicas,33
+2643064,17089752,209,¿Qué esperar de esta parte?,03:08,lecture,1,Parte 6: Aprendizaje profundo,34
+2643064,4752486,85,¿Qué es el aprendizaje automático?,4 questions,quiz,2,Parte 6: Aprendizaje profundo,34
+2643064,16950954,210,Introducción a las redes neuronales,04:09,lecture,1,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752488,86,Introducción a las redes neuronales,1 question,quiz,2,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940800,211,Entrenando el modelo,02:54,lecture,3,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752490,87,Entrenando el modelo,3 questions,quiz,4,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940798,212,Tipos de aprendizaje automático,03:43,lecture,5,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752492,88,Tipos de aprendizaje automático,4 questions,quiz,6,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940796,213,El modelo lineal (versión álgebra lineal),03:08,lecture,7,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752494,89,El modelo lineal,2 questions,quiz,8,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940794,214,El modelo lineal con múltiples entradas,02:25,lecture,9,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752496,90,El modelo lineal con múltiples entradas,2 questions,quiz,10,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940792,215,El modelo lineal con múltiples entradas y múltiples salidas,04:22,lecture,11,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752498,91,El modelo lineal con múltiples entradas y múltiples salidas,3 questions,quiz,12,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940790,216,Representación gráfica de redes neuronales simples,01:47,lecture,13,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752500,92,Representación gráfica de redes neuronales simples,1 question,quiz,14,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940788,217,¿Cuál es la función objetivo?,01:27,lecture,15,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752502,93,¿Cuál es la función objetivo?,2 questions,quiz,16,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940786,218,Funciones objetivo comunes: Pérdida norma L2,02:04,lecture,17,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752504,94,Funciones objetivo comunes: Pérdida norma L2,3 questions,quiz,18,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940784,219,Funciones objetivo comunes: Pérdida de entropía cruzada,03:55,lecture,19,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752506,95,Funciones objetivo comunes: Pérdida de entropía cruzada,4 questions,quiz,20,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940782,220,Algoritmo de optimización: Descenso del gradiente de 1 parámetro,06:33,lecture,21,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752508,96,Algoritmo de optimización: Descenso del gradiente de 1 parámetro,4 questions,quiz,22,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940780,221,Algoritmo de optimización: Descenso del gradiente de n parámetro,06:08,lecture,23,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,4752510,97,Algoritmo de optimización: Descenso del gradiente de n parámetro,3 questions,quiz,24,Aprendizaje profundo - Introducción a las redes neuronales,35
+2643064,16940814,222,Ejemplo básico de RN (Parte 1),03:06,lecture,1,Aprendizaje profundo- Cómo construir una red neuronal desde cero con NumPy,36
+2643064,16940812,223,Ejemplo básico de RN (Parte 2),04:59,lecture,2,Aprendizaje profundo- Cómo construir una red neuronal desde cero con NumPy,36
+2643064,16940810,224,Ejemplo básico de RN (Parte 3),03:25,lecture,3,Aprendizaje profundo- Cómo construir una red neuronal desde cero con NumPy,36
+2643064,16940808,225,Ejemplo básico de RN (Parte 4),08:15,lecture,4,Aprendizaje profundo- Cómo construir una red neuronal desde cero con NumPy,36
+2643064,16940806,226,Ejercicio del ejemplo básico de RN,00:01,lecture,5,Aprendizaje profundo- Cómo construir una red neuronal desde cero con NumPy,36
+2643064,17023682,227,Cómo instalar TensorFlow 2.0,05:02,lecture,1,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940832,228,Estructuración con TensorFlow y comparación con otras bibliotecas,03:28,lecture,2,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940830,229,TensorFlow 1 vs TensorFlow 2,02:33,lecture,3,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940828,230,Una nota sobre la sintaxis de TensorFlow 2,00:58,lecture,4,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940824,231,Tipos de formatos de archivo compatibles con TensorFlow,02:34,lecture,5,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940822,232,Estructurando el modelo con TensorFlow 2,05:48,lecture,6,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940820,233,Interpretando el resultado y extrayendo los pesos y sesgos,04:09,lecture,7,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940818,234,Personalizando un modelo de TensorFlow 2,02:51,lecture,8,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940816,235,RN básica con TensorFlow: Ejercicios,00:01,lecture,9,Aprendizaje profundo - TensorFlow 2.0: Introducción,37
+2643064,16940854,236,¿Qué es una capa?,01:53,lecture,1,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16940852,237,¿Qué es una red profunda?,02:18,lecture,2,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16940850,238,Profundizando en una red profunda,04:58,lecture,3,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16940848,239,No linealidades y sus propósitos,02:59,lecture,4,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16940846,240,Funciones de activación,03:36,lecture,5,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16940844,241,Funciones de activación: activación Softmax,03:23,lecture,6,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16941620,242,Retropropagación,03:12,lecture,7,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16941622,243,Imagen de la retropropagación,03:02,lecture,8,Aprendizaje profundo - Profundizando en las RNs: Intro a las RN profundas,38
+2643064,16940862,244,¿Qué es el sobreajuste?,03:51,lecture,1,Aprendizaje profundo - Sobreajuste,39
+2643064,16940860,245,Subajuste y sobreajuste para la clasificación,01:52,lecture,2,Aprendizaje profundo - Sobreajuste,39
+2643064,16940858,246,¿Qué es la validación?,03:22,lecture,3,Aprendizaje profundo - Sobreajuste,39
+2643064,16941664,247,"Conjuntos de datos de entrenamiento, validación y prueba",02:30,lecture,4,Aprendizaje profundo - Sobreajuste,39
+2643064,16941660,248,Validación cruzada n veces,03:06,lecture,5,Aprendizaje profundo - Sobreajuste,39
+2643064,16941658,249,Parada temprana o cuándo parar el entrenamiento,04:55,lecture,6,Aprendizaje profundo - Sobreajuste,39
+2643064,16940880,250,¿Qué es la inicialización?,02:32,lecture,1,Aprendizaje profundo - Inicialiización,40
+2643064,16940876,251,Tipos de inicializaciones simples,02:47,lecture,2,Aprendizaje profundo - Inicialiización,40
+2643064,16940874,252,Método de avanzada - Inicialización (Xavier) Glorot,02:45,lecture,3,Aprendizaje profundo - Inicialiización,40
+2643064,16940872,253,Descenso del gradiente estocástico,03:24,lecture,1,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940870,254,Problemas con el descenso del gradiente,02:01,lecture,2,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940868,255,Momentum,02:29,lecture,3,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940864,256,Programación de tasas de aprendizaje o cómo elegir ta tasa de aprendizaje óptima,04:25,lecture,4,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940894,257,Programación de tasas de aprendizaje visualizadas,01:32,lecture,5,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940892,258,Programación de tasas de aprendizaje adaptativas (AdaGrad y RMSprop),04:08,lecture,6,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940888,259,Adam (Estimación de momento adaptativo),02:39,lecture,7,Aprendizaje profundo- profundizando en el DG y prog. de tasas de aprendizaje,41
+2643064,16940886,260,Introducción al preprocesamiento,02:51,lecture,1,Aprendizaje profundo - Preprocesamiento,42
+2643064,16940884,261,Tipos de preprocesamiento básico,01:17,lecture,2,Aprendizaje profundo - Preprocesamiento,42
+2643064,16940926,262,Estandarización,04:31,lecture,3,Aprendizaje profundo - Preprocesamiento,42
+2643064,16940924,263,Preprocesando datos categóricos,02:15,lecture,4,Aprendizaje profundo - Preprocesamiento,42
+2643064,16940922,264,Codificación binaria y one-hot,03:39,lecture,5,Aprendizaje profundo - Preprocesamiento,42
+2643064,16940966,265,MNIST: el conjunto de datos,02:25,lecture,1,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940962,266,MNIST: Cómo abordar el MNIST,02:44,lecture,2,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940958,267,MNIST: Importando los paquetes relevantes y cargando los datos,02:11,lecture,3,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940948,268,MNIST: Preprocesa los datos - crea un conjunto de validación y escálalo,04:43,lecture,4,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940946,269,MNIST: Preprocesa los datos - escala los datos de prueba - ejercicio,00:01,lecture,5,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940944,270,MNIST: Preprocesa los datos - permutación aleatoria y lotes,06:30,lecture,6,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940942,271,MNIST: Preprocesa los datos - permutación aleatoria y lotes - Ejercicio,00:01,lecture,7,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940940,272,MNIST: Estructura el modelo,04:54,lecture,8,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940938,273,MNIST: Selecciona la pérdida y el optimizador,02:05,lecture,9,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940934,274,MNIST: Aprendiendo,05:38,lecture,10,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940932,275,MNIST: Ejercicios,00:01,lecture,11,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16940930,276,MNIST: Probando el modelo,03:56,lecture,12,Aprendizaje profundo - Clasificando sobre el conjunto de datos de MNIST,43
+2643064,16941774,277,Caso de negocio: Explorando el conjunto de datos e identificación de predictores,07:54,lecture,1,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941772,278,Caso de negocio: Estructurando la solución,01:31,lecture,2,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941768,279,Caso de negocio: Equilibrando el conjunto de datos,03:39,lecture,3,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941766,280,Caso de negocio: Preprocesando los datos,11:32,lecture,4,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941764,281,Caso de negocio: Preprocesando los datos - Ejercicio,00:01,lecture,5,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941762,282,Caso de negocio: Carga los datos preprocesados,03:23,lecture,6,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941000,283,Caso de negocio: Carga los datos preprocesados - Ejercicio,00:01,lecture,7,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16940998,284,Caso de negocio: Aprende e interpreta los resultados,04:15,lecture,8,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16940996,285,Caso de negocio: Fijando un mecanismo de parada temprana,05:01,lecture,9,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16940992,286,Caso de negocio: Probando el modelo,01:24,lecture,10,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16940990,287,Caso de negocio: Ejercicio final,00:01,lecture,11,Aprendizaje profundo - Ejemplo de caso de negocio,44
+2643064,16941800,288,Resumen de lo que has aprendido,03:41,lecture,1,Aprendizaje profundo- Conclusión,45
+2643064,16941798,289,Qué más hay allá afuera en términos de aprendizaje automático,01:47,lecture,2,Aprendizaje profundo- Conclusión,45
+2643064,16941794,290,Una visión general de las RNCs,04:56,lecture,3,Aprendizaje profundo- Conclusión,45
+2643064,16941792,291,Una visión general de las RNRs,02:50,lecture,4,Aprendizaje profundo- Conclusión,45
+2643064,16941790,292,Una visión general de abordajes de redes no neuronales,03:52,lecture,5,Aprendizaje profundo- Conclusión,45

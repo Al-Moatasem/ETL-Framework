@@ -1,0 +1,16 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+3681272,23666130,1,Introduction,01:18,lecture,1,Basic and commonly used commands,1
+3681272,23666140,2,What is the command line interface,01:36,lecture,2,Basic and commonly used commands,1
+3681272,23666144,3,How to open the command line,05:03,lecture,3,Basic and commonly used commands,1
+3681272,23666148,4,The prompt,02:46,lecture,4,Basic and commonly used commands,1
+3681272,23666154,5,How to display username of current user,02:27,lecture,5,Basic and commonly used commands,1
+3681272,23666160,6,How to display computer name,01:31,lecture,6,Basic and commonly used commands,1
+3681272,23666166,7,How to display current working directory,02:25,lecture,7,Basic and commonly used commands,1
+3681272,23666170,8,How to list files and directories,02:30,lecture,8,Basic and commonly used commands,1
+3681272,23666174,9,How to change directory,04:56,lecture,9,Basic and commonly used commands,1
+3681272,23666178,10,How to create a new directory,03:09,lecture,10,Basic and commonly used commands,1
+3681272,23666182,11,How to create a new file,04:59,lecture,11,Basic and commonly used commands,1
+3681272,23666186,12,How to copy files,04:54,lecture,12,Basic and commonly used commands,1
+3681272,23666192,13,How to move files,04:58,lecture,13,Basic and commonly used commands,1
+3681272,23666196,14,How to delete files and directories,07:38,lecture,14,Basic and commonly used commands,1
+3681272,26992364,15,Thank You,00:09,lecture,15,Basic and commonly used commands,1

@@ -1,0 +1,19 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+4131918,27107794,1,Introduction,00:50,lecture,1,Getting Started,1
+4131918,27107808,2,What is Programming,05:35,lecture,2,Getting Started,1
+4131918,27107812,3,Programming Languages,03:34,lecture,3,Getting Started,1
+4131918,27107826,4,What is JavaScript,02:38,lecture,4,Getting Started,1
+4131918,27107830,5,The Developer  Console,04:21,lecture,5,Getting Started,1
+4131918,27107852,6,JavaScript Syntax,04:07,lecture,1,Programming Fundamentals,2
+4131918,27107858,7,What are Statements,07:36,lecture,2,Programming Fundamentals,2
+4131918,27107864,8,What are expressions,04:54,lecture,3,Programming Fundamentals,2
+4131918,27107872,9,Executing a program,06:28,lecture,4,Programming Fundamentals,2
+4131918,27107894,10,What is an input,10:19,lecture,5,Programming Fundamentals,2
+4131918,27107900,11,What is an output,06:50,lecture,6,Programming Fundamentals,2
+4131918,27107908,12,What are Variables,08:16,lecture,7,Programming Fundamentals,2
+4131918,27107916,13,Variable naming convention,03:47,lecture,8,Programming Fundamentals,2
+4131918,27107924,14,Data Types,10:57,lecture,9,Programming Fundamentals,2
+4131918,27107932,15,Mixing Data Types,05:18,lecture,10,Programming Fundamentals,2
+4131918,27107946,16,What are Arrays,07:48,lecture,11,Programming Fundamentals,2
+4131918,27107952,17,What are conditional statements,06:23,lecture,12,Programming Fundamentals,2
+4131918,27107964,18,What are Functions,08:21,lecture,13,Programming Fundamentals,2

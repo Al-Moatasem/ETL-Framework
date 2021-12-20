@@ -1,0 +1,15 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1268150,7371332,1,Introduction,02:20,lecture,1,Binding Data to a Windows Form,1
+1268150,7371346,2,Hardware and Software Requirement,02:49,lecture,2,Binding Data to a Windows Form,1
+1268150,7371350,3,Download and Install SQL Server Enterprise,11:54,lecture,3,Binding Data to a Windows Form,1
+1268150,7371358,4,Download and Attach AdventureworksDW2014 Database,05:33,lecture,4,Binding Data to a Windows Form,1
+1268150,7371638,5,Requirements for Visual Studio,03:08,lecture,5,Binding Data to a Windows Form,1
+1268150,7371354,6,Download and Install Visual Studio,07:47,lecture,6,Binding Data to a Windows Form,1
+1268150,7371696,7,Completing visual studio  installation,05:09,lecture,7,Binding Data to a Windows Form,1
+1268150,7371364,8,Create a new windows form project,01:52,lecture,8,Binding Data to a Windows Form,1
+1268150,7371378,9,Connect to AdventureworksDW2014 Database,06:54,lecture,9,Binding Data to a Windows Form,1
+1268150,7371384,10,Create Data - Bound Controls,05:59,lecture,10,Binding Data to a Windows Form,1
+1268150,7371386,11,Editing the Dataset,06:15,lecture,11,Binding Data to a Windows Form,1
+1268150,7371388,12,Edit data on a form,04:13,lecture,12,Binding Data to a Windows Form,1
+1268150,7371392,13,Deploy and Run your application,04:38,lecture,13,Binding Data to a Windows Form,1
+1268150,26918290,14,Thank You,00:09,lecture,14,Binding Data to a Windows Form,1

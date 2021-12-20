@@ -1,0 +1,21 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+1124296,6589494,1,Introduction,02:59,lecture,1,Introduction,1
+1124296,6592512,2,What is UNIX,03:47,lecture,2,Introduction,1
+1124296,6592514,3,Different Flavors of UNIX,02:16,lecture,3,Introduction,1
+1124296,6592516,4,Parts of UNIX,00:50,lecture,4,Introduction,1
+1124296,6592520,5,UNIX Kernel,01:21,lecture,5,Introduction,1
+1124296,6592522,6,UNIX Shell,02:58,lecture,6,Introduction,1
+1124296,6592524,7,UNIX Terminal,04:23,lecture,7,Introduction,1
+1124296,6594514,8,UNIX Help Command,02:36,lecture,1,UNIX Commands,2
+1124296,6592530,9,Listing files and directories,04:19,lecture,2,UNIX Commands,2
+1124296,6594524,10,Creating and Deleting Files,03:09,lecture,3,UNIX Commands,2
+1124296,6592532,11,Creating directories,06:45,lecture,4,UNIX Commands,2
+1124296,6594528,12,Deleting Directories,02:08,lecture,5,UNIX Commands,2
+1124296,6592534,13,Clearing your Terminal,01:11,lecture,6,UNIX Commands,2
+1124296,6592536,14,Understanding Path names,03:56,lecture,7,UNIX Commands,2
+1124296,6594520,15,UNIX Date Command,03:14,lecture,8,UNIX Commands,2
+1124296,6594518,16,Displaying Calender,02:21,lecture,9,UNIX Commands,2
+1124296,6594708,17,How to check current working directory,03:46,lecture,10,UNIX Commands,2
+1124296,6594714,18,Printing Text On Screen,02:39,lecture,11,UNIX Commands,2
+1124296,6592540,19,Conclusion,01:34,lecture,12,UNIX Commands,2
+1124296,26916654,20,Thank You,00:09,lecture,13,UNIX Commands,2

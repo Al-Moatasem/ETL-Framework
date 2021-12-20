@@ -1,0 +1,10 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+651780,3924598,1,Introduction,03:00,lecture,1,jQuery,1
+651780,3952508,2,How To Access jQuery,09:49,lecture,2,jQuery,1
+651780,3950476,3,jQuery Selectors,10:15,lecture,3,jQuery,1
+651780,3950470,4,jQuery Event Handler Functions,10:44,lecture,4,jQuery,1
+651780,3951508,5,jQuery Animations and Effects,12:50,lecture,5,jQuery,1
+651780,3930192,6,jQuery Chaining,05:11,lecture,6,jQuery,1
+651780,3930622,7,jQuery Callback functions,07:51,lecture,7,jQuery,1
+651780,3952972,8,Conclusion,01:43,lecture,8,jQuery,1
+651780,26889094,9,Thank You,00:09,lecture,9,jQuery,1

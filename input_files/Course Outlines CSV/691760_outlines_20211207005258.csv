@@ -1,0 +1,21 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+691760,4420570,1,Introduction,02:35,lecture,1,What is Ajax all about,1
+691760,4420582,2,What is Ajax,09:54,lecture,2,What is Ajax all about,1
+691760,4435948,3,How Ajax Works,04:19,lecture,3,What is Ajax all about,1
+691760,4420574,4,What is an API,06:33,lecture,4,What is Ajax all about,1
+691760,4421186,5,Ajax Syntax,04:56,lecture,5,What is Ajax all about,1
+691760,4435898,6,Http Vs Https,05:13,lecture,6,What is Ajax all about,1
+691760,4435924,7,How to create XMLHttpRequest Object,05:18,lecture,7,What is Ajax all about,1
+691760,4435928,8,Ajax Request,05:20,lecture,8,What is Ajax all about,1
+691760,4435932,9,Ajax Server Response,02:13,lecture,9,What is Ajax all about,1
+691760,4435942,10,Ajax Events,07:03,lecture,10,What is Ajax all about,1
+691760,4435936,11,Installing Brackets,05:53,lecture,11,What is Ajax all about,1
+691760,4435946,12,Ajax Example,08:27,lecture,12,What is Ajax all about,1
+691760,219630,1,Ajax Basics For Beginners,12 questions,quiz,13,What is Ajax all about,1
+691760,4420584,13,Variables,10:36,lecture,1,JavaScript and JQuery refreshers,2
+691760,4420588,14,Operators,04:59,lecture,2,JavaScript and JQuery refreshers,2
+691760,4435952,15,JQuery Events,11:44,lecture,3,JavaScript and JQuery refreshers,2
+691760,4435956,16,jQuery Events Handlers,11:44,lecture,4,JavaScript and JQuery refreshers,2
+691760,4420592,17,Data Types,04:54,lecture,5,JavaScript and JQuery refreshers,2
+691760,4420590,18,Functions,07:50,lecture,6,JavaScript and JQuery refreshers,2
+691760,26889262,19,Thank You,00:09,lecture,7,JavaScript and JQuery refreshers,2

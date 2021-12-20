@@ -1,0 +1,12 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+688872,4182382,1,Introduction,01:37,lecture,1,A Very Basic Introduction to XML,1
+688872,4165134,2,XML Attributes,02:57,lecture,2,A Very Basic Introduction to XML,1
+688872,4165136,3,XML Comments,01:53,lecture,3,A Very Basic Introduction to XML,1
+688872,4165142,4,XML Naming,05:30,lecture,4,A Very Basic Introduction to XML,1
+688872,4165138,5,XML Document  Structure,02:58,lecture,5,A Very Basic Introduction to XML,1
+688872,4172654,6,XML Whitespace,02:48,lecture,6,A Very Basic Introduction to XML,1
+688872,4176286,7,XML Tags,06:04,lecture,7,A Very Basic Introduction to XML,1
+688872,4256132,8,XML Namespace,10:08,lecture,8,A Very Basic Introduction to XML,1
+688872,4258088,9,XML syntax,08:28,lecture,9,A Very Basic Introduction to XML,1
+688872,4258096,10,XML Elements,04:26,lecture,10,A Very Basic Introduction to XML,1
+688872,26889228,11,Thank You,00:09,lecture,11,A Very Basic Introduction to XML,1

@@ -1,0 +1,14 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+713596,4275946,1,Introduction,02:53,lecture,1,It's All about Maria's DB,1
+713596,4837492,2,What is MariaDB,01:34,lecture,2,It's All about Maria's DB,1
+713596,4837494,3,Download and Install MariaDB,07:41,lecture,3,It's All about Maria's DB,1
+713596,4837498,4,What Heidi Can do,10:23,lecture,4,It's All about Maria's DB,1
+713596,4837500,5,Database concepts,04:57,lecture,5,It's All about Maria's DB,1
+713596,4837502,6,Creating a table on MariaDB,07:35,lecture,6,It's All about Maria's DB,1
+713596,4837506,7,Adding Data into Maria's Table,05:45,lecture,7,It's All about Maria's DB,1
+713596,4837510,8,Changing Data inside Maria's Table,08:17,lecture,8,It's All about Maria's DB,1
+713596,4837516,9,Viewing data inside MariaDB,08:20,lecture,9,It's All about Maria's DB,1
+713596,4837520,10,Removing Data From MariaDB,05:28,lecture,10,It's All about Maria's DB,1
+713596,4837524,11,Using Aliases,05:28,lecture,11,It's All about Maria's DB,1
+713596,4837528,12,Conclusion,01:24,lecture,12,It's All about Maria's DB,1
+713596,26889290,13,Thank You,00:09,lecture,13,It's All about Maria's DB,1

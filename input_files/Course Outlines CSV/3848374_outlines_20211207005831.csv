@@ -1,0 +1,631 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+3848374,25803560,1,Introduction about course,05:02,lecture,1,Introduction about the course,1
+3848374,25804010,2,Desired Audience,03:01,lecture,2,Introduction about the course,1
+3848374,25804290,3,Pre-requisites,04:24,lecture,3,Introduction about the course,1
+3848374,27787798,4,[Must Watch] 30 Day Money Back Guarantee - Feedback and Rating,02:33,lecture,4,Introduction about the course,1
+3848374,25811134,5,Training Approach,04:45,lecture,5,Introduction about the course,1
+3848374,25811316,6,Overview of Environments for Hands on Practice (Must Watch),03:16,lecture,6,Introduction about the course,1
+3848374,27765320,7,Free Download - Course Material,01:04,lecture,7,Introduction about the course,1
+3848374,27787794,8,[Must Watch] Setting up Course Material,08:07,lecture,8,Introduction about the course,1
+3848374,29120978,9,How to access data sets used in this course?,00:22,lecture,9,Introduction about the course,1
+3848374,25811216,10,Getting Started with Cloud9,03:09,lecture,1,Setting up Environment using AWS Cloud9,2
+3848374,25811268,11,Creating Cloud9 Environment,05:13,lecture,2,Setting up Environment using AWS Cloud9,2
+3848374,25811312,12,Warming up with Cloud9 IDE,03:45,lecture,3,Setting up Environment using AWS Cloud9,2
+3848374,25811590,13,Details about material to setup postgres database using docker,01:58,lecture,4,Setting up Environment using AWS Cloud9,2
+3848374,25811728,14,Overview of EC2 related to Cloud9,01:35,lecture,5,Setting up Environment using AWS Cloud9,2
+3848374,25812536,15,Opening ports for Cloud9 Instance,03:34,lecture,6,Setting up Environment using AWS Cloud9,2
+3848374,25812572,16,Associating Elastic IPs to Cloud9 Instance,04:45,lecture,7,Setting up Environment using AWS Cloud9,2
+3848374,25812626,17,Increase EBS Volume Size of Cloud9 Instance,03:24,lecture,8,Setting up Environment using AWS Cloud9,2
+3848374,25812806,18,Setup Jupyter Lab on Cloud9,07:33,lecture,9,Setting up Environment using AWS Cloud9,2
+3848374,25812878,19,[Commands] Setup Jupyter Lab on Cloud9,00:15,lecture,10,Setting up Environment using AWS Cloud9,2
+3848374,24943040,20,Signing up for GCP,03:25,lecture,1,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,24943370,21,Overview of GCP Web Console,02:01,lecture,2,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,24943372,22,Overview of GCP Pricing,06:10,lecture,3,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,24943374,23,Provision Ubuntu VM from GCP,07:41,lecture,4,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,24943376,24,Setup Docker,08:16,lecture,5,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,24943378,25,Validating Python,04:05,lecture,6,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,24943380,26,Setup Jupyter Lab,10:29,lecture,7,Setting up Environment - Overview of GCP and Provision Ubuntu VM,3
+3848374,28141532,27,Enable telnet on Windows,03:03,lecture,1,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141540,28,Different IP Address Types,03:17,lecture,2,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141544,29,Port Numbers associated with Applications or Services,07:21,lecture,3,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141548,30,Reverting port for SSH to default port number,02:29,lecture,4,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141558,31,Setup Apache2 on Ubuntu,06:18,lecture,5,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141562,32,Overview of localhost,02:50,lecture,6,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141578,33,Overview of Private IP Address associated with a server,04:01,lecture,7,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141588,34,Overview of Public IP Address associated with a server,04:51,lecture,8,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141596,35,Setup Web Application and access using local ip,05:02,lecture,9,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141600,36,Setup Web Application and access using private ip,04:01,lecture,10,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141608,37,Disable Access to Web Application using Public ip,03:29,lecture,11,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141614,38,Install sshuttle on Mac using brew,02:39,lecture,12,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,28141622,39,Access Web Application using Private IP using SSH as proxy,05:58,lecture,13,Networking Concepts for Beginners - ip addresses and port numbers,4
+3848374,24944182,40,Introduction - Setup Postgres Database,01:20,lecture,1,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944188,41,Setup Postgres using Docker,06:42,lecture,2,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944192,42,Docker Cheat Sheet,12:14,lecture,3,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944196,43,Accessing Postgres using Docker CLI,04:45,lecture,4,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944216,44,Create Database and User,04:56,lecture,5,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944232,45,Execute SQL Scripts,05:47,lecture,6,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,26170042,46,Setup SQL Workbench,03:57,lecture,7,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,27986904,47,Download Postgres Driver,05:35,lecture,8,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944242,48,Connecting to Postgres using SQL Workbench,10:43,lecture,9,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944254,49,Jupyter Lab and Postgresql on local systems such as Mac,05:59,lecture,10,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,25823318,50,Jupyter Lab and Postgresql using Ubuntu VM,09:41,lecture,11,Setting up Environment - Setup Postgres Database on Ubuntu VM,5
+3848374,24944430,51,Connecting to Database,04:21,lecture,1,Database Essentials - Getting Started,6
+3848374,24944434,52,Using psql,11:59,lecture,2,Database Essentials - Getting Started,6
+3848374,24944440,53,Setup Postgres using Docker,14:16,lecture,3,Database Essentials - Getting Started,6
+3848374,24944444,54,Setup SQL Workbench,03:57,lecture,4,Database Essentials - Getting Started,6
+3848374,24944446,55,Connecting to Postgres using SQL Workbench,05:35,lecture,5,Database Essentials - Getting Started,6
+3848374,24944452,56,SQL Workbench Features,08:17,lecture,6,Database Essentials - Getting Started,6
+3848374,24944464,57,Data Loading Utilities,07:21,lecture,7,Database Essentials - Getting Started,6
+3848374,24944470,58,Loading Data - Docker,08:45,lecture,8,Database Essentials - Getting Started,6
+3848374,24944606,59,Database Operations - Overview,02:08,lecture,1,Database Essentials - Database Operations,7
+3848374,24944610,60,CRUD Operations,02:16,lecture,2,Database Essentials - Database Operations,7
+3848374,24944614,61,Creating Table,04:54,lecture,3,Database Essentials - Database Operations,7
+3848374,24944616,62,Inserting Data,05:20,lecture,4,Database Essentials - Database Operations,7
+3848374,24944620,63,Updating Data,05:04,lecture,5,Database Essentials - Database Operations,7
+3848374,24944626,64,Deleting Data,02:40,lecture,6,Database Essentials - Database Operations,7
+3848374,24944632,65,Overview of Transactions,01:59,lecture,7,Database Essentials - Database Operations,7
+3848374,24944638,66,Exercise - Database Operations,04:47,lecture,8,Database Essentials - Database Operations,7
+3848374,24944848,67,Standard Transformations,01:33,lecture,1,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944870,68,Overview of Data Model,03:10,lecture,2,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944880,69,Define Problem Statement,03:33,lecture,3,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944894,70,Preparing Tables,05:12,lecture,4,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944912,71,Selecting or Projecting Data,04:03,lecture,5,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944946,72,Filtering Data,14:29,lecture,6,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944960,73,Joining Tables - Inner,07:01,lecture,7,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944970,74,Joining Tables - Outer,07:01,lecture,8,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944984,75,Performing Aggregations,11:20,lecture,9,Database Essentials - Writing Basic SQL Queries,8
+3848374,24944996,76,Sorting Data,12:50,lecture,10,Database Essentials - Writing Basic SQL Queries,8
+3848374,24945022,77,Solution - Daily Product Revenue,03:53,lecture,11,Database Essentials - Writing Basic SQL Queries,8
+3848374,24945062,78,Exercises - Writing Basic SQL Queries,03:15,lecture,12,Database Essentials - Writing Basic SQL Queries,8
+3848374,24946284,79,DDL - Data Definition Language,04:55,lecture,1,Database Essentials - Creating Tables and Indexes,9
+3848374,24946292,80,Overview of Data Types,06:47,lecture,2,Database Essentials - Creating Tables and Indexes,9
+3848374,24946306,81,Adding or Modifying Columns,07:47,lecture,3,Database Essentials - Creating Tables and Indexes,9
+3848374,24946314,82,Different Type of Constraints,07:09,lecture,4,Database Essentials - Creating Tables and Indexes,9
+3848374,24946320,83,Managing Constraints,09:40,lecture,5,Database Essentials - Creating Tables and Indexes,9
+3848374,24946390,84,Indexes on Tables,08:47,lecture,6,Database Essentials - Creating Tables and Indexes,9
+3848374,24946328,85,Indexes for Constraints,04:51,lecture,7,Database Essentials - Creating Tables and Indexes,9
+3848374,24946342,86,Overview of Sequences,12:03,lecture,8,Database Essentials - Creating Tables and Indexes,9
+3848374,24946350,87,Truncating Tables,06:15,lecture,9,Database Essentials - Creating Tables and Indexes,9
+3848374,24946358,88,Dropping Tables,03:24,lecture,10,Database Essentials - Creating Tables and Indexes,9
+3848374,24946422,89,Overview of Partitioning,01:14,lecture,1,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946544,90,List Partitioning,03:18,lecture,2,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946552,91,Managing Partitions - List,05:56,lecture,3,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946566,92,Manipulating Data,03:52,lecture,4,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946576,93,Range Partitioning,02:16,lecture,5,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946584,94,Managing Partitions - Range,05:35,lecture,6,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946606,95,Repartitioning - Range,08:23,lecture,7,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946614,96,Hash Partitioning,03:36,lecture,8,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946622,97,Managing Partitions - Hash,06:04,lecture,9,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946624,98,Usage Scenarios,03:01,lecture,10,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946632,99,Sub Partitioning,05:50,lecture,11,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946636,100,Exercise - Partitioned Tables,01:42,lecture,12,Database Essentials - Partitioning Tables and Indexes,10
+3848374,24946730,101,Overview of Functions,04:47,lecture,1,Database Essentials - Predefined Functions,11
+3848374,24946734,102,String Manipulation Functions,01:16,lecture,2,Database Essentials - Predefined Functions,11
+3848374,24946736,103,Case Conversion and Length,03:19,lecture,3,Database Essentials - Predefined Functions,11
+3848374,24946740,104,Extracting Data - Using substr and split_part,13:23,lecture,4,Database Essentials - Predefined Functions,11
+3848374,24946746,105,Using position or strpos,04:35,lecture,5,Database Essentials - Predefined Functions,11
+3848374,24946752,106,Trimming and Padding Functions,05:07,lecture,6,Database Essentials - Predefined Functions,11
+3848374,24946764,107,Reverse and Concatenate Multiple Strings,02:44,lecture,7,Database Essentials - Predefined Functions,11
+3848374,24946768,108,String Replacement,06:11,lecture,8,Database Essentials - Predefined Functions,11
+3848374,24946774,109,Date Manipulation Functions,01:49,lecture,9,Database Essentials - Predefined Functions,11
+3848374,24946778,110,Getting Current Date or Timestamp,03:13,lecture,10,Database Essentials - Predefined Functions,11
+3848374,24946784,111,Date Arithmetic,05:07,lecture,11,Database Essentials - Predefined Functions,11
+3848374,24946794,112,Beginning Date or Time using date_trunc,03:48,lecture,12,Database Essentials - Predefined Functions,11
+3848374,24946806,113,Using to_char and to_date,10:13,lecture,13,Database Essentials - Predefined Functions,11
+3848374,24946812,114,Extracting Information using extract,02:58,lecture,14,Database Essentials - Predefined Functions,11
+3848374,24946820,115,Dealing with Unix Timestamp or epoch,02:51,lecture,15,Database Essentials - Predefined Functions,11
+3848374,24946828,116,Overview of Numeric Functions,06:28,lecture,16,Database Essentials - Predefined Functions,11
+3848374,24946840,117,Data Type Conversion,03:27,lecture,17,Database Essentials - Predefined Functions,11
+3848374,24946852,118,Handling NULL Values,03:52,lecture,18,Database Essentials - Predefined Functions,11
+3848374,24946858,119,Using CASE and WHEN,05:55,lecture,19,Database Essentials - Predefined Functions,11
+3848374,24947072,120,Overview of Views,06:33,lecture,1,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947088,121,Overview of Named Queries,03:39,lecture,2,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947090,122,Overview of Sub Queries,06:20,lecture,3,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947100,123,CTAS - Create Table As Select,07:13,lecture,4,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947108,124,Advanced DML Operations,11:16,lecture,5,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947116,125,Merging or Upserting Data,07:56,lecture,6,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947122,126,Pivoting Rows into Columns,01:07,lecture,7,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947128,127,Overview of Analytic Functions,04:51,lecture,8,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947140,128,Analytic Functions - Aggregations,09:16,lecture,9,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947154,129,Cumulative or Moving Aggregations,07:15,lecture,10,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947158,130,Analytic Functions - Windowing,11:55,lecture,11,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947164,131,Analytic Functions - Ranking,12:24,lecture,12,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947168,132,Analytic Functions - Filtering,09:56,lecture,13,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24947174,133,Ranking and Filtering - Recap,03:05,lecture,14,Database Essentials - Writing Advanced SQL Queries,12
+3848374,24962484,134,Introduction - Perform Database Operations,01:38,lecture,1,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962490,135,Overview of SQL,02:28,lecture,2,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962494,136,Create Database and Users Table,06:56,lecture,3,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962500,137,DDL - Data Definition Language,04:23,lecture,4,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962506,138,DML - Data Manipulation Language,04:31,lecture,5,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962512,139,DQL - Data Query Language,03:43,lecture,6,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962516,140,CRUD Operations - DML and DQL,02:04,lecture,7,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962522,141,TCL - Transaction Control Language,01:06,lecture,8,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962528,142,Example - Data Engineering,05:24,lecture,9,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962530,143,Example - Web Application,06:29,lecture,10,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962546,144,Exercise - Database Operations,02:17,lecture,11,Programming Essentials using Python - Perform Database Operations,13
+3848374,24962578,145,Installing Python on Windows,09:06,lecture,1,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962580,146,Overview of Anaconda,13:27,lecture,2,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962588,147,Python CLI and Jupyter Notebook,06:42,lecture,3,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962592,148,Overview of Jupyter Lab,10:05,lecture,4,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962594,149,Using IDEs - Pycharm,08:42,lecture,5,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962598,150,Using Visual Studio Code,06:13,lecture,6,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962602,151,Using ITVersity Labs,07:10,lecture,7,Programming Essentials using Python - Getting Started with Python,14
+3848374,24962604,152,Leveraging Google Colab,14:24,lecture,8,Programming Essentials using Python - Getting Started with Python,14
+3848374,29567908,153,Basic Programming Constructs using Python - Introduction,01:44,lecture,1,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963074,154,Getting Help,03:55,lecture,2,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963140,155,Variables and Objects,01:47,lecture,3,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963148,156,Data Type - Commonly Used,01:58,lecture,4,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963176,157,Operators in Python,02:37,lecture,5,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963182,158,Tasks - Data Types and Operators,06:58,lecture,6,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963190,159,Conditionals,11:53,lecture,7,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963192,160,All about for loops,15:52,lecture,8,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,24963196,161,Running os commands,09:23,lecture,9,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,29567920,162,Exercises - Basic Programming Constructs,06:00,lecture,10,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,29567924,163,Dynamic Arithmetic Operations using eval and exec,03:19,lecture,11,Programming Essentials using Python - Basic Programming Constructs,15
+3848374,29567928,164,Predefined Functions - Introduction,01:29,lecture,1,Programming Essentials using Python - Predefined Functions,16
+3848374,24963478,165,Overview of Predefined Functions,03:24,lecture,2,Programming Essentials using Python - Predefined Functions,16
+3848374,24963484,166,Numeric Functions,06:05,lecture,3,Programming Essentials using Python - Predefined Functions,16
+3848374,24963486,167,Overview of Strings,04:40,lecture,4,Programming Essentials using Python - Predefined Functions,16
+3848374,24963488,168,String Manipulation Functions,07:33,lecture,5,Programming Essentials using Python - Predefined Functions,16
+3848374,24963492,169,Formatting Strings,04:21,lecture,6,Programming Essentials using Python - Predefined Functions,16
+3848374,24963496,170,Print and Input Functions,04:57,lecture,7,Programming Essentials using Python - Predefined Functions,16
+3848374,24963498,171,Date Manipulation Functions,11:37,lecture,8,Programming Essentials using Python - Predefined Functions,16
+3848374,29567986,172,Exercises - Predefined Functions in Python,01:43,lecture,9,Programming Essentials using Python - Predefined Functions,16
+3848374,24963518,173,User Defined Functions - Introduction,01:17,lecture,1,Programming Essentials using Python - User Defined Functions,17
+3848374,24963520,174,Defining Functions,02:39,lecture,2,Programming Essentials using Python - User Defined Functions,17
+3848374,24963524,175,Doc Strings,02:10,lecture,3,Programming Essentials using Python - User Defined Functions,17
+3848374,24963530,176,Returning Variables,02:51,lecture,4,Programming Essentials using Python - User Defined Functions,17
+3848374,24963534,177,Function Parameters and Arguments,05:42,lecture,5,Programming Essentials using Python - User Defined Functions,17
+3848374,24963540,178,Varying Arguments,04:11,lecture,6,Programming Essentials using Python - User Defined Functions,17
+3848374,24963542,179,Keyword Arguments,01:54,lecture,7,Programming Essentials using Python - User Defined Functions,17
+3848374,24963546,180,Recap of User Defined Functions,09:36,lecture,8,Programming Essentials using Python - User Defined Functions,17
+3848374,24963550,181,Passing Functions as Arguments,05:39,lecture,9,Programming Essentials using Python - User Defined Functions,17
+3848374,24963554,182,Lambda Functions,03:59,lecture,10,Programming Essentials using Python - User Defined Functions,17
+3848374,24963562,183,Usage of Lambda Functions,07:45,lecture,11,Programming Essentials using Python - User Defined Functions,17
+3848374,24963568,184,Exercise - User Defined Functions,01:57,lecture,12,Programming Essentials using Python - User Defined Functions,17
+3848374,29567994,185,Overview of Collections - list and set - Introduction,01:53,lecture,1,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963652,186,Overview of list and set,04:16,lecture,2,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963656,187,Common Operations,02:26,lecture,3,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963662,188,Accessing elements from list,03:48,lecture,4,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963666,189,Adding elements to list,02:46,lecture,5,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963672,190,Updating and Deleting elements -list,02:09,lecture,6,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963674,191,Other list operations,02:28,lecture,7,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963678,192,Adding and Deleting elements - set,03:52,lecture,8,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963688,193,Typical set operations,01:49,lecture,9,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963690,194,Validating sets,02:10,lecture,10,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,24963696,195,list and set - Usage,08:00,lecture,11,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,29568002,196,Exercises - Basic Operations on list and,02:40,lecture,12,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,29568004,197,List of Delimited Strings,03:58,lecture,13,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,29568010,198,Sorting data in lists and tuples,05:58,lecture,14,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,29568018,199,Sorting list of Delimited Strings,07:11,lecture,15,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,29568024,200,Exercises - Sorting lists and sets,03:57,lecture,16,Programming Essentials using Python - Overview of Collections - list and set,18
+3848374,29596184,201,Manipulating Collections using loops - Introduction,01:28,lecture,1,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963938,202,Overview of dict and tuple,05:38,lecture,2,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963744,203,Common Operations - dict and tuple,05:10,lecture,3,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963750,204,Accessing Elements - tuples,03:22,lecture,4,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963746,205,Accessing Elements - dict,05:40,lecture,5,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963752,206,Manipulating dict,10:52,lecture,6,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963754,207,Common Examples - dict,04:32,lecture,7,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963760,208,List of Tuples,11:30,lecture,8,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,24963756,209,List of dicts,08:08,lecture,9,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,29596190,210,Process dict values,03:29,lecture,10,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,29596194,211,Processing dict items,05:42,lecture,11,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,29596200,212,Sorting dict items,03:14,lecture,12,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,29596206,213,Exercises - Overview of Collections - dict and set,02:43,lecture,13,Programming Essentials using Python - Overview of Collections - dict and tuple,19
+3848374,29596246,214,Manipulating Collections using loops - Introduction,02:15,lecture,1,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963772,215,Reading Files into Collections,04:13,lecture,2,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963782,216,Overview of Standard Transformations,03:58,lecture,3,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963790,217,Row Level Transformations,13:55,lecture,4,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963798,218,Getting Unique Elements,10:59,lecture,5,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963804,219,Filtering Data,11:18,lecture,6,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963812,220,Preparing Data Sets,04:54,lecture,7,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963826,221,Quick recap of dict operations,05:26,lecture,8,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963834,222,Performing Total Aggregations,14:58,lecture,9,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596252,223,Overview of Grouped Aggregations,02:14,lecture,10,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596254,224,Get Order Count by Status,08:30,lecture,11,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596258,225,Get Revenue Details per Order,14:38,lecture,12,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596262,226,Get Order Count by Month,04:21,lecture,13,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963842,227,Joining Data Sets,12:52,lecture,14,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596264,228,Manipulate Collections using Comprehensions,01:01,lecture,15,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596266,229,List Comprehensions using Python,06:27,lecture,16,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596268,230,Set Comprehensions using Python,03:14,lecture,17,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596270,231,Dict Comprehensions in Python,04:49,lecture,18,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,24963852,232,Limitations of using loops,04:46,lecture,19,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29596274,233,Exercises - Manipulating Collections using loops,06:40,lecture,20,Programming Essentials using Python - Manipulating Collections using loops,20
+3848374,29607976,234,Develop myFilter,06:41,lecture,1,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29607986,235,Validate myFilter,06:57,lecture,2,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29607990,236,Develop myMap Function,05:43,lecture,3,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29607996,237,Validate myMap Function,09:54,lecture,4,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29608000,238,Develop myReduce Function,04:20,lecture,5,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29608004,239,Validate myReduce Function,05:15,lecture,6,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29608008,240,Develop myReduceByKey Function,05:02,lecture,7,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29608012,241,Validate myReduceByKey Function,10:15,lecture,8,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29608020,242,Develop myJoin Function,05:13,lecture,9,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29626924,243,Validate myJoin Function,07:16,lecture,10,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,29626928,244,Exercises - Development of Map Reduce APIs,05:16,lecture,11,Programming Essentials using Python - Development of Map Reduce APIs,21
+3848374,24964262,245,Preparing Data Sets,02:42,lecture,1,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,24964264,246,Filtering Data using filter,06:44,lecture,2,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,24964266,247,Projecting data using map,06:02,lecture,3,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,24964268,248,Row Level Transformations using map,10:54,lecture,4,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,28045124,249,Aggregations using reduce,06:54,lecture,5,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626932,250,Get Revenue for a given product id,07:53,lecture,6,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626938,251,Get total items sold and revenue for a product,05:41,lecture,7,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626942,252,Get total commission amount,06:37,lecture,8,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626944,253,Overview of itertools,04:21,lecture,9,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626950,254,Cumulative Operations using itertools,08:53,lecture,10,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626956,255,Using itertools starmap,04:56,lecture,11,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626958,256,Overview of itertools groupby,05:49,lecture,12,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626964,257,Get order count by status using itertools groupby,03:46,lecture,13,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626972,258,Get revenue per order using itertools groupby,09:04,lecture,14,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626976,259,Limitations of Map Reduce Libraries,02:08,lecture,15,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29626978,260,Exercises - Understanding Map Reduce Libraries,01:38,lecture,16,Programming Essentials using Python - Understanding Map Reduce Libraries,22
+3848374,29627004,261,Basics of File IO using Python - Introduction,03:14,lecture,1,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966278,262,Overview of File IO,03:10,lecture,2,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966284,263,Folders and Files,12:59,lecture,3,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966288,264,File Paths and Names,03:59,lecture,4,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966292,265,Overview of Retail Data,05:09,lecture,5,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966298,266,Read text file into string,04:51,lecture,6,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966300,267,Write string to text file,05:14,lecture,7,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966304,268,Overview of modes to write into files,08:33,lecture,8,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966306,269,Overview of Delimited Strings,04:19,lecture,9,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,27966308,270,Read csv into list of strings,08:07,lecture,10,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,29627012,271,Writing Strings to file in Append Mode,05:33,lecture,11,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,29627014,272,Managing Files and Folders using Python,14:16,lecture,12,Programming Essentials using Python - Basics of File IO using Python,23
+3848374,29627018,273,Delimited Files and Collections,01:34,lecture,1,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,27985292,274,Overview of Delimited Text Files,09:23,lecture,2,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,27985294,275,Recap of basic file IO,09:05,lecture,3,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,27985296,276,Read Delimited files into list of tuples,13:19,lecture,4,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,27985298,277,Write Delimited Strings into files,10:25,lecture,5,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,27985300,278,Overview of CSV Module,08:38,lecture,6,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,27985304,279,Read Delimited data using CSV,13:09,lecture,7,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,29627026,280,Writing iterables to files using csv,07:57,lecture,8,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,29627030,281,Advantages of using csv module,01:23,lecture,9,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,29627032,282,Apply Schema on lists from files,11:49,lecture,10,Programming Essentials using Python - Delimited Files and Collections,24
+3848374,29627040,283,Overview of Pandas Libraries,01:59,lecture,1,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964342,284,Pandas Data Structures,06:03,lecture,2,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964344,285,Overview of series,04:40,lecture,3,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964346,286,Creating Data Frames from lists,04:49,lecture,4,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964352,287,Data Frames - Basic Operations,16:12,lecture,5,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964356,288,CSV to Pandas Data Frames,06:24,lecture,6,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964656,289,Projecting and Filtering,10:29,lecture,7,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964658,290,Performing Total Aggregations,13:05,lecture,8,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964664,291,Performing Grouped Aggregations,11:37,lecture,9,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964670,292,Writing Data Frames to Files,11:02,lecture,10,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,24964676,293,Joining Data Frames,12:24,lecture,11,Programming Essentials using Python - Overview of Pandas Libraries,25
+3848374,29627048,294,Database Operations - CRUD Operations - Introduction,01:31,lecture,1,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964740,295,Overview of Database Programming,03:30,lecture,2,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964880,296,Recap of RDBMS Concepts,05:14,lecture,3,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964894,297,Setup Database Client Libraries,08:36,lecture,4,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964904,298,Function Get Database Connection,03:15,lecture,5,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964910,299,Create Database Table,06:13,lecture,6,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964920,300,Inserting Data into Table,10:48,lecture,7,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964930,301,Updating Existing Table Data,03:35,lecture,8,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964946,302,Deleting Data From Table,02:32,lecture,9,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964960,303,Querying Data From Table,09:57,lecture,10,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,24964972,304,Recap - CRUD Operations,02:04,lecture,11,Programming Essentials using Python - Database Programming - CRUD Operations,26
+3848374,29627052,305,Database Programming - Batch Operations - Introduction,01:27,lecture,1,Programming Essentials using Python - Database Programming - Batch Operations,27
+3848374,24965096,306,Recap of Insert,02:12,lecture,2,Programming Essentials using Python - Database Programming - Batch Operations,27
+3848374,24965100,307,Preparing Database,04:24,lecture,3,Programming Essentials using Python - Database Programming - Batch Operations,27
+3848374,24965102,308,Reading Data From File,05:11,lecture,4,Programming Essentials using Python - Database Programming - Batch Operations,27
+3848374,24965104,309,Batch Loading of Data,09:45,lecture,5,Programming Essentials using Python - Database Programming - Batch Operations,27
+3848374,24965110,310,Best Practices Batch Loading,02:16,lecture,6,Programming Essentials using Python - Database Programming - Batch Operations,27
+3848374,29627062,311,Processing JSON Data - Introduction,01:34,lecture,1,Programming Essentials using Python - Processing JSON Data,28
+3848374,27966398,312,Overview of JSON,03:33,lecture,2,Programming Essentials using Python - Processing JSON Data,28
+3848374,27966402,313,JSON Data Types,02:19,lecture,3,Programming Essentials using Python - Processing JSON Data,28
+3848374,27966414,314,Create JSON String,06:19,lecture,4,Programming Essentials using Python - Processing JSON Data,28
+3848374,27966418,315,Process JSON String,14:22,lecture,5,Programming Essentials using Python - Processing JSON Data,28
+3848374,27966426,316,Single JSON Document in Files,11:20,lecture,6,Programming Essentials using Python - Processing JSON Data,28
+3848374,27966438,317,Multiple JSON Documents in files,07:26,lecture,7,Programming Essentials using Python - Processing JSON Data,28
+3848374,27985310,318,Process JSON using Pandas,06:31,lecture,8,Programming Essentials using Python - Processing JSON Data,28
+3848374,27985314,319,Different JSON Formats supported by Pandas,07:48,lecture,9,Programming Essentials using Python - Processing JSON Data,28
+3848374,27985316,320,Common Use Cases for JSON,09:11,lecture,10,Programming Essentials using Python - Processing JSON Data,28
+3848374,27985322,321,Write to JSON files using json module,07:47,lecture,11,Programming Essentials using Python - Processing JSON Data,28
+3848374,27985326,322,Write to JSON files using pandas,05:32,lecture,12,Programming Essentials using Python - Processing JSON Data,28
+3848374,27985330,323,Overview of REST APIs,03:19,lecture,1,Programming Essentials using Python - Processing REST Payloads,29
+3848374,27985332,324,Using curl command,05:08,lecture,2,Programming Essentials using Python - Processing REST Payloads,29
+3848374,27985334,325,Overview of Postman,07:21,lecture,3,Programming Essentials using Python - Processing REST Payloads,29
+3848374,27985338,326,Getting Started with requests,08:49,lecture,4,Programming Essentials using Python - Processing REST Payloads,29
+3848374,27985340,327,Convert REST Payload to Python Objects,05:28,lecture,5,Programming Essentials using Python - Processing REST Payloads,29
+3848374,28045156,328,Process REST Payload using Collection Operations,17:15,lecture,6,Programming Essentials using Python - Processing REST Payloads,29
+3848374,28045164,329,Process REST Payload using Pandas,11:04,lecture,7,Programming Essentials using Python - Processing REST Payloads,29
+3848374,28045194,330,Introduction to Python Virtual Environments,00:42,lecture,1,Understanding Python Virtual Environments,30
+3848374,28045198,331,Validating Python Versions,02:47,lecture,2,Understanding Python Virtual Environments,30
+3848374,28045204,332,Create Virtual Environment for Web Application,06:35,lecture,3,Understanding Python Virtual Environments,30
+3848374,28045206,333,Reviewing dependencies installed in Virtual Environment,02:38,lecture,4,Understanding Python Virtual Environments,30
+3848374,28045210,334,Installing Dependencies for Web Application using pip,06:32,lecture,5,Understanding Python Virtual Environments,30
+3848374,28045216,335,Getting Details about installed packages using pip,02:34,lecture,6,Understanding Python Virtual Environments,30
+3848374,28045218,336,Uninstall Packages using pip,03:21,lecture,7,Understanding Python Virtual Environments,30
+3848374,28045220,337,Cleanup Python Virtual Environment,01:35,lecture,8,Understanding Python Virtual Environments,30
+3848374,28116242,338,Recreate and Activate Virtual Environment for Web Application,02:22,lecture,9,Understanding Python Virtual Environments,30
+3848374,28116244,339,Define requirements file for Web Application,03:35,lecture,10,Understanding Python Virtual Environments,30
+3848374,28116246,340,Install Dependencies using requirements file for Web Application,03:43,lecture,11,Understanding Python Virtual Environments,30
+3848374,28116250,341,Create Virtual Environment for Data Engineering Application,03:00,lecture,12,Understanding Python Virtual Environments,30
+3848374,28116252,342,Install Dependencies for Data Engineering Application,04:53,lecture,13,Understanding Python Virtual Environments,30
+3848374,28116254,343,Install Dependencies for Data Engineering Application using Python 3.6,02:43,lecture,14,Understanding Python Virtual Environments,30
+3848374,28699534,344,Validate Python and Package Compatibility and Install Python 3.6,06:07,lecture,15,Understanding Python Virtual Environments,30
+3848374,28699536,345,Conclusion about understanding Python Virtual Environments,02:33,lecture,16,Understanding Python Virtual Environments,30
+3848374,28360116,346,Introduction to Pycharm for Python Application Development,01:27,lecture,1,Overview of Pycharm for Python Application Development,31
+3848374,28360118,347,Installation of Pycharm on Windows,02:39,lecture,2,Overview of Pycharm for Python Application Development,31
+3848374,28360120,348,Installation of Pycharm on Mac,03:19,lecture,3,Overview of Pycharm for Python Application Development,31
+3848374,28360122,349,Setup Getting Started Project using Pycharm,05:18,lecture,4,Overview of Pycharm for Python Application Development,31
+3848374,28360124,350,Setup Getting Started Project using Pycharm on Mac,03:21,lecture,5,Overview of Pycharm for Python Application Development,31
+3848374,28360128,351,Setup de-demo project using Pycharm,03:10,lecture,6,Overview of Pycharm for Python Application Development,31
+3848374,28360130,352,Accessing Setting in Pycharm and Changing Font Size,01:40,lecture,7,Overview of Pycharm for Python Application Development,31
+3848374,28360132,353,Accessing Setting in Pycharm and Changing Font Size on Mac,02:16,lecture,8,Overview of Pycharm for Python Application Development,31
+3848374,28360134,354,Install Python Packages using Pycharm,02:55,lecture,9,Overview of Pycharm for Python Application Development,31
+3848374,28360136,355,Overview of Pycharm Integrated Terminal,04:50,lecture,10,Overview of Pycharm for Python Application Development,31
+3848374,28360138,356,Overview of Pycharm Integrated Terminal on Mac,03:16,lecture,11,Overview of Pycharm for Python Application Development,31
+3848374,28360140,357,Overview of Run Time Arguments for Python Applications,04:23,lecture,12,Overview of Pycharm for Python Application Development,31
+3848374,28360142,358,Passing Run Time Arguments using Pycharm,03:50,lecture,13,Overview of Pycharm for Python Application Development,31
+3848374,28648158,359,Introduction to Getting Started for Data copier,02:50,lecture,1,Data Copier - Getting Started,32
+3848374,28665680,360,Problem Statement - Data Copier,03:18,lecture,2,Data Copier - Getting Started,32
+3848374,28648188,361,Create Working Directory for the Project,01:32,lecture,3,Data Copier - Getting Started,32
+3848374,28648196,362,Setup Docker on Windows 10 Pro,06:09,lecture,4,Data Copier - Getting Started,32
+3848374,28648282,363,Quick Overview of Docker,11:55,lecture,5,Data Copier - Getting Started,32
+3848374,28648328,364,Prepare Dataset,01:49,lecture,6,Data Copier - Getting Started,32
+3848374,28648332,365,Create Postgres Container,10:26,lecture,7,Data Copier - Getting Started,32
+3848374,28667238,366,Setup Postgres Database for development,05:56,lecture,8,Data Copier - Getting Started,32
+3848374,28667248,367,Overview of Postgres Database Commands,10:02,lecture,9,Data Copier - Getting Started,32
+3848374,28667264,368,Setup Project using Pycharm,05:16,lecture,10,Data Copier - Getting Started,32
+3848374,28667266,369,Managing Dependencies for the project,03:37,lecture,11,Data Copier - Getting Started,32
+3848374,28667272,370,Create GitHub Project,08:27,lecture,12,Data Copier - Getting Started,32
+3848374,28742696,371,Reading Data using Pandas - Introduction,01:44,lecture,1,Data Copier - Reading Data using Pandas,33
+3848374,28742714,372,Overview of Retail Data,03:33,lecture,2,Data Copier - Reading Data using Pandas,33
+3848374,28742496,373,Adding Pandas to the project,04:10,lecture,3,Data Copier - Reading Data using Pandas,33
+3848374,28742562,374,Reading JSON Data using Pandas,06:15,lecture,4,Data Copier - Reading Data using Pandas,33
+3848374,28742612,375,Previewing Data using Pandas,09:47,lecture,5,Data Copier - Reading Data using Pandas,33
+3848374,28742630,376,Reading Data in Chunks using Pandas,07:29,lecture,6,Data Copier - Reading Data using Pandas,33
+3848374,28742694,377,Dynamically read files using os,05:42,lecture,7,Data Copier - Reading Data using Pandas,33
+3848374,28648362,378,Database Programming using Pandas - Introduction,01:35,lecture,1,Data Copier - Database Programming using Pandas,34
+3848374,28648372,379,Validate Postgres Setup using Docker,02:59,lecture,2,Data Copier - Database Programming using Pandas,34
+3848374,28746048,380,Add required dependencies for database programming using pandas,02:05,lecture,3,Data Copier - Database Programming using Pandas,34
+3848374,28746078,381,Create users table in retail_db Database,01:28,lecture,4,Data Copier - Database Programming using Pandas,34
+3848374,28746104,382,Populating Sample Data into users table,02:03,lecture,5,Data Copier - Database Programming using Pandas,34
+3848374,28746108,383,Reading data from table using Pandas,05:00,lecture,6,Data Copier - Database Programming using Pandas,34
+3848374,28746152,384,Truncate users table,02:19,lecture,7,Data Copier - Database Programming using Pandas,34
+3848374,28746196,385,Writing Pandas Dataframe to table,07:55,lecture,8,Data Copier - Database Programming using Pandas,34
+3848374,28746204,386,Validating users data,02:05,lecture,9,Data Copier - Database Programming using Pandas,34
+3848374,28746288,387,Drop users table,02:20,lecture,10,Data Copier - Database Programming using Pandas,34
+3848374,28772108,388,Loading Data from files to tables - Introduction,01:11,lecture,1,Data Copier - Loading Data from files to tables,35
+3848374,28772132,389,Populating Departments data into table,09:24,lecture,2,Data Copier - Loading Data from files to tables,35
+3848374,28772152,390,Validate departments table,03:22,lecture,3,Data Copier - Loading Data from files to tables,35
+3848374,28772170,391,Populating orders table in chunks,08:58,lecture,4,Data Copier - Loading Data from files to tables,35
+3848374,28772182,392,Validate orders table in database,03:30,lecture,5,Data Copier - Loading Data from files to tables,35
+3848374,28772188,393,Validate orders table using pandas,04:38,lecture,6,Data Copier - Loading Data from files to tables,35
+3848374,28772190,394,Overview of main function,04:55,lecture,1,Data Copier - Modularizing the application,36
+3848374,28772194,395,Overview of Environment Variables,03:06,lecture,2,Data Copier - Modularizing the application,36
+3848374,28772206,396,Using os module for Environment Variables,05:05,lecture,3,Data Copier - Modularizing the application,36
+3848374,28772212,397,Passing Environment Variables using Pycharm,03:33,lecture,4,Data Copier - Modularizing the application,36
+3848374,28772226,398,Read logic using Pandas,08:11,lecture,5,Data Copier - Modularizing the application,36
+3848374,28772236,399,Validate read logic,05:36,lecture,6,Data Copier - Modularizing the application,36
+3848374,28772240,400,Write logic using Pandas,06:49,lecture,7,Data Copier - Modularizing the application,36
+3848374,28772252,401,Validate write logic,07:02,lecture,8,Data Copier - Modularizing the application,36
+3848374,28772264,402,Integrate read and write logic,04:07,lecture,9,Data Copier - Modularizing the application,36
+3848374,28772302,403,Validate Integration logic,05:52,lecture,10,Data Copier - Modularizing the application,36
+3848374,28772304,404,Develop logic for multiple tables,03:45,lecture,11,Data Copier - Modularizing the application,36
+3848374,28772308,405,Validate logic for table list as run time argument,07:20,lecture,12,Data Copier - Modularizing the application,36
+3848374,28772310,406,Push changes to remote git repository,03:51,lecture,13,Data Copier - Modularizing the application,36
+3848374,28772360,407,Dockerizing the application - Introduction,00:44,lecture,1,Data Copier - Dockerizing the application,37
+3848374,28772384,408,Prepare Database for validation,02:12,lecture,2,Data Copier - Dockerizing the application,37
+3848374,28772416,409,Pull and validate appropriate python image,05:15,lecture,3,Data Copier - Dockerizing the application,37
+3848374,28772430,410,Create and attach network to database container,06:19,lecture,4,Data Copier - Dockerizing the application,37
+3848374,28772438,411,Quick recap about Docker containers,04:34,lecture,5,Data Copier - Dockerizing the application,37
+3848374,28772548,412,Deploying application and installing dependencies in the docker container,06:24,lecture,6,Data Copier - Dockerizing the application,37
+3848374,28772562,413,Copy source data files into container,02:01,lecture,7,Data Copier - Dockerizing the application,37
+3848374,28772596,414,Add Data Copier container to custom network,02:51,lecture,8,Data Copier - Dockerizing the application,37
+3848374,28772612,415,Installing OS libraries as part of Docker container,02:29,lecture,9,Data Copier - Dockerizing the application,37
+3848374,28772672,416,Validate Network Connectivity between Docker Containers,02:21,lecture,10,Data Copier - Dockerizing the application,37
+3848374,28772666,417,Running Application from the Docker Container,06:04,lecture,11,Data Copier - Dockerizing the application,37
+3848374,28772684,418,Delete Docker Container,04:47,lecture,12,Data Copier - Dockerizing the application,37
+3848374,28772780,419,Using Custom Docker Image - Introduction,00:33,lecture,1,Data Copier - Using custom Docker Image,38
+3848374,28772786,420,Getting started with docker custom image,05:06,lecture,2,Data Copier - Using custom Docker Image,38
+3848374,28772788,421,Install OS Modules in custom docker image,04:54,lecture,3,Data Copier - Using custom Docker Image,38
+3848374,28772792,422,Copying Source Code to Docker Custom Image,08:55,lecture,4,Data Copier - Using custom Docker Image,38
+3848374,28772814,423,Adding dependencies to the custom image,03:18,lecture,5,Data Copier - Using custom Docker Image,38
+3848374,28772856,424,Understanding docker custom image build process,02:48,lecture,6,Data Copier - Using custom Docker Image,38
+3848374,28772910,425,Mounting Data Folders on to Docker Container,04:21,lecture,7,Data Copier - Using custom Docker Image,38
+3848374,28772930,426,Passing Environment Variables to Docker Container,07:13,lecture,8,Data Copier - Using custom Docker Image,38
+3848374,28772954,427,Add Data Copier Container to custom network,04:33,lecture,9,Data Copier - Using custom Docker Image,38
+3848374,28772996,428,Run application using Docker,06:42,lecture,10,Data Copier - Using custom Docker Image,38
+3848374,28789044,429,Deploy and Validate Application on Remote Server - Introduction,01:36,lecture,1,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798540,430,Push Application Changes to GitHub Repository,02:30,lecture,2,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798542,431,Requirements to deploy application on Virtual Machine,03:16,lecture,3,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798552,432,Clone Application on remote machine,02:09,lecture,4,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798602,433,Setup Data Set for Validation,02:06,lecture,5,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798632,434,Setup Network and Database Folder for Database using Docker,03:42,lecture,6,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798634,435,Setup Docker Container for the Database,06:18,lecture,7,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798638,436,Setup Database and Tables as part of Docker based Database Server,03:59,lecture,8,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798688,437,Building Custom Docker Image for application,03:19,lecture,9,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,28798710,438,Run and Validate Dockerized Application,08:15,lecture,10,Data Copier - Deploy and Validate Application on Remote Server,39
+3848374,25467362,439,Introduction to Single Node Hadoop Cluster,02:45,lecture,1,Setup Hadoop on Single Node Cluster,40
+3848374,25467366,440,Setup Prerequisties,04:55,lecture,2,Setup Hadoop on Single Node Cluster,40
+3848374,25467376,441,Setup Password less login,03:36,lecture,3,Setup Hadoop on Single Node Cluster,40
+3848374,25467384,442,Download and Install Hadoop,04:14,lecture,4,Setup Hadoop on Single Node Cluster,40
+3848374,25467390,443,Configure Hadoop HDFS,06:50,lecture,5,Setup Hadoop on Single Node Cluster,40
+3848374,25467400,444,Start and Validate HDFS,05:59,lecture,6,Setup Hadoop on Single Node Cluster,40
+3848374,25467408,445,Configure Hadoop YARN,01:19,lecture,7,Setup Hadoop on Single Node Cluster,40
+3848374,25467410,446,Start and Validate YARN,02:03,lecture,8,Setup Hadoop on Single Node Cluster,40
+3848374,25467418,447,Managing Single Node Hadoop,03:49,lecture,9,Setup Hadoop on Single Node Cluster,40
+3848374,25467460,448,Setup Data Sets for Practice,05:02,lecture,1,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467462,449,Download and Install Hive,02:17,lecture,2,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467468,450,Setup Database for Hive Metastore,07:13,lecture,3,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467476,451,Configure and Setup Hive Metastore,07:10,lecture,4,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467482,452,Launch and Validate Hive,04:57,lecture,5,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467490,453,Scripts to Manage Single Node Cluster,04:40,lecture,6,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467494,454,Download and Install Spark 2,03:28,lecture,7,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467498,455,Configure Spark 2,09:02,lecture,8,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467500,456,Validate Spark 2 using CLIs,08:23,lecture,9,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467504,457,Validate Jupyter Lab Setup,09:45,lecture,10,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467532,458,Intergrate Spark 2 with Jupyter Lab,06:08,lecture,11,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467512,459,Download and Install Spark 3,01:55,lecture,12,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467516,460,Configure Spark 3,06:46,lecture,13,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467518,461,Validate Spark 3 using CLIs,07:54,lecture,14,Setup Hive and Spark on Single Node Cluster,41
+3848374,25467526,462,Intergrate Spark 3 with Jupyter Lab,04:19,lecture,15,Setup Hive and Spark on Single Node Cluster,41
+3848374,24965174,463,Getting help or usage,03:51,lecture,1,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965176,464,Listing HDFS Files,03:46,lecture,2,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965178,465,Managing HDFS Directories,12:47,lecture,3,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965186,466,Copying files from local to HDFS,12:16,lecture,4,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965196,467,Copying files from HDFS to local,05:18,lecture,5,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965200,468,Getting Files Metadata,07:12,lecture,6,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965206,469,Previewing Data in HDFS Files,05:40,lecture,7,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965214,470,HDFS Block Size,04:50,lecture,8,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965218,471,HDFS Replication Factor,07:06,lecture,9,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965226,472,Getting HDFS Storage Usage,02:11,lecture,10,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965230,473,USing HDFS Stat Commands,01:31,lecture,11,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965238,474,HDFS File Permissions,08:53,lecture,12,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965244,475,Overriding Properties,06:17,lecture,13,Introduction to Hadoop eco system - Overview of HDFS,42
+3848374,24965550,476,Getting Started - Overview,01:51,lecture,1,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966208,477,Overview of Spark Documentation,02:19,lecture,2,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966220,478,Launching and using Spark SQL CLI,03:55,lecture,3,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966234,479,Overview of Spark SQL Properties,08:23,lecture,4,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966246,480,Running OS Commands using Spark SQL,03:03,lecture,5,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966260,481,Understanding Warehouse Directory,03:49,lecture,6,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966268,482,Managing Spark Metastore Databases,08:51,lecture,7,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966280,483,Managing Spark Metastore Tables,03:07,lecture,8,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966286,484,Retrieve Metadata of Tables,02:11,lecture,9,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966304,485,Role of Spark Metastore or Hive Metastore,04:43,lecture,10,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966314,486,Exercise - Getting Started with Spark SQL,08:23,lecture,11,Data Engineering using Spark SQL - Getting Started,43
+3848374,24966828,487,Basic Transformations - Introduction,03:03,lecture,1,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967022,488,Spark SQL - Overview,06:16,lecture,2,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967024,489,Define Problem Statement,03:13,lecture,3,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967028,490,Prepare Tables,04:38,lecture,4,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967032,491,Projecting Data,03:36,lecture,5,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967036,492,Filtering Data,09:42,lecture,6,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967040,493,Joining Tables - Inner,06:57,lecture,7,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967042,494,Joining Tables - Outer,06:53,lecture,8,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967048,495,Aggregation Data,10:08,lecture,9,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967050,496,Sorting Data,04:31,lecture,10,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967056,497,Conclusion - Final Solution,03:54,lecture,11,Data Engineering using Spark SQL - Basic Transformations,44
+3848374,24967094,498,Introduction,02:36,lecture,1,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967104,499,Create Spark Metastore Tables,09:44,lecture,2,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967112,500,Overview of Data Types,09:16,lecture,3,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967120,501,Adding Comments,01:57,lecture,4,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967128,502,Loading Data Into Tables - Local,04:05,lecture,5,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967136,503,Loading Data Into Tables - HDFS,05:38,lecture,6,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967148,504,Loading Data - Append and Overwrite,02:31,lecture,7,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967154,505,Creating External Tables,02:54,lecture,8,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967160,506,Managed Tables vs External Tables,04:27,lecture,9,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967222,507,Overview of File Formats,07:10,lecture,10,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967228,508,Drop Tables and Databases,03:56,lecture,11,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967230,509,Truncating Tables,02:09,lecture,12,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967238,510,Exercise - Managed Tables,06:39,lecture,13,Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,45
+3848374,24967414,511,Introduction - Managing Tables - DML and Partitioning,03:12,lecture,1,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967418,512,Introduction to Partitioning,01:17,lecture,2,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967432,513,Creating Tables using Parquet,04:16,lecture,3,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967438,514,Load vs Insert,03:53,lecture,4,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967442,515,Inserting Data using Stage Table,04:31,lecture,5,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967448,516,Creating Partitioned Tables,03:05,lecture,6,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967452,517,Adding Partitions to Tables,03:41,lecture,7,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967458,518,Loading Data into Partitioned Tables,07:23,lecture,8,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967462,519,Inserting Data into Partitions,03:04,lecture,9,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967464,520,Using Dynamic Partition Mode,04:35,lecture,10,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967468,521,Exercise - Partitioned Tables,03:30,lecture,11,Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,46
+3848374,24967528,522,Introduction - Overview of Spark SQL Functions,01:40,lecture,1,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967538,523,Overview of Functions,02:41,lecture,2,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967548,524,Validating Functions,04:15,lecture,3,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967550,525,String Manipulation Functions,10:30,lecture,4,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967554,526,Date Manipulation Functions,15:41,lecture,5,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967556,527,Overview of Numeric Functions,08:31,lecture,6,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967562,528,Data Type Conversion,03:56,lecture,7,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967566,529,Dealing with Nulls,07:28,lecture,8,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967568,530,Using CASE and WHEN,07:02,lecture,9,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967572,531,Query Example - Word Count,06:46,lecture,10,Data Engineering using Spark SQL - Overview of Spark SQL Functions,47
+3848374,24967670,532,Introduction - Windowing Functions,01:52,lecture,1,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967682,533,Prepare HR Database,03:27,lecture,2,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967692,534,Overview of Windowing Functions,03:06,lecture,3,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967706,535,Aggregations using Windowing Functions,10:21,lecture,4,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967714,536,Using LEAD or LAG,10:43,lecture,5,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967730,537,Getting first and last values,06:59,lecture,6,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967736,538,Ranking using Windowing Functions,11:05,lecture,7,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967746,539,Order of execution of SQL.cmproj,06:32,lecture,8,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967754,540,Overview of Subqueries,03:52,lecture,9,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,24967760,541,Filtering Windowing Function Results,04:58,lecture,10,Data Engineering using Spark SQL - Windowing Functions,48
+3848374,25413478,542,Starting Spark Context - pyspark,07:27,lecture,1,Apache Spark using Python - Data Processing Overview,49
+3848374,25413492,543,Overview of Spark Read APIs,10:48,lecture,2,Apache Spark using Python - Data Processing Overview,49
+3848374,25413514,544,Understanding airlines data,04:00,lecture,3,Apache Spark using Python - Data Processing Overview,49
+3848374,25413526,545,Inferring Schema,06:25,lecture,4,Apache Spark using Python - Data Processing Overview,49
+3848374,25413534,546,Previewing Airlines Data,06:19,lecture,5,Apache Spark using Python - Data Processing Overview,49
+3848374,25413546,547,Overview of Data Frame APIs,06:55,lecture,6,Apache Spark using Python - Data Processing Overview,49
+3848374,25413552,548,Overview of Functions,04:38,lecture,7,Apache Spark using Python - Data Processing Overview,49
+3848374,25413556,549,Overview of Spark Write APIs,10:01,lecture,8,Apache Spark using Python - Data Processing Overview,49
+3848374,25413604,550,Overview of Predefined Functions in Spark,07:16,lecture,1,Apache Spark using Python - Processing Column Data,50
+3848374,25413606,551,Create Dummy Data Frame,04:39,lecture,2,Apache Spark using Python - Processing Column Data,50
+3848374,25413632,552,Categories of Functions,03:05,lecture,3,Apache Spark using Python - Processing Column Data,50
+3848374,25413638,553,Special Functions - col and lit,06:00,lecture,4,Apache Spark using Python - Processing Column Data,50
+3848374,25413646,554,Common String Manipulation Functions,03:41,lecture,5,Apache Spark using Python - Processing Column Data,50
+3848374,25413654,555,Extracting Strings using substring,07:57,lecture,6,Apache Spark using Python - Processing Column Data,50
+3848374,25413658,556,Extracting Strings using split,06:41,lecture,7,Apache Spark using Python - Processing Column Data,50
+3848374,25413666,557,Padding Characters around Strings,05:05,lecture,8,Apache Spark using Python - Processing Column Data,50
+3848374,25413672,558,Trimming Characters from Strings,04:45,lecture,9,Apache Spark using Python - Processing Column Data,50
+3848374,25413676,559,Date and Time Manipulation Functions,04:12,lecture,10,Apache Spark using Python - Processing Column Data,50
+3848374,25413680,560,Date and Time Arithmetic,04:52,lecture,11,Apache Spark using Python - Processing Column Data,50
+3848374,25413688,561,Using Date and Time Trunc Functions,05:43,lecture,12,Apache Spark using Python - Processing Column Data,50
+3848374,25413692,562,Date and Time Extract Functions,03:54,lecture,13,Apache Spark using Python - Processing Column Data,50
+3848374,25413700,563,Using to_date and to_timestamp,07:54,lecture,14,Apache Spark using Python - Processing Column Data,50
+3848374,25413708,564,Using date_format Function,05:41,lecture,15,Apache Spark using Python - Processing Column Data,50
+3848374,25413712,565,Dealing with Unix Timestamp,05:48,lecture,16,Apache Spark using Python - Processing Column Data,50
+3848374,25413714,566,Dealing with Nulls,05:37,lecture,17,Apache Spark using Python - Processing Column Data,50
+3848374,25413722,567,Using CASE and WHEN,06:49,lecture,18,Apache Spark using Python - Processing Column Data,50
+3848374,25413824,568,Overview of Basic Transformations,02:17,lecture,1,Apache Spark using Python - Basic Transformations,51
+3848374,25413888,569,Data Frames for basic transformations,03:42,lecture,2,Apache Spark using Python - Basic Transformations,51
+3848374,25413892,570,Basic Filtering of Data,06:59,lecture,3,Apache Spark using Python - Basic Transformations,51
+3848374,25413900,571,Filtering Example using dates,08:12,lecture,4,Apache Spark using Python - Basic Transformations,51
+3848374,25413910,572,Boolean Operators,09:42,lecture,5,Apache Spark using Python - Basic Transformations,51
+3848374,25413912,573,Using IN Operator or isin Function,05:38,lecture,6,Apache Spark using Python - Basic Transformations,51
+3848374,25413920,574,Using LIKE Operator or like Function,04:44,lecture,7,Apache Spark using Python - Basic Transformations,51
+3848374,25413926,575,Using BETWEEN Operator,05:03,lecture,8,Apache Spark using Python - Basic Transformations,51
+3848374,25413928,576,Dealing with Nulls while Filtering,05:31,lecture,9,Apache Spark using Python - Basic Transformations,51
+3848374,25413932,577,Total Aggregations,11:29,lecture,10,Apache Spark using Python - Basic Transformations,51
+3848374,25413936,578,Aggregate data using groupBy,08:21,lecture,11,Apache Spark using Python - Basic Transformations,51
+3848374,25413942,579,Aggregate data using rollup,07:12,lecture,12,Apache Spark using Python - Basic Transformations,51
+3848374,25413946,580,Aggregate data using cube.cmproj,06:47,lecture,13,Apache Spark using Python - Basic Transformations,51
+3848374,25413950,581,Overview of Sorting Data Frames,10:26,lecture,14,Apache Spark using Python - Basic Transformations,51
+3848374,25413954,582,Solution - Problem 1 - Get Total Aggregations,06:59,lecture,15,Apache Spark using Python - Basic Transformations,51
+3848374,25413960,583,Solution - Problem 2 - Get Total Aggregations By FlightDate,03:50,lecture,16,Apache Spark using Python - Basic Transformations,51
+3848374,25726186,584,Prepare Datasets for Joins,05:35,lecture,1,Apache Spark using Python - Joining Data Sets,52
+3848374,25726190,585,Analyze Datasets for Joins,08:07,lecture,2,Apache Spark using Python - Joining Data Sets,52
+3848374,25726192,586,Problem Statements for Joins,01:37,lecture,3,Apache Spark using Python - Joining Data Sets,52
+3848374,25726194,587,Overview of Joins,01:08,lecture,4,Apache Spark using Python - Joining Data Sets,52
+3848374,25726196,588,Using Inner Joins,07:43,lecture,5,Apache Spark using Python - Joining Data Sets,52
+3848374,25726198,589,Left or Right Outer Join,09:36,lecture,6,Apache Spark using Python - Joining Data Sets,52
+3848374,25726200,590,Solution - Get Flight Count Per US Airport,04:09,lecture,7,Apache Spark using Python - Joining Data Sets,52
+3848374,25726202,591,Solution - Get Flight Count Per US State,02:31,lecture,8,Apache Spark using Python - Joining Data Sets,52
+3848374,25726206,592,Solution - Get Dormant US Airports,03:22,lecture,9,Apache Spark using Python - Joining Data Sets,52
+3848374,25726210,593,Solution - Get Origins without master data,04:07,lecture,10,Apache Spark using Python - Joining Data Sets,52
+3848374,25726212,594,Solution - Get Count of Flights without master data,02:31,lecture,11,Apache Spark using Python - Joining Data Sets,52
+3848374,25726220,595,Solution - Get Count of Flights per Airport without master data,03:27,lecture,12,Apache Spark using Python - Joining Data Sets,52
+3848374,25726228,596,Solution - Get Daily Revenue,03:30,lecture,13,Apache Spark using Python - Joining Data Sets,52
+3848374,25726234,597,Solution - Get Daily Revenue rolled up till Yearly,04:30,lecture,14,Apache Spark using Python - Joining Data Sets,52
+3848374,25726240,598,Overview of Spark Metastore,07:02,lecture,1,Apache Spark using Python - Spark Metastore,53
+3848374,25726242,599,Exploring Spark Catalog,02:31,lecture,2,Apache Spark using Python - Spark Metastore,53
+3848374,25726246,600,Creating Metastore Tables using catalog,09:53,lecture,3,Apache Spark using Python - Spark Metastore,53
+3848374,25726250,601,Inferring Schema for Tables,06:50,lecture,4,Apache Spark using Python - Spark Metastore,53
+3848374,25726252,602,Define Schema for Tables using StructType,06:31,lecture,5,Apache Spark using Python - Spark Metastore,53
+3848374,25726254,603,Inserting into Existing Tables,06:02,lecture,6,Apache Spark using Python - Spark Metastore,53
+3848374,25726258,604,Read and Process data from Metastore Tables,05:59,lecture,7,Apache Spark using Python - Spark Metastore,53
+3848374,25726262,605,Create Partitioned Tables,08:48,lecture,8,Apache Spark using Python - Spark Metastore,53
+3848374,25726264,606,Saving as Partitioned Table,04:49,lecture,9,Apache Spark using Python - Spark Metastore,53
+3848374,25726266,607,Creating Temporary Views,04:21,lecture,10,Apache Spark using Python - Spark Metastore,53
+3848374,25726274,608,Using Spark SQL,08:39,lecture,11,Apache Spark using Python - Spark Metastore,53
+3848374,25240066,609,Setup Virtual Environment and Install Pyspark,04:45,lecture,1,Apache Spark - Development Life Cycle using Python,54
+3848374,29375184,610,[Commands] - Setup Virtual Environment and Install Pyspark,00:05,lecture,2,Apache Spark - Development Life Cycle using Python,54
+3848374,25240070,611,Getting Started with Pycharm,04:56,lecture,3,Apache Spark - Development Life Cycle using Python,54
+3848374,29375192,612,[Code and Instructions] - Getting Started with Pycharm,00:21,lecture,4,Apache Spark - Development Life Cycle using Python,54
+3848374,25240080,613,Passing Run Time Arguments,05:30,lecture,5,Apache Spark - Development Life Cycle using Python,54
+3848374,25240090,614,Accessing OS Environment Variables,04:39,lecture,6,Apache Spark - Development Life Cycle using Python,54
+3848374,25240102,615,Getting Started with Spark,02:53,lecture,7,Apache Spark - Development Life Cycle using Python,54
+3848374,25240110,616,Create Function for Spark Session,05:48,lecture,8,Apache Spark - Development Life Cycle using Python,54
+3848374,29380536,617,[Code and Instructions] - Create Function for Spark Session,00:28,lecture,9,Apache Spark - Development Life Cycle using Python,54
+3848374,25240118,618,Setup Sample Data,02:09,lecture,10,Apache Spark - Development Life Cycle using Python,54
+3848374,25240366,619,Read Data from Files,08:46,lecture,11,Apache Spark - Development Life Cycle using Python,54
+3848374,29380550,620,[Code and Instructions] - Read data from files,00:37,lecture,12,Apache Spark - Development Life Cycle using Python,54
+3848374,25240132,621,Process Data using Spark APIs,06:27,lecture,13,Apache Spark - Development Life Cycle using Python,54
+3848374,29380558,622,[Code and Instructions] - Process data using Spark APIs,00:35,lecture,14,Apache Spark - Development Life Cycle using Python,54
+3848374,25240140,623,Write Data to Files,07:13,lecture,15,Apache Spark - Development Life Cycle using Python,54
+3848374,29380572,624,[Code and Instructions] - Write data to files,00:44,lecture,16,Apache Spark - Development Life Cycle using Python,54
+3848374,25240144,625,Validating Writing Data to Files,06:46,lecture,17,Apache Spark - Development Life Cycle using Python,54
+3848374,25240048,626,Productionizing the Code,04:36,lecture,18,Apache Spark - Development Life Cycle using Python,54
+3848374,29380588,627,[Code and Instructions] - Productionizing the code,01:10,lecture,19,Apache Spark - Development Life Cycle using Python,54
+3848374,25240148,628,Setting up Data for Production Validation,04:23,lecture,20,Apache Spark - Development Life Cycle using Python,54
+3848374,25240154,629,Running Application using YARN,08:52,lecture,21,Apache Spark - Development Life Cycle using Python,54
+3848374,25240160,630,Detailed Validation of the Application,08:58,lecture,22,Apache Spark - Development Life Cycle using Python,54

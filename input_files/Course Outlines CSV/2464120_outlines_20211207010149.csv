@@ -1,0 +1,19 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+2464120,15504162,1,Introduction,02:10,lecture,1,Installing Python,1
+2464120,15504172,2,What is Python,05:17,lecture,2,Installing Python,1
+2464120,15504178,3,Installing Python on Windows,04:34,lecture,3,Installing Python,1
+2464120,15504184,4,Installing Python 3 on Macs,06:57,lecture,4,Installing Python,1
+2464120,15504222,5,Interacting with Python - Part 1,05:25,lecture,5,Installing Python,1
+2464120,15504224,6,Interacting with Python - Part 2,05:43,lecture,6,Installing Python,1
+2464120,15504236,7,Introduction,03:10,lecture,1,Python Operators,2
+2464120,15504244,8,Python Arithmetic Operators,06:15,lecture,2,Python Operators,2
+2464120,15504248,9,Python Assignment Operators,04:26,lecture,3,Python Operators,2
+2464120,15504270,10,Python  Comparison Operators,06:16,lecture,4,Python Operators,2
+2464120,15504274,11,Python Logical Operators,06:33,lecture,5,Python Operators,2
+2464120,15504286,12,Python Identity Operators,05:42,lecture,6,Python Operators,2
+2464120,15504298,13,Python Membership Operators,04:00,lecture,7,Python Operators,2
+2464120,15504302,14,Binary Numbers,09:12,lecture,8,Python Operators,2
+2464120,15504310,15,Python Bitwise Operators - Part 1,08:36,lecture,9,Python Operators,2
+2464120,15504312,16,Python Bitwise Operators - Part 2,05:43,lecture,10,Python Operators,2
+2464120,15504318,17,Python Operator Precedence,07:15,lecture,11,Python Operators,2
+2464120,26975186,18,Thank You,00:09,lecture,12,Python Operators,2

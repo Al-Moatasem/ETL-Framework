@@ -1,0 +1,17 @@
+course_id,lecture_id,lecture_index_global,lecture_title,lecture_duration,lecture_type,lecture_index_section,section_title,section_index
+2128424,13147034,1,Introduction,02:19,lecture,1,Introduction,1
+2128424,13180024,2,Course Overview,02:35,lecture,2,Introduction,1
+2128424,13180028,3,Quick and Important Note,00:44,lecture,3,Introduction,1
+2128424,13180072,4,Before the Meeting - Step 1: Decide on a Need & Objective,03:19,lecture,1,Before the Meeting,2
+2128424,13180516,5,Before the Meeting - Step 2: Define the Attendees & Draft an Agenda,04:05,lecture,2,Before the Meeting,2
+2128424,13180748,6,Before the Meeting - Step 3: Define Logistics & Schedule Meeting,04:54,lecture,3,Before the Meeting,2
+2128424,13180958,7,During the Meeting - Step 1: Welcome & Logistics Check,04:47,lecture,1,During the Meeting,3
+2128424,13183436,8,During the Meeting - Step 2: Go Through the Agenda,03:42,lecture,2,During the Meeting,3
+2128424,13183444,9,During the Meeting - Step 3: Capture Effective Meeting Minutes,03:27,lecture,3,During the Meeting,3
+2128424,13183452,10,During the Meeting - Step 4: Close with a Review,02:50,lecture,4,During the Meeting,3
+2128424,13183528,11,After the Meeting - Step 1: Distribute Meeting Minutes,02:15,lecture,1,After the Meeting,4
+2128424,13183530,12,After the Meeting - Step 2: Follow up on Actions,02:22,lecture,2,After the Meeting,4
+2128424,13183540,13,Meeting Scheduling Guidelines,04:22,lecture,1,Meeting Best Practices,5
+2128424,13183548,14,Coordinating Global Time Zones,05:37,lecture,2,Meeting Best Practices,5
+2128424,13281734,15,Thank you and next steps,00:24,lecture,1,Conclusion,6
+2128424,18494102,16,Bonus Lecture,01:52,lecture,2,Conclusion,6
