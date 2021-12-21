@@ -27,8 +27,16 @@ This project uses data scraped from random courses published on **UDEMY**, the d
    3. Views which will mimic the structure of data warehouse tables, they act as the **transformation** layer (business logic, and data cleansing).
    4. Data Warehouse tables.
    5. Utilities.
+   
 2. Rename `config-sample.json` to `config.json`, and `etl_metadata_sample.csv` to `etl_metadata.csv`, then adjust the values in these files to match your environment.
-3. Execute `main.py`, which will do the ETL jobs.
+
+3. Install required Python's modules
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Execute `main.py`, which will execute the ETL jobs.
    1. In `main.py` there are two Boolean variables `load_stg` and `load_dwh`, which control which part of the data pipeline is executed.
 
 
