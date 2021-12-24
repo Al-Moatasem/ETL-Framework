@@ -15,3 +15,6 @@ GO
 
 if not exists (select 1 from sys.schemas where name = N'dwh')
 EXEC ('CREATE SCHEMA dwh')
+
+if not exists (select 1 from sys.schemas where name = N'etl')
+EXEC ('CREATE SCHEMA etl')
