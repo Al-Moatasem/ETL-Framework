@@ -12,9 +12,8 @@ def connect_to_sqlserver_db_sqlalchemy(connection_info):
     
     cnxn_string = f'mssql+pyodbc://{username}:{password}@{server}/{database}?driver={driver}'
     engine = create_engine(cnxn_string, fast_executemany=True)
-    cnxn = engine.connect()
 
-    return cnxn
+    return engine
 
 def sql_truncate_table(schema, table_name, connection):
     connection.execution_options(autocommit=True).execute(f'TRUNCATE TABLE {schema}.{table_name}')
