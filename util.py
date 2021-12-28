@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 from fnmatch import fnmatch
 import pandas as pd
 from sqlalchemy import create_engine
@@ -48,3 +49,22 @@ def list_directory_files(path, mask='*'):
 
 def read_csv_pd(file_path):
     return pd.read_csv(file_path)
+
+def get_file_info(file_path):
+    file_info = {}
+    if os.path.isfile(file_path):
+        folder_path, file_name_ext = os.path.split(file_path)
+        file_name, file_extension = os.path.splitext(file_name_ext)
+        created_date_os = datetime.fromtimestamp(os.path.getctime(file_path))
+        created_date_os = datetime.strftime(created_date_os, '%Y-%m-%d %H:%M:%S')
+        created_date = datetime.strptime(file_name.split('_')[-1], '%Y%m%d%H%M%S')
+        created_date = datetime.strftime(created_date, '%Y-%m-%d %H:%M:%S')
+        
+        file_info['folder_path'] = folder_path
+        file_info['file_name_ext'] = file_name_ext
+        file_info['file_name'] = file_name
+        file_info['file_extension'] = file_extension
+        file_info['created_date_os'] = created_date_os
+        file_info['created_date'] = created_date
+    
+    return file_info
