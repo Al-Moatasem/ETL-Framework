@@ -13,6 +13,13 @@
             "database" : "UDEMY", 
             "username" : "sa", 
             "password" : "p@ssword"
+        },
+        "sqlserver_etl" : {
+            "server" : "localhost", 
+            "driver" : "SQL Server", 
+            "database" : "UDEMY", 
+            "username" : "sa", 
+            "password" : "p@ssword"
         }
     }
 }
