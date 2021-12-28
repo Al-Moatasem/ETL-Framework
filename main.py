@@ -14,6 +14,7 @@ if __name__ == '__main__':
         config = json.load(config_file)
         connection_info_staging = config['database']['sqlserver_stg']
         connection_info_dwh = config['database']['sqlserver_dw']
+        connection_info_etl = config['database']['sqlserver_etl']
 
     etl_metadata = read_csv_pd('etl_metadata.csv')
 
@@ -24,7 +25,7 @@ if __name__ == '__main__':
         for row in etl_metadata_stg.itertuples():
             path = row.path
             schema_target, table_name = row.table_name_target.split('.')
-            read_file_load_db_table(path, schema_target, table_name, connection_info_staging)
+            read_file_load_db_table(path, schema_target, table_name, connection_info_staging, connection_info_etl)
 
     # Executing the ETL packages for DWH layer
     if load_dwh:
@@ -34,4 +35,4 @@ if __name__ == '__main__':
             schema_stg, table_name = row.table_name_source.split('.')
             schema_dwh, table_name = row.table_name_target.split('.')
 
-            dwh_truncate_and_load(table_name, schema_stg, schema_dwh, connection_info_staging, connection_info_dwh)
+            dwh_truncate_and_load(table_name, schema_stg, schema_dwh, connection_info_staging, connection_info_dwh, connection_info_etl)
