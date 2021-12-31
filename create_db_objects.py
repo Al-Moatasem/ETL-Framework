@@ -26,3 +26,9 @@ os.system(
     rf"sqlcmd -S {src_server} -E -i sql_server_scripts\301_create_views_stg_to_dwh.sql"
 )
 os.system(rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\401_create_dwh_tables.sql")
+os.system(
+    rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\501_create_etl_audit_table.sql"
+)
+os.system(
+    rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\502_create_usp_audit_insert_update.sql"
+)
