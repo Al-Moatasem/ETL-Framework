@@ -1,25 +1,25 @@
 {
-    "database" : {
-        "sqlserver_stg" : {
-            "server" : "localhost", 
-            "driver" : "SQL Server", 
-            "database" : "UDEMY", 
-            "username" : "sa", 
-            "password" : "p@ssword"
+    "database": {
+        "sqlserver_stg": {
+            "server": "localhost",
+            "driver": "SQL Server",
+            "database": "UDEMY",
+            "username": "sa",
+            "password": "p@ssword"
         },
-        "sqlserver_dw" : {
-            "server" : "localhost", 
-            "driver" : "SQL Server", 
-            "database" : "UDEMY", 
-            "username" : "sa", 
-            "password" : "p@ssword"
+        "sqlserver_dw": {
+            "server": "localhost",
+            "driver": "SQL Server",
+            "database": "UDEMY",
+            "username": "sa",
+            "password": "p@ssword"
         },
-        "sqlserver_etl" : {
-            "server" : "localhost", 
-            "driver" : "SQL Server", 
-            "database" : "UDEMY", 
-            "username" : "sa", 
-            "password" : "p@ssword"
+        "sqlserver_etl": {
+            "server": "localhost",
+            "driver": "SQL Server",
+            "database": "UDEMY",
+            "username": "sa",
+            "password": "p@ssword"
         }
     }
 }
