@@ -1,4 +1,3 @@
-import json
 from util import (
     connect_to_sqlserver_db_sqlalchemy,
     sql_truncate_table,
@@ -58,6 +57,7 @@ def dwh_truncate_and_load(
 
 
 if __name__ == "__main__":
+    import json
 
     with open("config.json", "r") as config_file:
         config = json.load(config_file)

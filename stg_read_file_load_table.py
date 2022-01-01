@@ -6,7 +6,6 @@ from util import (
     sql_insert_into,
 )
 from etl_audit import insert_audit_record, Update_audit_record, count_table_records
-import json
 
 
 def read_file_load_db_table(
@@ -61,6 +60,7 @@ def read_file_load_db_table(
 
 
 if __name__ == "__main__":
+    import json
 
     with open("config.json", "r") as config_file:
         config = json.load(config_file)
