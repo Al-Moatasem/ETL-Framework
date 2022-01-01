@@ -38,7 +38,16 @@ def dwh_truncate_and_load(
 
     # Inserting data into destination table
     print(f"Inserting into {table_name}")
-    sql_insert_into(src_dataframe, schema_target, table_name, cnxn_target)
+    rows_inserted = None
+    rows_rejected = None
+
+    try:
+        sql_insert_into(
+            src_dataframe, schema_target, table_name, cnxn_target, audit_key
+        )
+        rows_inserted = src_dataframe.shape[0]
+    except:
+        rows_rejected = src_dataframe.shape[0]
 
     final_row_count = count_table_records(cnxn_target, schema_target, table_name)
 
@@ -47,9 +56,9 @@ def dwh_truncate_and_load(
         audit_key,
         initial_row_count=initial_row_count,
         rows_extracted=rows_extracted,
-        # rows_inserted = rows_inserted,
+        rows_inserted=rows_inserted,
         # rows_updated = 0,
-        # rows_rejected = rows_rejected,
+        rows_rejected=rows_rejected,
         final_row_count=final_row_count,
     )
 
