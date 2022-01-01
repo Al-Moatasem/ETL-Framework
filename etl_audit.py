@@ -1,5 +1,5 @@
 def insert_audit_record(
-    connection, parent_audit_key, etl_job_name, src_file_name, table_name
+    connection, parent_audit_key, etl_job_name, table_name, src_file_name=None
 ):
 
     cnxn = connection.connect()
