@@ -14,7 +14,6 @@ List of improvements/fixes to be implemented as the next steps, -no particular o
       4. `dw_master` for master jobs, if exists.
    3. Review `Update_audit_record` in `etl_audit.py`, replace the counters with a dict or two lists, one for column names, and the other list for values.
    4. **Fix** ParentAuditKey, currently, it is usinge a contstant value (-1).
-   5. Review `insert_audit_record` in `etl_audit.py`, the function inserts empty string while processing data warehouse tables, it should be `null`.
    6. Store the number of inserted records while processing dimensional model.
       1. The engine/connection/cursor has an option for the number of affected records after executing the sql statement.
 5. Check if the file doesn't exists -in case of archiving the file after the loading into staging table-, skip the ETL process
