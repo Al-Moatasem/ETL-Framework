@@ -9,6 +9,9 @@ with open("config.json", "r") as config_file:
     trg_connection_info = config["database"]["sqlserver_dw"]
     trg_server = trg_connection_info["server"]
 
+    etl_connection_info = config["database"]["sqlserver_etl"]
+    etl_server = etl_connection_info["server"]
+
 # sqlcmd doc https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility?redirectedfrom=MSDN&view=sql-server-ver15
 
 # same commands are stored on a batch file
@@ -27,10 +30,10 @@ os.system(
 )
 os.system(rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\401_create_dwh_tables.sql")
 os.system(
-    rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\501_create_etl_audit_table.sql"
+    rf"sqlcmd -S {etl_server} -E -i sql_server_scripts\501_create_etl_audit_table.sql"
 )
 os.system(
-    rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\502_create_usp_audit_insert_update.sql"
+    rf"sqlcmd -S {etl_server} -E -i sql_server_scripts\502_create_usp_audit_insert_update.sql"
 )
 os.system(
     rf"sqlcmd -S {etl_server} -E -i sql_server_scripts\503_Add_AuditKey_to_dwh_tables.sql"
