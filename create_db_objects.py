@@ -32,3 +32,6 @@ os.system(
 os.system(
     rf"sqlcmd -S {trg_server} -E -i sql_server_scripts\502_create_usp_audit_insert_update.sql"
 )
+os.system(
+    rf"sqlcmd -S {etl_server} -E -i sql_server_scripts\503_Add_AuditKey_to_dwh_tables.sql"
+)
