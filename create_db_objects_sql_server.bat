@@ -12,6 +12,7 @@ sqlcmd -S %src_server% -E -i sql_server_scripts\301_create_views_stg_to_dwh.sql
 sqlcmd -S %trg_server% -E -i sql_server_scripts\401_create_dwh_tables.sql
 sqlcmd -S %etl_server% -E -i sql_server_scripts\501_create_etl_audit_table.sql
 sqlcmd -S %etl_server% -E -i sql_server_scripts\502_create_usp_audit_insert_update.sql
-sqlcmd -S %etl_server% -E -i sql_server_scripts\503_Add_AuditKey_to_dwh_tables.sql
+sqlcmd -S %trg_server% -E -i sql_server_scripts\402_add_audit_key_to_dwh_tables.sql
+sqlcmd -S %src_server% -E -i sql_server_scripts\202_add_audit_key_to_stg_tables.sql
 
 :: pause
