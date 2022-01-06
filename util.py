@@ -33,11 +33,8 @@ def sql_select_from(schema, table_name, connection):
 
 
 def sql_insert_into(
-    dataframe, schema, table_name, connection, audit_key=None, chunk_size=10000
+    dataframe, schema, table_name, connection, audit_key, chunk_size=10000
 ):
-    # AuditKey column is existing only on dwh tables, not stg
-    if audit_key:
-        dataframe["AuditKey"] = audit_key
 
     dataframe.to_sql(
         name=table_name,

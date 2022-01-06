@@ -38,7 +38,7 @@ def read_file_load_db_table(
     # Inserting data into destination table
     print(f"Inserting into {table_name}, {file_name}")
 
-    sql_insert_into(df, schema_target, table_name, cnxn_target)
+    sql_insert_into(df, schema_target, table_name, cnxn_target, audit_key)
     rows_inserted = df.shape[0]
 
     rows_rejected = df.shape[0]
