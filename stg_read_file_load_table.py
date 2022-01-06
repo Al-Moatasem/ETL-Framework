@@ -4,46 +4,44 @@ from util import (
     connect_to_sqlserver_db_sqlalchemy,
     sql_truncate_table,
     sql_insert_into,
+    get_file_info,
 )
 from etl_audit import insert_audit_record, Update_audit_record, count_table_records
 
 
 def read_file_load_db_table(
-    path,
+    src_file_path,
     schema_target,
     table_name,
     connection_info_target,
     connection_info_etl,
-    mask="*",
+    truncate_trg_table=True,
 ):
     cnxn_target = connect_to_sqlserver_db_sqlalchemy(connection_info_target)
     cnxn_etl = connect_to_sqlserver_db_sqlalchemy(connection_info_etl)
 
+    file_name = get_file_info(src_file_path).get("file_name_ext")
     audit_key = insert_audit_record(
-        cnxn_etl, -1, f"stg loading {table_name}", table_name, path
+        cnxn_etl, -1, f"stg loading {table_name}", table_name, file_name
     )
 
     initial_row_count = count_table_records(cnxn_target, schema_target, table_name)
 
-    print(f"Truncating {table_name}")
-    # Truncating the destination table
-    sql_truncate_table(schema_target, table_name, cnxn_target)
+    if truncate_trg_table:
+        print(f"Truncating {table_name}")
+        # Truncating the destination table
+        sql_truncate_table(schema_target, table_name, cnxn_target)
 
-    rows_extracted = 0
-    rows_inserted = 0
-    rows_rejected = 0
+    df = read_csv_pd(src_file_path)
+    rows_extracted = df.shape[0]
 
-    for file in list_directory_files(path, mask):
-        df = read_csv_pd(file)
-        rows_extracted += df.shape[0]
+    # Inserting data into destination table
+    print(f"Inserting into {table_name}, {file_name}")
 
-        # Inserting data into destination table
-        print(f"Inserting into {table_name}, {file}")
-        try:
-            sql_insert_into(df, schema_target, table_name, cnxn_target)
-            rows_inserted += df.shape[0]
-        except:
-            rows_rejected += df.shape[0]
+    sql_insert_into(df, schema_target, table_name, cnxn_target)
+    rows_inserted = df.shape[0]
+
+    rows_rejected = df.shape[0]
 
     final_row_count = count_table_records(cnxn_target, schema_target, table_name)
 
@@ -59,6 +57,31 @@ def read_file_load_db_table(
     )
 
 
+def loop_dir_files_load_db_table(
+    path,
+    schema_target,
+    table_name,
+    connection_info_target,
+    connection_info_etl,
+    files_mask="*",
+):
+    for idx, file in enumerate(list_directory_files(path, files_mask)):
+        truncate_trg_table = True
+
+        # Truncate target table with the first iteration only.
+        if idx:
+            truncate_trg_table = False
+
+        read_file_load_db_table(
+            file,
+            schema_target,
+            table_name,
+            connection_info_target,
+            connection_info_etl,
+            truncate_trg_table,
+        )
+
+
 if __name__ == "__main__":
     import json
 
@@ -70,6 +93,10 @@ if __name__ == "__main__":
     course_lectures = r"input_files\Course Outlines CSV"
     table_name = "CourseLectures"
 
-    read_file_load_db_table(
-        course_lectures, "stg", table_name, connection_info_target, connection_info_etl
+    loop_dir_files_load_db_table(
+        course_lectures,
+        "stg",
+        table_name,
+        connection_info_target,
+        connection_info_etl,
     )

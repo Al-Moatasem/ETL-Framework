@@ -1,8 +1,8 @@
 import pandas as pd
 import json
-from stg_read_file_load_table import read_file_load_db_table
+from stg_read_file_load_table import loop_dir_files_load_db_table
 from dwh_truncate_load_table import dwh_truncate_and_load
-from util import read_csv_pd
+from util import read_csv_pd, list_directory_files
 
 load_stg = 1
 load_dwh = 1
@@ -27,7 +27,8 @@ if __name__ == "__main__":
         for row in etl_metadata_stg.itertuples():
             path = row.path
             schema_target, table_name = row.table_name_target.split(".")
-            read_file_load_db_table(
+
+            loop_dir_files_load_db_table(
                 path,
                 schema_target,
                 table_name,
