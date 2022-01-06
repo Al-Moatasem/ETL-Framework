@@ -18,4 +18,6 @@ List of improvements/fixes to be implemented as the next steps, -no particular o
       1. The engine/connection/cursor has an option for the number of affected records after executing the sql statement.
 5. Check if the file doesn't exists -in case of archiving the file after the loading into staging table-, skip the ETL process
    1. same goes with the folder, if there are no files that match a certain pattern
-6. Building separate ETL jobs for Incremental Load
+6. Building separate ETL jobs for Incremental Load.
+7. Creating a new ETL job for Extracting (STG) data from a table in a database
+   1. Currently, there is no business need for this ETL job, but adding it to the framework will be a good addition.
