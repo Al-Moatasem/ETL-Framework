@@ -7,10 +7,10 @@ IF NOT EXISTS (SELECT 1 FROM sys.tables WHERE OBJECT_ID = OBJECT_ID('etl.Audit')
 
 CREATE TABLE etl.Audit(
 	AuditKey INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-	ParentAuditKey INT NOT NULL,
+	ParentAuditKey INT NULL,
 	ETLJobName NVARCHAR(255) NOT NULL,
 	FileName NVARCHAR(255) NULL, -- While extracting data
-	TableName NVARCHAR(255) NOT NULL, -- target table
+	TableName NVARCHAR(255) NULL, -- target table
 	StartDate DATETIME NOT NULL DEFAULT GETDATE(),
 	EndDate DATETIME NULL,
 	InitialRowCount INT NULL,
