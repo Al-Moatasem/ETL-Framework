@@ -36,6 +36,8 @@ def sql_insert_into(
     dataframe, schema, table_name, connection, audit_key, chunk_size=10000
 ):
 
+    dataframe["AuditKey"] = audit_key
+
     dataframe.to_sql(
         name=table_name,
         con=connection,
