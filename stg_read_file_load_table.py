@@ -22,7 +22,7 @@ def read_file_load_db_table(
 
     file_name = get_file_info(src_file_path).get("file_name_ext")
     audit_key = insert_audit_record(
-        cnxn_etl, -1, f"stg loading {table_name}", table_name, file_name
+        cnxn_etl, f"stg loading {table_name}", -1, table_name, file_name
     )
 
     initial_row_count = count_table_records(cnxn_target, schema_target, table_name)

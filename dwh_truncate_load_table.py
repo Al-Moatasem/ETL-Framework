@@ -22,7 +22,7 @@ def dwh_truncate_and_load(
     cnxn_etl = connect_to_sqlserver_db_sqlalchemy(connection_info_etl)
 
     audit_key = insert_audit_record(
-        cnxn_etl, -1, f"dwh loading {table_name}", table_name
+        cnxn_etl, f"dwh loading {table_name}", -1, table_name
     )
 
     initial_row_count = count_table_records(cnxn_target, schema_target, table_name)
