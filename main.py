@@ -1,14 +1,13 @@
-import pandas as pd
-import json
 from stg_read_file_load_table import loop_dir_files_load_db_table
 from dwh_truncate_load_table import dwh_truncate_and_load
-from util import read_csv_pd, list_directory_files
+from util import read_csv_pd
 
 load_stg = 1
 load_dwh = 1
 
 
 if __name__ == "__main__":
+    import json
 
     with open("config.json", "r") as config_file:
         config = json.load(config_file)
