@@ -11,6 +11,11 @@ GO
 CREATE FUNCTION stg.ConvertDurationToMinutes(
 	@duration as nvarchar(4000)
 )
+/* Examples
+SELECT stg.ConvertDurationToMinutes(N'309m') as q
+SELECT stg.ConvertDurationToMinutes(N'56m') as q
+SELECT stg.ConvertDurationToMinutes(N'7h 2m') as q
+*/
 RETURNS INT
 AS
 BEGIN
@@ -35,9 +40,3 @@ BEGIN
 END
 GO
 
-/*
-7h 2m
-56m
-
-SELECT stg.ConvertDurationToMinutes(N'309m') as q
-*/
