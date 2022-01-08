@@ -1,9 +1,9 @@
-id,name,enabled,layer,path,filter_files,table_name_source,table_name_target
-1,CourseBasicInfo,1,staging,input_files\Course_basic_info_20211207005054.csv,,,stg.CourseBasicInfo
-2,CourseInstructors,1,staging,input_files\Courses_instractors_20211207005054.csv,,,stg.CourseInstructors
-3,CourseLectures,1,staging,input_files\Course Outlines CSV,,,stg.CourseLectures
-4,DimCourse,1,data warehouse,,,stg.DimCourse,dwh.DimCourse
-5,DimInstructor,1,data warehouse,,,stg.DimInstructor,dwh.DimInstructor
-6,BridgeCourseInstructor,1,data warehouse,,,stg.BridgeCourseInstructor,dwh.BridgeCourseInstructor
-7,FactCourseLecture,1,data warehouse,,,stg.FactCourseLecture,dwh.FactCourseLecture
-8,tmp,0,,,,,
+id,name,enabled,layer,path,filter_files,table_name_source,table_name_target,archive_path
+1,CourseBasicInfo,1,staging,input_files,Course_basic_info_*.csv,,stg.CourseBasicInfo,processed
+2,CourseInstructors,1,staging,input_files,Courses_instructors_*.csv,,stg.CourseInstructors,processed
+3,CourseLectures,1,staging,input_files\Course Outlines CSV,*_outlines_*.csv,,stg.CourseLectures,processed\Course Outlines CSV
+4,DimCourse,1,data warehouse,,,stg.DimCourse,dwh.DimCourse,
+5,DimInstructor,1,data warehouse,,,stg.DimInstructor,dwh.DimInstructor,
+6,BridgeCourseInstructor,1,data warehouse,,,stg.BridgeCourseInstructor,dwh.BridgeCourseInstructor,
+7,FactCourseLecture,1,data warehouse,,,stg.FactCourseLecture,dwh.FactCourseLecture,
+8,tmp,0,,,,,,
