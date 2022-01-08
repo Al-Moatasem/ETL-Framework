@@ -3,6 +3,7 @@ from datetime import datetime
 from fnmatch import fnmatch
 import pandas as pd
 from sqlalchemy import create_engine
+import shutil
 
 
 def connect_to_sqlserver_db_sqlalchemy(connection_info):
@@ -84,3 +85,21 @@ def get_file_info(file_path):
         file_info["created_date"] = created_date
 
     return file_info
+
+
+def create_archive_directories(etl_metadata):
+    archive_path = etl_metadata["archive_path"][
+        etl_metadata["archive_path"].isna() != True
+    ].unique()
+    for row in archive_path:
+        if not os.path.exists(row):
+            os.makedirs(row)
+
+
+def archive_processed_file(source_file, archiving_path, move_file=True):
+    if not os.path.exists(archiving_path):
+        os.makedirs(archiving_path)
+
+    shutil.copy(source_file, archiving_path)
+    if move_file:
+        os.remove(source_file)

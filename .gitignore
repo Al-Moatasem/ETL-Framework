@@ -2,3 +2,4 @@ __pycache__
 **/_draft
 config.json
 etl_metadata.csv
+processed
