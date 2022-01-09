@@ -5,6 +5,7 @@ from util import (
     sql_insert_into,
 )
 from etl_audit import insert_audit_record, Update_audit_record, count_table_records
+from log import log_msg
 
 
 def dwh_truncate_and_load(
@@ -17,7 +18,8 @@ def dwh_truncate_and_load(
     parent_audit_key,
 ):
 
-    print(f" {table_name} ".center(50, "-"))
+    log_msg(f"[ETL Job Start] - DWH truncate and load {table_name}")
+
     cnxn_stg = connect_to_sqlserver_db_sqlalchemy(connection_info_source)
     cnxn_target = connect_to_sqlserver_db_sqlalchemy(connection_info_target)
     cnxn_etl = connect_to_sqlserver_db_sqlalchemy(connection_info_etl)
@@ -28,17 +30,14 @@ def dwh_truncate_and_load(
 
     initial_row_count = count_table_records(cnxn_target, schema_target, table_name)
 
-    print(f"Truncating {table_name}")
     # Truncating the destination table
     sql_truncate_table(schema_target, table_name, cnxn_target)
 
     # Selecting data from source table
-    print(f"Selecting from {table_name}")
     src_dataframe = sql_select_from(schema_source, table_name, cnxn_stg)
     rows_extracted = src_dataframe.shape[0]
 
     # Inserting data into destination table
-    print(f"Inserting into {table_name}")
     rows_inserted = None
     rows_rejected = None
 
@@ -63,7 +62,7 @@ def dwh_truncate_and_load(
         final_row_count=final_row_count,
     )
 
-    print(f" End of processing {table_name} ".center(50, "-"))
+    log_msg(f"[ETL Job End] - DWH truncate and load {table_name}")
 
 
 if __name__ == "__main__":
