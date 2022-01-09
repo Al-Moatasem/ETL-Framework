@@ -1,6 +1,11 @@
+from log import log_msg
+
+
 def insert_audit_record(
     connection, etl_job_name, parent_audit_key=None, table_name=None, src_file_name=None
 ):
+
+    log_msg("Inserting a record into etl.Audit")
 
     cnxn = connection.connect()
     transaction = cnxn.begin()
@@ -30,6 +35,7 @@ def Update_audit_record(
     rows_rejected=None,
     final_row_count=None,
 ):
+    log_msg("Updating etl.Audit record")
 
     cnxn = connection.connect()
     transaction = cnxn.begin()

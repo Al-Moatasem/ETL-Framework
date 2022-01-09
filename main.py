@@ -9,9 +9,12 @@ from util import (
     connect_to_sqlserver_db_sqlalchemy,
     list_directory_files,
 )
+from log import log_msg
 
 
 def execute_staging_master(etl_metadata, connection_info_etl, parent_audit_key):
+
+    log_msg("[ETL Job Start] - Starting of Staging Master")
 
     etl_metadata_stg = etl_metadata[
         (etl_metadata["enabled"] == 1) & (etl_metadata["layer"] == "staging")
@@ -54,8 +57,12 @@ def execute_staging_master(etl_metadata, connection_info_etl, parent_audit_key):
         audit_key,
     )
 
+    log_msg("[ETL Job End] - Ending of Staging Master")
+
 
 def execute_dwh_master(etl_metadata, connection_info_etl, parent_audit_key):
+
+    log_msg("[ETL Job Start] - Starting of data warehouse Master")
 
     etl_metadata_dwh = etl_metadata[
         (etl_metadata["enabled"] == 1) & (etl_metadata["layer"] == "data warehouse")
@@ -84,6 +91,8 @@ def execute_dwh_master(etl_metadata, connection_info_etl, parent_audit_key):
         audit_key,
     )
 
+    log_msg("[ETL Job End] - Ending of data warehouse Master")
+
 
 def execute_master(
     etl_metadata,
@@ -91,6 +100,8 @@ def execute_master(
     execute_staging=True,
     execute_dwh=True,
 ):
+
+    log_msg("[ETL Job Start] - Starting of Master Job")
 
     cnxn_etl = connect_to_sqlserver_db_sqlalchemy(connection_info_etl)
 
@@ -110,6 +121,8 @@ def execute_master(
         cnxn_etl,
         audit_key,
     )
+
+    log_msg("[ETL Job End] - Ending of Master Job")
 
 
 if __name__ == "__main__":

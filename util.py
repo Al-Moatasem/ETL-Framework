@@ -4,6 +4,7 @@ from fnmatch import fnmatch
 import pandas as pd
 from sqlalchemy import create_engine
 import shutil
+from log import log_msg
 
 
 def connect_to_sqlserver_db_sqlalchemy(connection_info):
@@ -12,6 +13,8 @@ def connect_to_sqlserver_db_sqlalchemy(connection_info):
     server = connection_info["server"]
     database = connection_info["database"]
     driver = connection_info["driver"]
+
+    log_msg(f"Creating a connection to {server} - {database} database")
 
     cnxn_string = (
         f"mssql+pyodbc://{username}:{password}@{server}/{database}?driver={driver}"
@@ -22,12 +25,18 @@ def connect_to_sqlserver_db_sqlalchemy(connection_info):
 
 
 def sql_truncate_table(schema, table_name, connection):
+
+    log_msg(f"Truncating {table_name}")
+
     connection.execution_options(autocommit=True).execute(
         f"TRUNCATE TABLE {schema}.{table_name}"
     )
 
 
 def sql_select_from(schema, table_name, connection):
+
+    log_msg(f"Selecting from {table_name}")
+
     qry = f"SELECT * FROM {schema}.{table_name}"
     df = pd.read_sql_query(qry, connection)
     return df
@@ -36,6 +45,8 @@ def sql_select_from(schema, table_name, connection):
 def sql_insert_into(
     dataframe, schema, table_name, connection, audit_key, chunk_size=10000
 ):
+
+    log_msg(f"Inserting into {table_name}")
 
     dataframe["AuditKey"] = audit_key
 
@@ -64,6 +75,9 @@ def list_directory_files(path, mask="*"):
 
 
 def read_csv_pd(file_path):
+
+    log_msg(f"Reading {file_path}")
+
     return pd.read_csv(file_path)
 
 
