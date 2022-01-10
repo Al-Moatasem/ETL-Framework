@@ -4,7 +4,7 @@ from fnmatch import fnmatch
 import pandas as pd
 from sqlalchemy import create_engine
 import shutil
-from log import log_msg
+from .log import log_msg
 
 
 def connect_to_sqlserver_db_sqlalchemy(connection_info):
@@ -111,9 +111,13 @@ def create_archive_directories(etl_metadata):
 
 
 def archive_processed_file(source_file, archiving_path, move_file=True):
-    if not os.path.exists(archiving_path):
-        os.makedirs(archiving_path)
 
-    shutil.copy(source_file, archiving_path)
+    project_directory = os.path.dirname(os.path.dirname(__file__))
+    abs_archiving_path = os.path.join(project_directory, archiving_path)
+
+    if not os.path.exists(abs_archiving_path):
+        os.makedirs(abs_archiving_path)
+
+    shutil.copy(source_file, abs_archiving_path)
     if move_file:
         os.remove(source_file)
