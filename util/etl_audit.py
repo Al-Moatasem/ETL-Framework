@@ -1,4 +1,4 @@
-from log import log_msg
+from .log import log_msg
 
 
 def insert_audit_record(
