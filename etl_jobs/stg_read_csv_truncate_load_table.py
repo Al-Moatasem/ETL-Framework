@@ -6,11 +6,7 @@ from util.util import (
     sql_insert_into,
     get_file_info,
 )
-from util.etl_audit import (
-    insert_audit_record,
-    Update_audit_record,
-    count_table_records,
-)
+from util.etl_audit import insert_audit_record, Update_audit_record, count_table_records
 from util.log import log_msg
 
 
