@@ -1,4 +1,4 @@
-from util import (
+from util.util import (
     list_directory_files,
     read_csv_pd,
     connect_to_sqlserver_db_sqlalchemy,
@@ -6,8 +6,12 @@ from util import (
     sql_insert_into,
     get_file_info,
 )
-from etl_audit import insert_audit_record, Update_audit_record, count_table_records
-from log import log_msg
+from util.etl_audit import (
+    insert_audit_record,
+    Update_audit_record,
+    count_table_records,
+)
+from util.log import log_msg
 
 
 def read_file_load_db_table(
@@ -91,24 +95,3 @@ def loop_dir_files_load_db_table(
             parent_audit_key,
             truncate_trg_table,
         )
-
-
-if __name__ == "__main__":
-    import json
-
-    with open("config.json", "r") as config_file:
-        config = json.load(config_file)
-        connection_info_target = config["database"]["sqlserver_stg"]
-        connection_info_etl = config["database"]["sqlserver_etl"]
-
-    course_lectures = r"input_files\Course Outlines CSV"
-    table_name = "CourseLectures"
-
-    loop_dir_files_load_db_table(
-        course_lectures,
-        "stg",
-        table_name,
-        connection_info_target,
-        connection_info_etl,
-        -1,
-    )
