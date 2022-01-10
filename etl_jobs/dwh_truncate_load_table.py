@@ -1,11 +1,11 @@
-from util import (
+from util.util import (
     connect_to_sqlserver_db_sqlalchemy,
     sql_truncate_table,
     sql_select_from,
     sql_insert_into,
 )
-from etl_audit import insert_audit_record, Update_audit_record, count_table_records
-from log import log_msg
+from util.etl_audit import insert_audit_record, Update_audit_record, count_table_records
+from util.log import log_msg
 
 
 def dwh_truncate_and_load(
@@ -63,31 +63,3 @@ def dwh_truncate_and_load(
     )
 
     log_msg(f"[ETL Job End] - DWH truncate and load {table_name}")
-
-
-if __name__ == "__main__":
-    import json
-
-    with open("config.json", "r") as config_file:
-        config = json.load(config_file)
-        connection_info_stg = config["database"]["sqlserver_stg"]
-        connection_info_target = config["database"]["sqlserver_dw"]
-        connection_info_etl = config["database"]["sqlserver_etl"]
-
-    tables = [
-        "DimCourse",
-        "DimInstructor",
-        "FactCourseLecture",
-        "BridgeCourseInstructor",
-    ]
-
-    for table_name in tables:
-        dwh_truncate_and_load(
-            table_name,
-            "stg",
-            "dwh",
-            connection_info_stg,
-            connection_info_target,
-            connection_info_etl,
-            -1,
-        )
